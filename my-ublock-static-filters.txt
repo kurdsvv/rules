@@ -1,0 +1,491 @@
+! 2022-09-23 https://www.youtube.com
+www.youtube.com###comments
+
+
+! 2021-09-30 https://mp.weixin.qq.com
+mp.weixin.qq.com##.qr_code_pc
+mp.weixin.qq.com##.rich_media_area_extra
+mp.weixin.qq.com##.js_darkmode__291.__bg_gif.wxw-img.rich_pages
+
+
+
+! 2022-10-02 https://www.douyu.com
+www.douyu.com##.RandomPKBar-content
+||shark2.douyucdn.cn/front-publish/live-master/assets/images/open_b8efb48.webp$image
+www.douyu.com##.is-show.ActBase.ACTDrillPowder202209
+www.douyu.com##.is-show.ActBase.PlayATrick
+www.douyu.com##.ToolbarActivityArea
+www.douyu.com##.layout-Aside
+
+! 2022-10-03 https://www.douyu.com
+www.douyu.com##.layout-Bottom
+
+! 2022-10-21 https://www.douyu.com
+||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/logo_1b3821c.png$image
+www.douyu.com##.LSPRoot-logo
+||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/gift-album_630af8a.png$image
+www.douyu.com##.LSPMission
+www.douyu.com##.ActBase-switchWrap
+
+! 2022-10-22 https://www.douyu.com
+||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/gift-album_630af8a.png$image
+www.douyu.com##.ActRotation
+
+! 2022-10-29 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.ACTPANDORABOX
+www.douyu.com##.is-show.ActBase.HALLOWEENACT202211
+
+
+
+
+! 2022-12-21 https://watchfreekav.com
+watchfreekav.com##.af-middle-header
+watchfreekav.com##.menu-item-12688.menu-item-object-category.menu-item-type-taxonomy.menu-item
+watchfreekav.com##[href="https://ufaexpert.com/redirect/strip.php"]
+watchfreekav.com##.menu-item-12689.menu-item-object-custom.menu-item-type-custom.menu-item
+watchfreekav.com##.darknews-header.header-layout-default
+
+! 2022-12-21 https://thekbjcam.com
+thekbjcam.com##.br-bottom-10.site-footer
+thekbjcam.com###main > .widget-title
+thekbjcam.com##.site-header
+thekbjcam.com##.under-video-block
+thekbjcam.com##.entry-content
+
+! 2022-12-21 https://kbjav.com
+kbjav.com##.br-bottom-10.site-footer
+kbjav.com##.main-navigation
+kbjav.com##.row.site-branding
+kbjav.com###main > .widget-title
+kbjav.com##.archive-description
+kbjav.com##.under-video-block
+kbjav.com##.entry-content
+
+! 2022-12-21 https://sexbjcam.com
+sexbjcam.com##.site-header
+sexbjcam.com##.site-footer
+sexbjcam.com##.under-video-block
+sexbjcam.com##.entry-content
+
+! 2022-12-21 https://sexbjtv.com
+sexbjtv.com##.site-header
+sexbjtv.com##.br-bottom-10.site-footer
+sexbjtv.com##.archive-description
+sexbjtv.com##.under-video-block
+sexbjtv.com##.entry-content
+
+! 2022-12-21 https://thebjav.com
+thebjav.com##.row.site-branding
+thebjav.com##.site-footer
+thebjav.com##.site-header
+
+! 2022-12-21 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.related_keywords
+jp.spankbang.com##.info
+jp.spankbang.com##.timeline
+jp.spankbang.com##.similar
+jp.spankbang.com##.right
+jp.spankbang.com##header
+
+! 2022-12-21 https://clipsex.video
+clipsex.video##div.new:nth-of-type(11)
+clipsex.video##div.new:nth-of-type(13)
+
+! 2022-12-21 https://taiav.com
+taiav.com##.uk-first-column.uk-grid-margin.uk-margin-medium-top.videos-box.uk-width-5-6\@m.uk-width-1-1
+taiav.com##.uk-width-1-6\@m.uk-width-1-1
+taiav.com##.uk-flex-wrap.uk-flex-between.uk-flex.footer.uk-margin-top.uk-container
+taiav.com##.tm-navbar-container.uk-sticky-fixed.uk-sticky.uk-navbar-container.uk-light
+
+! 2022-12-21 https://www.xngel.com
+www.xngel.com##.row.footer-container
+www.xngel.com##.pt_video_comments.pt_shadow.content.comments-content
+www.xngel.com##div.col-md-6:nth-of-type(1)
+www.xngel.com##.desktop.pull-right.no-padding-left.col-md-4
+
+! 2022-12-21 https://hotwap.net
+hotwap.net##.cat-width > .cat-box
+hotwap.net##.cat-control > .top-links
+hotwap.net##.head
+
+! 2022-12-21 https://www.camperks.com
+www.camperks.com##.filter
+www.camperks.com###list_albums_albums_list_search_result_items
+www.camperks.com##.footer-wrap
+www.camperks.com##.sidebar
+www.camperks.com##.text
+www.camperks.com##nav
+www.camperks.com##.top-links
+www.camperks.com##.header
+www.camperks.com##.new-hdr-block
+
+! 2022-12-21 https://spankbang.com
+spankbang.com##footer
+spankbang.com##div.video-list-with-ads.video-rotate.video-list:nth-of-type(4)
+spankbang.com##.similar
+spankbang.com##.right
+spankbang.com##.embed
+spankbang.com##.timeline
+spankbang.com##.main_nav_2
+
+! 2022-12-21 https://avgle.com
+avgle.com##.footer-links
+avgle.com##.footer-banner
+avgle.com##div.well-filters.well:nth-of-type(4)
+avgle.com##.footer
+avgle.com##div.col-md-3:nth-of-type(2)
+avgle.com##div.well-filters.well > .clearfix
+avgle.com##.col-md-9 > .well-sm.well
+avgle.com##.navbar-fixed-top.navbar-inverse.navbar
+avgle.com###exo-native
+avgle.com##.top-menu > .clearfix
+avgle.com##.top-nav
+avgle.com###wrapper > div > center
+avgle.com##.m-b-20.tab-content > .in.active.fade.tab-pane
+avgle.com##.container > .nav-tabs.nav
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(18)
+avgle.com##.col-sm-5.col-md-4
+avgle.com##.col-lg-12
+avgle.com##div.alert-danger.alert-dismissable.alert:nth-of-type(19)
+
+! 2022-12-21 https://sexkbj.com
+sexkbj.com##.site-footer
+sexkbj.com##.with-sidebar-right.widget-area
+sexkbj.com##.row.site-branding
+
+! 2022-12-21 https://herexxx.com
+herexxx.com##.wrapper > .footer
+herexxx.com##.navi.full
+herexxx.com##.content-search-left
+herexxx.com##.top.full
+herexxx.com###content-tab-about
+
+! 2022-12-21 https://pornzog.com
+pornzog.com##.cf.footer
+pornzog.com##.row
+pornzog.com##.header-top
+pornzog.com##.wrapper.main-content > .block-title
+pornzog.com##.cf.video-buttons-container
+
+! 2022-12-21 https://txxxporn.tube
+txxxporn.tube##.footer.footer-desktop
+txxxporn.tube##.top-keywords
+txxxporn.tube##.page-description
+txxxporn.tube##.page-videos-sidebar.col-2
+txxxporn.tube##.header-desktop.header
+
+! 2022-12-21 https://kbjtube.com
+kbjtube.com##.site-header
+kbjtube.com##.with-sidebar-right.widget-area
+kbjtube.com##.site-footer
+
+! 2022-12-21 https://xfantazy.com
+xfantazy.com##.jss325 > .jss326
+||xfantazy.com/assets/fdm/red.jpg$image
+||static-cache.k2s.cc/thumbnail/IO-Wun-gyKvt-mieqQ/w320h240/4.jpeg$image
+xfantazy.com##div.MuiGrid-grid-lg-3.MuiGrid-grid-md-4.MuiGrid-grid-sm-6.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(1)
+xfantazy.com##div.jss1256:nth-of-type(3)
+xfantazy.com##.MuiTypography-body1.jss1257.MuiTypography-root
+
+! 2022-12-21 https://hclips.com
+hclips.com##.sidebar
+hclips.com##.footer
+hclips.com##.iomzummumuooii
+hclips.com##.seo
+hclips.com##.header
+hclips.com##.video-page__related
+hclips.com##div.wrapper:nth-of-type(6)
+hclips.com##.underplayer__description
+
+! 2022-12-21 https://noodlemagazine.com
+noodlemagazine.com##.suggestions
+noodlemagazine.com##.footer
+
+! 2022-12-21 https://zh.xhamster19.com
+zh.xhamster19.com##.footer
+zh.xhamster19.com##div.related-container:nth-of-type(5)
+zh.xhamster19.com##div.related-container:nth-of-type(6)
+zh.xhamster19.com##.related-block
+zh.xhamster19.com##.sidebar
+zh.xhamster19.com##.top-menu-container
+zh.xhamster19.com##.top-header
+zh.xhamster19.com##.clearfix.comments-container.comments-section
+zh.xhamster19.com##.width-wrap.related-container
+
+! 2022-12-21 https://hotgirl.asia
+||disqus.com/embed/comments/?base=default&f=hotgirl-asia-1&t_i=238456%20https%3A%2F%2Fhotgirl.asia%2Fvideos%2Fdmsdms1247-korean-bj-kbj21120403_dmsdms1247_20210924%2F&t_u=https%3A%2F%2Fhotgirl.asia%2Fvideos%2Fdmsdms1247-korean-bj-kbj21120403_dmsdms1247_20210924%2F&t_e=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924&t_d=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924%20-%20Share%20erotic%20Asian%20girl%20picture%20%26%20livestream&t_t=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924&s_o=default$subdocument
+hotgirl.asia###footer > .container
+hotgirl.asia##.comentarios
+
+! 2022-12-21 https://xxxdan.com
+xxxdan.com###footer > .inner
+xxxdan.com##p:nth-of-type(2)
+xxxdan.com###header
+xxxdan.com##.mobile-hide.nav-main
+xxxdan.com###related-items > .gallery.panel-default.panel
+xxxdan.com##h1
+xxxdan.com###friends
+xxxdan.com###content > p
+
+
+
+
+
+
+
+! 2022-12-21 https://kbj19cam.com
+kbj19cam.com##.site-header
+kbj19cam.com##.br-bottom-10.site-footer
+kbj19cam.com###main > .widget-title
+kbj19cam.com##.archive-description
+kbj19cam.com##.with-sidebar-right.widget-area
+
+! 2022-12-21 https://fc2ppv.com
+fc2ppv.com##.content-search-left
+fc2ppv.com##.top.full
+fc2ppv.com##.navi.full
+fc2ppv.com##.tablist
+fc2ppv.com##.wrapper > .footer
+fc2ppv.com##.copyright
+fc2ppv.com##div.content-group-light.content-group:nth-of-type(7)
+
+! 2022-12-21 https://privatehomeclips.com
+privatehomeclips.com##.sidebar
+privatehomeclips.com##.header
+privatehomeclips.com##.footer
+privatehomeclips.com##.seo
+privatehomeclips.com##.iomzummumuooii
+privatehomeclips.com##div.wrapper:nth-of-type(6)
+privatehomeclips.com##.video-page__related
+
+! 2022-12-21 https://kbjplay.com
+kbjplay.com##.rownone.related-post
+kbjplay.com##.col-lg-3
+kbjplay.com##.comments-area
+kbjplay.com##.site-main
+kbjplay.com##.site-info
+kbjplay.com##.row
+
+! 2022-12-21 https://ch.videosection.com
+ch.videosection.com##.footer
+ch.videosection.com##.search-phrases__wrapper
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(20)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(23)
+ch.videosection.com##.header
+ch.videosection.com##.player-detail
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(1)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(2)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(51)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(52)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(53)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(54)
+
+! 2022-12-21 https://kbj.so
+kbj.so##.site-header
+kbj.so##.primary-footer
+kbj.so##.site-info
+
+! 2022-12-21 https://www.tnaflix.com
+www.tnaflix.com##body > .bsBox
+www.tnaflix.com##.sb
+www.tnaflix.com##.clear.wrapper > .clear
+www.tnaflix.com###ajax_content > .clear > .main
+www.tnaflix.com##.nlUvBlock.commentsBlockUnderVid > .commentsBlock
+
+! 2022-12-21 https://www.xero.porn
+www.xero.porn##.related.list
+www.xero.porn###extbase > .tab-content
+www.xero.porn##footer.container-fluid
+www.xero.porn##.sub
+www.xero.porn###contents > .container
+www.xero.porn###wrap
+
+! 2022-12-21 https://watchfreeav.com
+||watchfreeav.com/wp-content/uploads/2019/05/Untitled-1.jpg$image
+watchfreeav.com###sidebar
+watchfreeav.com###sidebar-border
+watchfreeav.com###nav
+watchfreeav.com##.st_hidden
+watchfreeav.com##.post-info-bottom
+watchfreeav.com##.entry > p
+
+! 2022-12-21 https://tktube.com
+tktube.com##.footer-wrap
+tktube.com##.header
+tktube.com##.top-links
+tktube.com##.navigation
+tktube.com##.tags-cloud.box
+tktube.com##.sidebar
+
+! 2022-12-21 https://watchfreekavonline.com
+watchfreekavonline.com##.site-info
+watchfreekavonline.com##.af-middle-header > .container-wrapper
+watchfreekavonline.com##.darknews-header.header-layout-default
+
+! 2022-12-21 https://kav.so
+kav.so##.header-layout-1
+kav.so##.entry-content > div
+
+! 2022-12-21 https://fr.spankbang.com
+fr.spankbang.com##header
+
+! 2022-12-21 https://watchfreejavonline.co
+watchfreejavonline.co##.mg-menu-full > div
+watchfreejavonline.co##footer
+||watchfreejavonline.co/wp-content/themes/newslay02/images/head-back.jpg$image
+||watchfreejavonline.co/wp-content/themes/newslay02/images/head-back.jpg$image
+watchfreejavonline.co##.mg-nav-widget-area-back
+watchfreejavonline.co##.mg-menu-full
+watchfreejavonline.co##.mg-breadcrumb-section
+watchfreejavonline.co###content > .row > .col-md-4
+
+! 2022-12-21 https://javrank.com
+javrank.com##.col-md-4.col-lg-3.sidebar
+javrank.com##.header
+javrank.com##.menu
+
+! 2022-12-21 https://www.hm822.xyz
+www.hm822.xyz##body > .box
+www.hm822.xyz##.main.section > .box
+www.hm822.xyz##.space.nav-secondary.white.nav
+www.hm822.xyz###top_c
+www.hm822.xyz##.text-line.row
+www.hm822.xyz##div.heading:nth-of-type(6)
+www.hm822.xyz##div.box:nth-of-type(7)
+
+! 2022-12-21 http://camcam.cc
+camcam.cc##.ht-n-open.ht-n-top.default-width.ht-notification-section
+camcam.cc##.row.header
+camcam.cc##.archive-aside
+camcam.cc##.site-footer
+camcam.cc##.comments-area
+camcam.cc##.under-video-block
+camcam.cc##.video-tags
+camcam.cc##.video-actions
+
+! 2022-12-21 https://www.xnxx.com
+www.xnxx.com###header
+www.xnxx.com##.premium-results-line
+www.xnxx.com###footer
+
+! 2022-12-21 https://cableav.tv
+cableav.tv##.footer-sidebar
+cableav.tv##.site-header-control.header-tech.site-header
+cableav.tv##.archive-heading
+cableav.tv##.dark-background.footer-wrapper
+cableav.tv##.post-footer
+cableav.tv##p
+cableav.tv##.entry-header
+cableav.tv##.primary-content-control
+
+! 2022-12-21 https://pornkai.com
+pornkai.com##.logo_container
+pornkai.com##.header
+pornkai.com##.footer
+
+! 2022-12-21 https://www.dxxtv.com
+www.dxxtv.com##header:nth-of-type(1)
+www.dxxtv.com##.breadcrumb-d.mt-3.py-2.list-inline
+www.dxxtv.com##.text-center.card-header
+www.dxxtv.com##div.card-body > .row
+www.dxxtv.com##.mt-4.text-center
+
+! 2022-12-21 https://yadongpang.net
+yadongpang.net###banner
+yadongpang.net##.gall_row
+
+! 2022-12-21 https://shyav.com
+shyav.com##.top.full
+shyav.com##.tablist
+shyav.com##.wrapper > .footer
+
+! 2022-12-22 https://www.douyu.com
+www.douyu.com##div.wm-general:nth-of-type(1)
+www.douyu.com###bc47
+www.douyu.com###bc46
+
+
+
+! 2023-01-23 https://www.huya.com
+www.huya.com##.sidebar-hide
+www.huya.com##.player-gift-wrap
+
+! 2023-02-02 https://www.finclip.com
+||www.finclip.com/news/zb_users/upload/2022/11/tanchuang1.jpg$image
+
+! 2023-03-22 https://ch.hdsex.org
+ch.hdsex.org##.videos
+
+! 2023-03-22 https://www.nudevista.com
+www.nudevista.com##tr:nth-of-type(4)
+
+! 2023-03-22 https://ch.hdsex.org
+ch.hdsex.org##.main-footer
+ch.hdsex.org##.search-phrases
+
+! 2023-04-08 https://www.pornfind.org
+www.pornfind.org##.auto-hide-show.main-header
+www.pornfind.org##.elevation-4.sidebar-light-primary.main-sidebar
+www.pornfind.org##div#links.no-gutters.row.my-1.links:nth-of-type(1)
+www.pornfind.org##div.links.row:nth-of-type(7)
+www.pornfind.org##div#links.no-gutters.row.my-1.links:nth-of-type(4)
+www.pornfind.org##.mt-3
+www.pornfind.org##.p-1.row
+www.pornfind.org##.main-footer
+
+! 2023-05-12 https://m.weibo.cn
+m.weibo.cn##ul.m-wpbtn-list > li
+m.weibo.cn##.m-wpop-box
+
+! 2023-05-18 https://taiav.com
+taiav.com##div.uk-margin-top.uk-container > center
+taiav.com##.globalads > div > div
+
+
+! 2023-05-18 https://www.tnaflix.com
+www.tnaflix.com##.related
+
+! 2023-05-18 https://tw.xsz-av.com
+tw.xsz-av.com##.mt-3.comments-section
+tw.xsz-av.com##.mb-3.mt-3.content-right
+tw.xsz-av.com##.footer-container
+tw.xsz-av.com##.top-nav
+
+! 2023-05-18 https://www.pornfind.org
+www.pornfind.org##div.m-0.no-gutters.row:nth-of-type(1)
+www.pornfind.org###top-ads
+www.pornfind.org###bottom-ads
+www.pornfind.org##div.m-0.no-gutters.row:nth-of-type(4)
+
+||realsrv.com^^$all
+||thepornbest.com^^$all
+
+! 2023-05-18 https://asianporn.li
+asianporn.li###videoTabs
+asianporn.li##.border-top.p-2.no-gutters.row
+asianporn.li##.py-3.mt-2.footer
+asianporn.li##.header > .container-fluid
+
+! 2023-05-18 https://mrjav.net
+mrjav.net##.tablist
+mrjav.net##.top.full
+mrjav.net##.wrapper > .footer
+
+! 2023-05-18 https://www.qinav.com
+www.qinav.com###class
+www.qinav.com##div.box:nth-of-type(2)
+www.qinav.com##.right
+www.qinav.com##[href="http://23.225.52.56:4466/vip182.html"] > .image
+www.qinav.com###qinav_a2
+
+! 2023-05-18 https://www.wolongzyw.com
+www.wolongzyw.com###layui-layer2
+www.wolongzyw.com###layui-layer-shade2
+www.wolongzyw.com###layui-layer1
+www.wolongzyw.com###layui-layer-shade1
+
+! 2023-05-19 https://ch.videosection.com
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(21)
+ch.videosection.com##div.video-item--a.video-item:nth-of-type(22)
+
