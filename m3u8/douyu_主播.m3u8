@@ -1,0 +1,49 @@
+#斗鱼
+#EXTINF:-1 tvg-id="1" tvg-name="douyu_yjj" group-title="斗鱼",douyu_yjj
+http://192.168.0.107:35455/douyu/687423
+
+#EXTINF:-1 tvg-id="2" tvg-name="douyu_菜刀" group-title="斗鱼",douyu_菜刀
+http://192.168.0.107:35455/douyu/160504
+
+#EXTINF:-1 tvg-id="2" tvg-name="douyu_崩坏3" group-title="斗鱼",douyu_崩坏3
+http://192.168.0.107:35455/douyu/2400062
+
+#EXTINF:-1 tvg-id="2" tvg-name="douyu_神乐" group-title="斗鱼",douyu_神乐
+http://192.168.0.107:35455/douyu/85894
+
+#EXTINF:-1 tvg-id="3" tvg-name="科幻_252802" group-title="斗鱼",科幻_252802
+http://192.168.0.107:35455/douyu/252802
+
+#EXTINF:-1 tvg-id="4" tvg-name="科幻_434971" group-title="斗鱼",港台_434971
+http://192.168.0.107:35455/douyu/434971
+
+#EXTINF:-1 tvg-id="4" tvg-name="❤️可乐❤️电影 _20415" group-title="斗鱼",❤️可乐❤️电影 
+http://192.168.0.107:35455/douyu/20415
+
+#EXTINF:-1 tvg-id="5" tvg-name="Liz陪看_7254536" group-title="斗鱼",Liz陪看_7254536
+http://192.168.0.107:35455/douyu/7254536
+
+
+#EXTINF:-1 tvg-id="6" tvg-name="星爷_122402" group-title="斗鱼",星爷_122402
+http://192.168.0.107:35455/douyu/122402
+
+#EXTINF:-1 tvg-id="6" tvg-name="天龙_9795096" group-title="斗鱼",天龙_9795096
+http://192.168.0.107:35455/douyu/9795096
+
+#EXTINF:-1 tvg-id="7" tvg-name="港剧_4373285" group-title="斗鱼",港剧_4373285
+http://192.168.0.107:35455/douyu/4373285
+
+#EXTINF:-1 tvg-id="8" tvg-name="成龙_2287949" group-title="斗鱼",成龙_2287949
+http://192.168.0.107:35455/douyu/2287949
+
+#EXTINF:-1 tvg-id="9" tvg-name="小鸽陪看_3928" group-title="斗鱼",小鸽陪看_3928
+http://192.168.0.107:35455/douyu/3928
+
+#EXTINF:-1 tvg-id="9" tvg-name="进击の神乐_122402" group-title="斗鱼",进击の神乐_122402
+http://192.168.0.107:35455/douyu/122402
+
+
+
+#EXTINF:-1 tvg-id="11" tvg-name="猫和老鼠" group-title="huya",猫和老鼠
+http://192.168.0.107:35455/douyu/7888428
+
