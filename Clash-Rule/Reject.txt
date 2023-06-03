@@ -1,5 +1,6 @@
 payload:
 - '+.360.cn'
+- '+.yandex.ru'
 - '+.account.live.com'
 - '+.aegis.qq.com'
 - '+.akadns.net'
@@ -175,3 +176,4 @@ payload:
 - '+.doubleclick.net'
 - '+.analytics.google.com'
 - '+.google-analytics.com'
+- '+.facebook.net'
