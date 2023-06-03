@@ -35,4 +35,5 @@ payload:
   - '+.myqcloud.com'
   - '+.gtimg.com'
   - '+.gstatic.com'
-
+  - '+.w.org'
+  - '+.wp.com'
