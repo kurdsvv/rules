@@ -141,3 +141,4 @@ payload:
 - '+.mzyglc.xyz'
 - '+.sh-content.com'
 - '+.guccihide.biz'
+- '+.guccihide.store'

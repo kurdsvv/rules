@@ -26,3 +26,5 @@ payload:
   - '+.qiniup.com'
   - '+.chouti.com'
   - '+.edgesrv.com'
+  - '+.qidian.com'
+  - '+.yuewen.com'
