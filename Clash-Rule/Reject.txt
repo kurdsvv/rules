@@ -174,4 +174,4 @@ payload:
 - '+.geetest.com'
 - '+.doubleclick.net'
 - '+.analytics.google.com'
-
+- '+.google-analytics.com'
