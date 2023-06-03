@@ -148,3 +148,4 @@ payload:
 - '+.taimadou.com'
 - '+.sw-cdn-images.com'
 - '+.sw-cdnstream.com'
+- '+.camhdxx.com'
