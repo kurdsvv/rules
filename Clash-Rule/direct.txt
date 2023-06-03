@@ -36,8 +36,5 @@ payload:
   - '+.gtimg.com'
   - '+.gstatic.com'
   - '+.w.org'
-<<<<<<< HEAD
   - '+.wp.com'
-=======
-  - '+.wp.com'
->>>>>>> e5ccf4f9478ff90d60e338bca237966da8895f50
+
