@@ -72,12 +72,12 @@
 
 ```yaml
 rule-providers:
-  #Myrejetct:
-  #  type: http
-  #  behavior: domain
-  #  url: https://anti-ad.net/clash.yaml
-  #  path: ./ruleset/Myrejetct.yaml
-  #  interval: 86400
+  Myrejetct:
+    type: http
+    behavior: domain
+    url: https://anti-ad.net/clash.yaml
+    path: ./ruleset/Myrejetct.yaml
+    interval: 86400
   cncidr:
     type: http
     behavior: ipcidr
