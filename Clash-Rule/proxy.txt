@@ -24963,7 +24963,7 @@ payload:
   - '+.xizhutou.com'
   - '+.xj.domain888.pw'
   - '+.xj.freepac.pw'
-   - '+.xjavporn.com'
+  - '+.xjavporn.com'
   - '+.xjp.cc'
   - '+.xjs111.com'
   - '+.xjs33999.com'
