@@ -24,3 +24,4 @@ payload:
   - '+.hdslb.com'
   - '+.extfans.com'
   - '+.qiniup.com'
+  - '+.chouti.com'
