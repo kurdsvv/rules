@@ -28,3 +28,4 @@ payload:
   - '+.edgesrv.com'
   - '+.qidian.com'
   - '+.yuewen.com'
+  - '+.weibo.com'
