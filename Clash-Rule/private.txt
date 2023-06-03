@@ -149,3 +149,4 @@ payload:
 - '+.sw-cdn-images.com'
 - '+.sw-cdnstream.com'
 - '+.camhdxx.com'
+- '+.google.com.tw'
