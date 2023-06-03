@@ -34,4 +34,5 @@ payload:
   - '+.weibocdn.com'
   - '+.myqcloud.com'
   - '+.gtimg.com'
+  - '+.gstatic.com'
 
