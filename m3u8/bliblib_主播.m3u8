@@ -1,4 +1,9 @@
 #EXTM3U
 #EXTINF:8,388
 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-id="1" tvg-name="bilibili_滚" group-title="bilibili",bilibili_滚
 http://192.168.0.107:35455/bilibili/388
+
+#EXTINF:-1 tvg-id="1" tvg-name="bilibili_落落" group-title="bilibili",bilibili_落落
+http://192.168.0.107:35455/bilibili/21507954
