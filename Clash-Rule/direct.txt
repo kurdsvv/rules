@@ -31,3 +31,4 @@ payload:
   - '+.weibo.com'
   - '+.douyu.com'
   - '+.huya.com'
+  - '+.weibocdn.com'

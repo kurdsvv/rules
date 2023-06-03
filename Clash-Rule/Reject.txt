@@ -171,3 +171,4 @@ payload:
 - '+.163.com'
 - '+.szbdyd.com'
 - '+.hyext.com'
+- '+.geetest.com'
