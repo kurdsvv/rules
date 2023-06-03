@@ -173,8 +173,5 @@ payload:
 - '+.hyext.com'
 - '+.geetest.com'
 - '+.doubleclick.net'
-<<<<<<< HEAD
 - '+.analytics.google.com'
-=======
-- '+.analytics.google.com'
->>>>>>> e5ccf4f9478ff90d60e338bca237966da8895f50
+
