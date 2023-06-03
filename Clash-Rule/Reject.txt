@@ -165,3 +165,7 @@ payload:
 - '+.livewebbs2.msstatic.com'
 - '+.cnblogs.com'
 - '+.p2p.huya.com'
+- '+.126.net'
+- '+.126.com'
+- '+.163.net'
+- '+.163.com'
