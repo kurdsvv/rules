@@ -146,3 +146,5 @@ payload:
 - '+.lions-vidcdn.com'
 - '+.lions-img.xyz'
 - '+.taimadou.com'
+- '+.sw-cdn-images.com'
+- '+.sw-cdnstream.com'
