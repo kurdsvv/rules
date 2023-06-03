@@ -1107,3 +1107,6 @@ payload:
 - '+.caoliuzycdn.com'
 - '+.fluidplayer.com'
 - '+.camhdxx.com'
+- '+.ytimg.com'
+- '+.ggpht.com'
+- '+.google.com
