@@ -169,3 +169,5 @@ payload:
 - '+.126.com'
 - '+.163.net'
 - '+.163.com'
+- '+.szbdyd.com'
+- '+.hyext.com'
