@@ -1,6 +1,6 @@
 payload:
 - '+.123ds.org'
--- '+.69shu.com'
+- '+.69shu.com'
 - '+.baobuzz.com'
 - '+.cdn.ghewig.com'
 - '+.dandanzan.com'
