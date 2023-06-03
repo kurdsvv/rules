@@ -22,3 +22,5 @@ payload:
   - '+.bilibili.com'
   - '+.bilivideo.com'
   - '+.hdslb.com'
+  - '+.extfans.com'
+  - '+.qiniup.com'
