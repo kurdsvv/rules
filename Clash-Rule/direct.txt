@@ -19,4 +19,6 @@ payload:
   - '+.ensosignal.com'
   - '+.guccihide.online'
   - '+.streamhide.com'
-
+  - '+.bilibili.com'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
