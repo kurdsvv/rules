@@ -25,3 +25,4 @@ payload:
   - '+.extfans.com'
   - '+.qiniup.com'
   - '+.chouti.com'
+  - '+.edgesrv.com'
