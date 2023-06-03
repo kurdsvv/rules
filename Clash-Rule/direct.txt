@@ -29,3 +29,5 @@ payload:
   - '+.qidian.com'
   - '+.yuewen.com'
   - '+.weibo.com'
+  - '+.douyu.com'
+  - '+.huya.com'
