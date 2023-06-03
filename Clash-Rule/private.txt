@@ -150,3 +150,7 @@ payload:
 - '+.sw-cdnstream.com'
 - '+.camhdxx.com'
 - '+.google.com.tw'
+- '+.xszav.net'
+- '+.caoliuzycdn.com'
+- '+.fluidplayer.com'
+- '+.camhdxx.com'
