@@ -172,3 +172,5 @@ payload:
 - '+.szbdyd.com'
 - '+.hyext.com'
 - '+.geetest.com'
+- '+.doubleclick.net'
+- '+.analytics.google.com'
