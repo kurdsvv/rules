@@ -489,3 +489,22 @@ www.wolongzyw.com###layui-layer-shade1
 ch.videosection.com##div.video-item--a.video-item:nth-of-type(21)
 ch.videosection.com##div.video-item--a.video-item:nth-of-type(22)
 
+! 2023-06-02 https://koreanbjvids.com
+koreanbjvids.com###block-22
+koreanbjvids.com###block-32 > p
+koreanbjvids.com###block-15 > p
+koreanbjvids.com###block-23 > .wp-block-heading
+koreanbjvids.com###block-33 > p
+koreanbjvids.com##.row.site-branding
+koreanbjvids.com###block-30 > .wp-block-heading
+koreanbjvids.com##.archive-description
+koreanbjvids.com###block-26 > p
+koreanbjvids.com##.site-footer
+
+! 2023-06-02 https://live.bilibili.com
+live.bilibili.com###full-screen-interactive-wrap
+
+! 2023-06-02 https://herexxx.com
+herexxx.com##.pt-2.is-justify-content-space-between.navbar-brand
+herexxx.com##.footer.has-background-night-light.container
+
