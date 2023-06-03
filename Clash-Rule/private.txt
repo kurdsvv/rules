@@ -142,3 +142,6 @@ payload:
 - '+.sh-content.com'
 - '+.guccihide.biz'
 - '+.guccihide.store'
+- '+.sh-content.xyz‘
+- '+.lions-vidcdn.com‘
+- '+.lions-img.xyz’
