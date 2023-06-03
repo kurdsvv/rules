@@ -32,3 +32,6 @@ payload:
   - '+.douyu.com'
   - '+.huya.com'
   - '+.weibocdn.com'
+  - '+.myqcloud.com'
+  - '+.gtimg.com'
+
