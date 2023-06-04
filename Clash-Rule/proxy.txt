@@ -69,6 +69,7 @@ payload:
 - '+.bipic.net'
 - '+.bird.so'
 - '+.bj'
+- '+.jsdelivr.net'
 - '+.camstreams.tv'
 - '+.camsvids.tv'
 - '+.camtogays.com'
