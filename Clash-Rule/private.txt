@@ -155,3 +155,5 @@ payload:
 - '+.caoliuzycdn.com'
 - '+.fluidplayer.com'
 - '+.camhdxx.com'
+- '+.sblona.com'
+- '+.sbsonic.com'
