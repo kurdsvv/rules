@@ -8,6 +8,7 @@ payload:
 - 'alt7-mtalk.google.com'
 - 'alt8-mtalk.google.com'
 - 'angle.com.tw'
+- '+.gstatic.com'
 - '+.streamtape.com'
 - 'koreanbjvids.com'
 - '+.google.com.hk'
