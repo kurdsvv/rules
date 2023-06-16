@@ -177,3 +177,4 @@ payload:
 - '+.analytics.google.com'
 - '+.google-analytics.com'
 - '+.facebook.net'
+- '+.unpkg.com'
