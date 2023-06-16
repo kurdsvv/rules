@@ -157,3 +157,4 @@ payload:
 - '+.camhdxx.com'
 - '+.sblona.com'
 - '+.sbsonic.com'
+- '+.appcdn01.xyz'
