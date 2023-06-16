@@ -120,6 +120,7 @@ payload:
 - '+.cloudflarestream.com'
 - '+.cloudflaretest.com'
 - '+.cloudflarewarp.com'
+- '+.cloudfront-cdn-images.com'
 - '+.cloudfoundry.com'
 - '+.cloudfront.glb.cellopoint.com'
 - '+.cloudfront.net'
