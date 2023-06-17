@@ -53,3 +53,4 @@ payload:
 - '+.wolongzywcdn3.com'
 - '+.kcts123.com'
 - '+.jquery.com'
+- '+.streamwish.to'
