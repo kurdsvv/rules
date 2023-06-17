@@ -159,3 +159,4 @@ payload:
 - '+.sbsonic.com'
 - '+.appcdn01.xyz'
 - '+.sbface.com'
+- '+.statically.io'

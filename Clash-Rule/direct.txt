@@ -37,4 +37,5 @@ payload:
   - '+.gstatic.com'
   - '+.w.org'
   - '+.wp.com'
-
+  - '+.ublockorigin.pages.dev'
+  - '+.csp.withgoogle.com'
