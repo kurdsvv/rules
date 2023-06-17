@@ -52,3 +52,4 @@ payload:
 - '+.bdzybf7.com'
 - '+.wolongzywcdn3.com'
 - '+.kcts123.com'
+- '+.jquery.com'
