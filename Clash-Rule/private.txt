@@ -160,3 +160,4 @@ payload:
 - '+.zencdn.net'
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
+- '+.bdstatic.com'
