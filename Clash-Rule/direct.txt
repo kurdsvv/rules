@@ -34,7 +34,6 @@ payload:
 - '+.weibocdn.com'
 - '+.myqcloud.com'
 - '+.gtimg.com'
-- '+.gstatic.com'
 - '+.w.org'
 - '+.wp.com'
 - '+.ublockorigin.pages.dev'
