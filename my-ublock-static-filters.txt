@@ -508,3 +508,19 @@ live.bilibili.com###full-screen-interactive-wrap
 herexxx.com##.pt-2.is-justify-content-space-between.navbar-brand
 herexxx.com##.footer.has-background-night-light.container
 
+! 2023-06-17 https://tktube.com
+tktube.com##.table
+
+! 2023-06-17 https://zh.xhamster19.com
+zh.xhamster19.com##.desktop-38c41.pinned-38c41
+zh.xhamster19.com##header
+
+! 2023-06-18 https://www.dnaav.com
+www.dnaav.com##[href="http://23.225.52.61:4466/vip252.html"] > .image
+www.dnaav.com###dnaav_a2
+www.dnaav.com###dnaav_a1
+
+! 2023-06-20 https://jizzbunker.com
+jizzbunker.com##.panel-content-wide > .gallery
+jizzbunker.com###content > p
+
