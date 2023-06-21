@@ -339,3 +339,4 @@ payload:
 - '+.xh.video'
 - '+.xhamster.com'
 - '+.gstatic.com'
+- '+.pornhub.com'
