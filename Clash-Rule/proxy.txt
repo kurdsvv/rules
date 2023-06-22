@@ -345,3 +345,4 @@ payload:
 - '+.xsz-av.com'
 - '+.streamwish.to'
 - '+.streamwish.com'
+- '+.fembed.com'
