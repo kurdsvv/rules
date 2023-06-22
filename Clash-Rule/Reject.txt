@@ -179,3 +179,4 @@ payload:
 - '+.facebook.net'
 - '+.unpkg.com'
 - '+.yoyo.org'
+- '+.csdn.net'
