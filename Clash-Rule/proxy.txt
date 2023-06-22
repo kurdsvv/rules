@@ -341,3 +341,4 @@ payload:
 - '+.gstatic.com'
 - '+.pornhub.com'
 - '+.noodlemagazine.com'
+- '+.vjav.com'
