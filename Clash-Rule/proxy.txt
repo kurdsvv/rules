@@ -342,3 +342,4 @@ payload:
 - '+.pornhub.com'
 - '+.noodlemagazine.com'
 - '+.vjav.com'
+- '+.xsz-av.com'
