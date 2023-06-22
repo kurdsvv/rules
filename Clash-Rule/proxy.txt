@@ -340,3 +340,4 @@ payload:
 - '+.xhamster.com'
 - '+.gstatic.com'
 - '+.pornhub.com'
+- '+.noodlemagazine.com'
