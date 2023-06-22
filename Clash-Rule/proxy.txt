@@ -343,3 +343,5 @@ payload:
 - '+.noodlemagazine.com'
 - '+.vjav.com'
 - '+.xsz-av.com'
+- '+.streamwish.to'
+- '+.streamwish.com'
