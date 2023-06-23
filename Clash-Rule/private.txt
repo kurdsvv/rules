@@ -241,3 +241,7 @@ payload:
 - '+.filelions.com'
 - '+.lions-vidcdn.com'
 - '+.hotstream.asia'
+- '+.vxxx.com'
+- '+.txxx.tube'
+- '+.ahcdn.com'
+
