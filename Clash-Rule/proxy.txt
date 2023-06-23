@@ -4,6 +4,7 @@ payload:
 - '+.docker.com'
 - '+.docker.io'
 - '+.ggpht.com'
+- '+.cloudflare.com'
 - '+.git-scm.com'
 - '+.git.io'
 - '+.github.blog'
