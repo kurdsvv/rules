@@ -237,3 +237,6 @@ payload:
 - '+.chromestatus.com'
 - '+.chromium.org'
 - '+.clients2.google.com'
+- '+.lions-vidcdn.com'
+- '+.filelions.com'
+- '+.lions-vidcdn.com'
