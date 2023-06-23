@@ -240,3 +240,4 @@ payload:
 - '+.lions-vidcdn.com'
 - '+.filelions.com'
 - '+.lions-vidcdn.com'
+- '+.hotstream.asia'
