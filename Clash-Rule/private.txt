@@ -242,5 +242,4 @@ payload:
 - '+.vxxx.com'
 - '+.txxx.tube'
 - '+.ahcdn.com'
-- '+.pornub.com'
-- '+.phncdn.com'
+
