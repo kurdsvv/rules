@@ -183,8 +183,6 @@ payload:
 - '+.porbhub.com'
 - '+.poringa.net'
 - '+.porkbun.com'
-- '+.pormhub.com'
-- '+.pornub.com'
 - '+.private.com'
 - '+.streamable.com'
 - '+.streamate.com'
@@ -244,4 +242,5 @@ payload:
 - '+.vxxx.com'
 - '+.txxx.tube'
 - '+.ahcdn.com'
-
+- '+.pornub.com'
+- '+.phncdn.com'
