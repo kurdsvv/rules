@@ -467,10 +467,7 @@ asianporn.li##.border-top.p-2.no-gutters.row
 asianporn.li##.py-3.mt-2.footer
 asianporn.li##.header > .container-fluid
 
-! 2023-05-18 https://mrjav.net
-mrjav.net##.tablist
-mrjav.net##.top.full
-mrjav.net##.wrapper > .footer
+
 
 ! 2023-05-18 https://www.qinav.com
 www.qinav.com###class
@@ -523,4 +520,26 @@ www.dnaav.com###dnaav_a1
 ! 2023-06-20 https://jizzbunker.com
 jizzbunker.com##.panel-content-wide > .gallery
 jizzbunker.com###content > p
+
+! 2023-06-22 https://s1.watchfreekav.com
+s1.watchfreekav.com##.social-after-title.read-single.entry-content-wrap > .color-pad
+
+! 2023-06-23 https://vjav.com
+vjav.com##.footer
+
+
+! 2023-06-23 https://shyav.com
+shyav.com##.footer.has-background-night-light.container
+shyav.com##.pt-2.is-justify-content-space-between.navbar-brand
+shyav.com##.has-text-centered.is-narrow-desktop.is-12-touch.column
+shyav.com###player-advertising
+shyav.com##.mt-2.has-text-centered-tablet.has-text-centered-mobile.is-align-items-stretch.is-justify-content-center.is-flex-wrap-wrap.is-flex
+shyav.com##.pr-2.p-0.aside-250.menu
+
+! 2023-06-23 https://mrjav.net
+mrjav.net##.top.full
+mrjav.net##div.content-group-light.content-group:nth-of-type(3)
+mrjav.net###content-tab-about
+mrjav.net##.wrapper > .footer
+mrjav.net##.copyright
 
