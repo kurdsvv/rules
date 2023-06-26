@@ -164,4 +164,4 @@ payload:
 - '+.askzybf.com'
 - '+.3sybf.com'
 - '+.pvvstream.pro'
-
+- '+.youjizz.com'
