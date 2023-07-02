@@ -543,3 +543,13 @@ mrjav.net###content-tab-about
 mrjav.net##.wrapper > .footer
 mrjav.net##.copyright
 
+! 2023-06-23 https://www.xvideos.com
+www.xvideos.com##.thread-video-comments.x-thread
+www.xvideos.com##.active.tab-button.comments
+www.xvideos.com##.big-if-zero-40.icf-thumb-up.icon-f
+www.xvideos.com##.big-if-zero-40.icf-thumb-down.icon-f
+www.xvideos.com##.tab-button.comments
+
+! 2023-06-29 https://watchfreekavonline.com
+watchfreekavonline.com##.social-after-title.read-single.entry-content-wrap > .pos-rel.read-img
+
