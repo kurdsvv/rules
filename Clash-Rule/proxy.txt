@@ -107,7 +107,6 @@ payload:
 - '+.phncdn.com'
 - '+.sb-cd.com'
 - '+.xnxx-cdn.com'
-- '+.pornhub.com'
 - '+.noodlemagazine.com'
 - '+.vjav.com'
 - '+.xsz-av.com'
