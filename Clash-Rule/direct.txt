@@ -53,3 +53,4 @@ payload:
 - '+.kcts123.com'
 - '+.jquery.com'
 - '+.streamwish.to'
+- '+.infinitynewtab.com'
