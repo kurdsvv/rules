@@ -13,3 +13,28 @@ realsrv.com * * block
 ufaexpert.com * * block
 xxxvjmp.com * * block
 yandex.ru * * block
+
+
+
+
+
+================================================================
+
+
+
+
+no-large-media: behind-the-scene false
+a-ads.com * * block
+behind-the-scene * * block
+behind-the-scene * 1p-script block
+behind-the-scene * 3p block
+behind-the-scene * 3p-frame block
+behind-the-scene * 3p-script block
+behind-the-scene * image block
+behind-the-scene * inline-script block
+dalyai.com * * block
+pemsrv.com * * block
+realsrv.com * * block
+ufaexpert.com * * block
+xxxvjmp.com * * block
+yandex.ru * * block
