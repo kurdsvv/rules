@@ -1,8 +1,13 @@
 #斗鱼
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.douyu.com/
 #EXTINF:-1 tvg-id="1" tvg-name="douyu_yjj" group-title="斗鱼",douyu_yjj
 http://192.168.0.107:35455/douyu/687423
 #EXTINF:-1 tvg-id="2" tvg-name="douyu_菜刀" group-title="斗鱼",douyu_菜刀
 http://192.168.0.107:35455/douyu/160504
+#EXTINF:-1 tvg-id="2" tvg-name="douyu_图图" group-title="斗鱼",douyu_图图
+http://192.168.0.107:35455/douyu/89466
 #EXTINF:-1 tvg-id="2" tvg-name="douyu_崩坏3" group-title="斗鱼",douyu_崩坏3
 http://192.168.0.107:35455/douyu/2400062
 #EXTINF:-1 tvg-id="2" tvg-name="douyu_神乐" group-title="斗鱼",douyu_神乐
@@ -15,8 +20,6 @@ http://192.168.0.107:35455/douyu/434971
 http://192.168.0.107:35455/douyu/20415
 #EXTINF:-1 tvg-id="5" tvg-name="Liz陪看_7254536" group-title="斗鱼",Liz陪看_7254536
 http://192.168.0.107:35455/douyu/7254536
-#EXTINF:-1 tvg-id="6" tvg-name="星爷_122402" group-title="斗鱼",星爷_122402
-http://192.168.0.107:35455/douyu/122402
 #EXTINF:-1 tvg-id="6" tvg-name="天龙_9795096" group-title="斗鱼",天龙_9795096
 http://192.168.0.107:35455/douyu/9795096
 #EXTINF:-1 tvg-id="7" tvg-name="港剧_4373285" group-title="斗鱼",港剧_4373285
@@ -29,3 +32,13 @@ http://192.168.0.107:35455/douyu/3928
 http://192.168.0.107:35455/douyu/122402
 #EXTINF:-1 tvg-id="11" tvg-name="猫和老鼠" group-title="huya",猫和老鼠
 http://192.168.0.107:35455/douyu/7888428
+
+
+
+#Blibli
+#EXTINF:-1 tvg-id="1" tvg-name="bilibili_滚" group-title="bilibili",bilibili_滚
+http://192.168.0.107:35455/bilibili/388
+#EXTINF:-1 tvg-id="1" tvg-name="bilibili_落落" group-title="bilibili",bilibili_落落
+http://192.168.0.107:35455/bilibili/21507954
+#EXTINF:-1 tvg-id="1" tvg-name="bilibili_1米八" group-title="bilibili",bilibili_1米八
+http://192.168.0.107:35455/bilibili/650
