@@ -1,8 +1,0 @@
-#Blibli
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="1" tvg-name="bilibili_滚" group-title="bilibili",bilibili_滚
-http://192.168.0.107:35455/bilibili/388
-#EXTINF:-1 tvg-id="1" tvg-name="bilibili_落落" group-title="bilibili",bilibili_落落
-http://192.168.0.107:35455/bilibili/21507954
-#EXTINF:-1 tvg-id="1" tvg-name="bilibili_乌鸦" group-title="bilibili",bilibili_乌鸦
-http://192.168.0.107:35455/bilibili/1019
