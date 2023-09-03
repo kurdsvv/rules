@@ -553,3 +553,35 @@ www.xvideos.com##.tab-button.comments
 ! 2023-06-29 https://watchfreekavonline.com
 watchfreekavonline.com##.social-after-title.read-single.entry-content-wrap > .pos-rel.read-img
 
+! 2023-08-25 https://xxxdan.com
+xxxdan.com##.clearfix.gallery.panel-default.panel.related
+xxxdan.com###footer
+
+! 2023-08-26 http://camcam.cc
+camcam.cc##.video-infos
+
+! 2023-08-26 https://www.douyu.com
+www.douyu.com##.ToolbarGiftArea-GiftBox
+www.douyu.com##div.PlayerToolbar-Content:nth-of-type(1)
+
+! 2023-08-31 https://kbjfree.com
+kbjfree.com##.pb-6.md\:pt-24.pt-12.px-4.mt-auto
+kbjfree.com##.mantine-u9j1uq.gap-y-2.flex-col.flex.w-full.mt-4.mantine-Container-root
+
+! 2023-09-01 https://zh.xhamster19.com
+zh.xhamster19.com##.main-wrap > .width-wrap
+zh.xhamster19.com##.main-wrap > div
+
+! 2023-09-02 https://cn.xsz-av.com
+cn.xsz-av.com###comments_input_container
+cn.xsz-av.com##.footer-links
+cn.xsz-av.com##.footer
+cn.xsz-av.com##.top-nav
+
+! 2023-09-03 https://www.qinav.com
+www.qinav.com##div.b300:nth-of-type(1)
+www.qinav.com##div.b300:nth-of-type(2)
+www.qinav.com##.footer
+www.qinav.com##.bar
+www.qinav.com##.b300
+
