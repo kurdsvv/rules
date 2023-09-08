@@ -248,3 +248,4 @@ payload:
 - '+.vxxx.com'
 - '+.txxx.tube'
 - '+.ahcdn.com'
+- '+.69shuba.com'
