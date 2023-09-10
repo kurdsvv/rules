@@ -585,3 +585,11 @@ www.qinav.com##.footer
 www.qinav.com##.bar
 www.qinav.com##.b300
 
+! 2023-09-09 https://www.douyu.com
+www.douyu.com##.layout-Player-toolbar
+www.douyu.com##.layout-Player-chat
+www.douyu.com##.Game.public-DropMenu
+www.douyu.com##.HeaderNav
+www.douyu.com##li.Header-menu-link:nth-of-type(6)
+www.douyu.com##.Video.public-DropMenu
+
