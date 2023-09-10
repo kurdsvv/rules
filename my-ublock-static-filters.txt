@@ -414,15 +414,10 @@ www.huya.com##.player-gift-wrap
 ! 2023-02-02 https://www.finclip.com
 ||www.finclip.com/news/zb_users/upload/2022/11/tanchuang1.jpg$image
 
-! 2023-03-22 https://ch.hdsex.org
-ch.hdsex.org##.videos
 
 ! 2023-03-22 https://www.nudevista.com
 www.nudevista.com##tr:nth-of-type(4)
 
-! 2023-03-22 https://ch.hdsex.org
-ch.hdsex.org##.main-footer
-ch.hdsex.org##.search-phrases
 
 ! 2023-04-08 https://www.pornfind.org
 www.pornfind.org##.auto-hide-show.main-header
@@ -592,4 +587,28 @@ www.douyu.com##.Game.public-DropMenu
 www.douyu.com##.HeaderNav
 www.douyu.com##li.Header-menu-link:nth-of-type(6)
 www.douyu.com##.Video.public-DropMenu
+
+! 2023-09-09 https://inporn.com
+inporn.com##.tops > .carousel
+inporn.com##.app__wrapper > div.wrapper
+inporn.com##p
+inporn.com##.footer-row
+
+! 2023-09-09 https://ch.hdsex.org
+ch.hdsex.org##.player-section__ads-banners
+ch.hdsex.org##.main-footer
+ch.hdsex.org##div.ads-el.video > noindex
+ch.hdsex.org##div.ads-el.video:nth-of-type(2)
+ch.hdsex.org##div.ads-el.video:nth-of-type(1)
+ch.hdsex.org##div.ads-el.video:nth-of-type(3)
+ch.hdsex.org##div.ads-el.video:nth-of-type(4)
+ch.hdsex.org##div.ads-el.video:nth-of-type(31)
+ch.hdsex.org##div.ads-el.video:nth-of-type(30)
+ch.hdsex.org##div.ads-el.video:nth-of-type(32)
+ch.hdsex.org##.drawer-overlay
+ch.hdsex.org##.header-bottom
+ch.hdsex.org##div.ads-el.video:nth-of-type(51)
+ch.hdsex.org##div.ads-el.video:nth-of-type(53)
+ch.hdsex.org##div.ads-el.video:nth-of-type(52)
+ch.hdsex.org##div.ads-el.video:nth-of-type(54)
 
