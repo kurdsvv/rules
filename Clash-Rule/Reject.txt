@@ -179,7 +179,6 @@ payload:
 - '+.facebook.net'
 - '+.unpkg.com'
 - '+.yoyo.org'
-- '+.csdn.net'
 - '+.otheve.beacon.qq.com'
 - '+.h.trace.qq.com'
 - '+.clientservices.googleapis.com'
