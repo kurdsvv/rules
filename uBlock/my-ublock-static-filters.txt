@@ -612,3 +612,13 @@ ch.hdsex.org##div.ads-el.video:nth-of-type(53)
 ch.hdsex.org##div.ads-el.video:nth-of-type(52)
 ch.hdsex.org##div.ads-el.video:nth-of-type(54)
 
+! 2023-09-13 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.ACT-DIAMOND-CARNIVAL
+
+! 2023-09-15 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.HofAnchor202309
+
+! 2023-09-16 https://blog.csdn.net
+blog.csdn.net##.passport-login-box
+blog.csdn.net##.passport-login-mark
+
