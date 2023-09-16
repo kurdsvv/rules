@@ -41,3 +41,10 @@ title/.*(txt下载|笔趣阁|公开课|准妈|孕产|宝宝|养育|专家|药企
 *://sijishes.com/*
 *://mjsqvip3.com/*
 *://cn.xsz-av.com/*
+*://www.fodownloader.com/*
+*://bilibili.sucps.com/*
+*://vtool.pro/*
+*://bilibili.luomashu.com/*
+*://www.newasp.com/*
+*://steamcommunity.com/*
+*://www.csdn.net/*
