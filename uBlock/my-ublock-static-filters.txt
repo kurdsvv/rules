@@ -391,9 +391,7 @@ www.dxxtv.com##.text-center.card-header
 www.dxxtv.com##div.card-body > .row
 www.dxxtv.com##.mt-4.text-center
 
-! 2022-12-21 https://yadongpang.net
-yadongpang.net###banner
-yadongpang.net##.gall_row
+
 
 ! 2022-12-21 https://shyav.com
 shyav.com##.top.full
@@ -624,4 +622,26 @@ blog.csdn.net##.passport-login-mark
 
 ! 2023-09-17 https://herexxx.com
 herexxx.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
+
+! 2023-09-17 https://yadongpang.net
+yadongpang.net##li.gnb_1dli:nth-of-type(8)
+yadongpang.net##li.gnb_1dli:nth-of-type(7)
+yadongpang.net##li.gnb_1dli:nth-of-type(6)
+yadongpang.net##li.gnb_1dli:nth-of-type(4)
+yadongpang.net###banner
+
+! 2023-09-18 https://blog.csdn.net
+blog.csdn.net##.blog_container_aside
+
+! 2023-09-18 https://www.cnblogs.com
+www.cnblogs.com###sideBar
+
+! 2023-09-19 https://kissjav.com
+kissjav.com###player-advertising
+
+! 2023-09-19 https://asianporn.li
+asianporn.li##.sidebar.d-lg-block.d-none.col-xl-2.col-lg-3
+
+! 2023-09-19 https://kissjav.com
+kissjav.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
 
