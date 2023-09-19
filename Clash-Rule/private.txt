@@ -255,3 +255,4 @@ payload:
 - '+.m3pd.com'
 - '+.kissjav.com'
 - '+.mrjav.net'
+- '+.yadong88.shop'
