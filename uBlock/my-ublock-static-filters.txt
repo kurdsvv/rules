@@ -645,3 +645,34 @@ asianporn.li##.sidebar.d-lg-block.d-none.col-xl-2.col-lg-3
 ! 2023-09-19 https://kissjav.com
 kissjav.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
 
+! 2023-09-20 https://member.inporn.com
+member.inporn.com##.menu__wrapper
+member.inporn.com##div.wrapper:nth-of-type(6)
+member.inporn.com##div.wrapper:nth-of-type(3)
+member.inporn.com##.seo
+member.inporn.com##.video-info__items
+member.inporn.com##.card
+member.inporn.com##.tops__sites > .carousel
+
+! 2023-09-22 https://pornvee.com
+pornvee.com##div.border-palette-1.border-t.py-8.mt-8.clear-both.mx-auto.container
+pornvee.com##footer.border-palette-1.border-t.py-8.mt-8.clear-both.mx-auto.container
+pornvee.com##.lg\:h-16.h-14.z-30.right-0.left-0.lg\:static.fixed.mx-auto.lg\:bg-palette-1.bg-palette-1
+
+! 2023-09-22 https://yadong.cam
+yadong.cam##.banner_m.text-center.col-xs-6.col-sm-6.col-md-4.float-left > [href^="https://david.cdnbuzz.buzz/go4.php"]
+yadong.cam##div.pc-only.row > .text-center.col-md-12
+
+! 2023-09-22 https://tyler-brown.com
+tyler-brown.com##.footer
+tyler-brown.com##.suggestions
+tyler-brown.com##.container > .c_title
+
+! 2023-09-22 https://yadong.cam
+yadong.cam##.copyright
+
+! 2023-09-22 https://banan.tv
+banan.tv##.center
+banan.tv##.site-header
+banan.tv##.content-header
+
