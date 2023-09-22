@@ -53,3 +53,8 @@ title/.*(txt下载|笔趣阁|公开课|准妈|孕产|宝宝|养育|专家|药企
 *://mp.weixin.qq.com/*
 *://baike.baidu.com/*
 *://weread.qq.com/*
+*://baike.baidu.com/*
+*://ubook.reader.qq.com/*
+*://www.qidiantu.com/*
+*://m.ximalaya.com/*
+*://www.toolmandemexico.com/*
