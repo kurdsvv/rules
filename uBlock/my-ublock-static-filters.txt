@@ -676,3 +676,13 @@ banan.tv##.center
 banan.tv##.site-header
 banan.tv##.content-header
 
+! 2023-09-22 https://www.pornlulu.com
+www.pornlulu.com##.p-2.container-fluid
+www.pornlulu.com##.elevation-4.sidebar-light-primary.main-sidebar
+www.pornlulu.com##.navbar-dark.navbar-expand.navbar
+www.pornlulu.com##.auto-hide-show.main-header
+www.pornlulu.com###pornfind
+
+! 2023-09-22 https://www.qinav.com
+www.qinav.com##div.word:nth-of-type(5)
+
