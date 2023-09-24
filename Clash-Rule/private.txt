@@ -263,3 +263,4 @@ payload:
 - '+.pornlulu.com'
 - '+.slbfsl.com'
 - '+.b-cdn.net'
+- '+.meizhiyuan.cc'
