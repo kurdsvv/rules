@@ -58,3 +58,6 @@ title/.*(txt下载|笔趣阁|公开课|准妈|孕产|宝宝|养育|专家|药企
 *://www.qidiantu.com/*
 *://m.ximalaya.com/*
 *://www.toolmandemexico.com/*
+*://www.facebook.com/*
+*://www.tripadvisor.com/*
+*://gifsauce.com/*
