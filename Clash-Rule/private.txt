@@ -264,3 +264,4 @@ payload:
 - '+.slbfsl.com'
 - '+.b-cdn.net'
 - '+.meizhiyuan.cc'
+- '+.wishfast.top'
