@@ -1,5 +1,5 @@
 payload:
-- '+.123ds.org'
+- '+.123du.vip'
 - '+.1853723.xyz'
 - '+.19jpay.com'
 - '+.576901.com'
