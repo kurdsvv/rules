@@ -11,8 +11,7 @@ http://192.168.0.107:35455/douyu/160504
 http://192.168.0.107:35455/bilibili/650
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="douyu_崩坏3" group-title="斗鱼",douyu_崩坏3
-http://192.168.0.107:35455/douyu/2400062
+
 #EXTINF:-1 tvg-id="2" tvg-name="douyu_神乐" group-title="斗鱼",douyu_神乐
 http://192.168.0.107:35455/douyu/85894
 #EXTINF:-1 tvg-id="3" tvg-name="科幻_252802" group-title="斗鱼",科幻_252802
@@ -24,10 +23,6 @@ http://192.168.0.107:35455/douyu/20415
 #EXTINF:-1 tvg-id="5" tvg-name="Liz陪看_7254536" group-title="斗鱼",Liz陪看_7254536
 http://192.168.0.107:35455/douyu/7254536
 
-#EXTINF:-1 tvg-id="7" tvg-name="港剧_4373285" group-title="斗鱼",港剧_4373285
-http://192.168.0.107:35455/douyu/4373285
-#EXTINF:-1 tvg-id="8" tvg-name="成龙_2287949" group-title="斗鱼",成龙_2287949
-http://192.168.0.107:35455/douyu/2287949
 #EXTINF:-1 tvg-id="9" tvg-name="小鸽陪看_3928" group-title="斗鱼",小鸽陪看_3928
 http://192.168.0.107:35455/douyu/3928
 #EXTINF:-1 tvg-id="9" tvg-name="进击の神乐_122402" group-title="斗鱼",进击の神乐_122402
@@ -37,11 +32,6 @@ http://192.168.0.107:35455/douyu/122402
 #EXTINF:-1 tvg-id="1" tvg-name="douyu_yjj" group-title="斗鱼",douyu_yjj
 http://192.168.0.107:35455/douyu/687423
 
-#Blibli
-#EXTINF:-1 tvg-id="1" tvg-name="bilibili_滚" group-title="bilibili",bilibili_滚
-http://192.168.0.107:35455/bilibili/388
-#EXTINF:-1 tvg-id="1" tvg-name="bilibili_落落" group-title="bilibili",bilibili_落落
-http://192.168.0.107:35455/bilibili/21507954
 
 
 
