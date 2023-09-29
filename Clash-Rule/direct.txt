@@ -33,7 +33,6 @@ payload:
 - '+.myqcloud.com'
 - '+.qidian.com'
 - '+.qiniup.com'
-- '+.qq.com'
 - '+.shanshanku.com'
 - '+.streamhide.com'
 - '+.streamwish.to'
