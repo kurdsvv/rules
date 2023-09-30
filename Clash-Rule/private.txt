@@ -266,3 +266,4 @@ payload:
 - '+.meizhiyuan.cc'
 - '+.wishfast.top'
 - '+.nnyy.in'
+- '+.lz-cdn10.com'
