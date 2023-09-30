@@ -265,3 +265,4 @@ payload:
 - '+.b-cdn.net'
 - '+.meizhiyuan.cc'
 - '+.wishfast.top'
+- '+.nnyy.in'
