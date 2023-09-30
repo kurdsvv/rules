@@ -148,7 +148,6 @@ payload:
 - '+.mapm.douyucdn.cn'
 - '+.mermaid.ximalaya.com'
 - '+.mi.gdt.qq.com'
-- '+.microsoft.com'
 - '+.microsoftonline-p.com'
 - '+.migu.cn'
 - '+.migudm.cn'
