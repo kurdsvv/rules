@@ -267,3 +267,4 @@ payload:
 - '+.wishfast.top'
 - '+.nnyy.in'
 - '+.lz-cdn10.com'
+- '+.cjkypo.com'
