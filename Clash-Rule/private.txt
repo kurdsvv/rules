@@ -270,3 +270,5 @@ payload:
 - '+.cjkypo.com'
 - '+.xmyysw.com'
 - '+.cdnlz3.com'
+- '+.ikzybf.com'
+- '+.ukubf5.com'
