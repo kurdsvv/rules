@@ -272,3 +272,4 @@ payload:
 - '+.cdnlz3.com'
 - '+.ikzybf.com'
 - '+.ukubf5.com'
+- '+.iz8qkg.com'
