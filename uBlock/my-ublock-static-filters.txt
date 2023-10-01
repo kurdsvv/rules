@@ -686,3 +686,19 @@ www.pornlulu.com###pornfind
 ! 2023-09-22 https://www.qinav.com
 www.qinav.com##div.word:nth-of-type(5)
 
+! 2023-09-23 https://pornvee.com
+pornvee.com##.lg\:pl-2.lg\:flex-none.flex-grow.lg\:block.hidden
+
+! 2023-09-23 https://www.douyu.com
+www.douyu.com###layout-Player-aside
+www.douyu.com##.layout-Player-asideMain
+
+! 2023-09-26 https://live.bilibili.com
+live.bilibili.com##.z-section-blocks.f-clear.section-block
+live.bilibili.com##.link-footer
+live.bilibili.com##.z-link-footer-ctnr.link-footer-ctnr
+live.bilibili.com##.bg-bright-filter.z-gift-control-section.border-box.p-relative.gift-control-section
+
+! 2023-09-30 https://yadong.space
+yadong.space##.happy-player-under.d-md-block.d-none > div
+
