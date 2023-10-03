@@ -248,3 +248,4 @@ payload:
 - '+.iz8qkg.com'
 - '+.filelions.com'
 - '+.filelions.online'
+- '+.cloudflare-dns.com'
