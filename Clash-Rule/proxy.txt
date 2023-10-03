@@ -19,4 +19,7 @@ payload:
 - '+.youtobe.com'
 - '+.ytimg.com'
 - '+.googlevideo.com'
+- '+.google.co.jp'
+- '+.google.co.hk'
+- '+.google.co.tw'
 - 'mtalk.google.com'
