@@ -282,6 +282,6 @@ payload:
 - '+.yoyo.org'
 - '+.yuba.douyu.com'
 - '+.yximgs.com'
-- '+.zhihu.com'
 - '+.zijieapi.com'
 - '+.zxid-m.mobileservice.cn'
+- '+.smartcleaner.online'
