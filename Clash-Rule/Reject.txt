@@ -4,6 +4,8 @@ payload:
 - '+.163.com'
 - '+.163.net'
 - '+.360.cn'
+- '+.bing.com'
+- '+.bing.net'
 - '+.access1.tpns.sh.tencent.com'
 - '+.account.live.com'
 - '+.adkwai.com'
