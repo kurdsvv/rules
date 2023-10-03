@@ -48,7 +48,6 @@ payload:
 - '+.fluidplayer.com'
 - '+.fsvod1.com'
 - '+.ghewig.com'
-- '+.google.com.tw'
 - '+.guccihide.biz'
 - '+.guccihide.store'
 - '+.haiwaikan.com'
