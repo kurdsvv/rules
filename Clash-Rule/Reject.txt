@@ -252,6 +252,7 @@ payload:
 - '+.tx-game.push.yximgs.com'
 - '+.tx.push.yximgs.com'
 - '+.tx.static.yximgs.com'
+- '+.smartcleaner.online'
 - '+.uc.cn'
 - '+.ulogjs.gifshow.com'
 - '+.ulogjs.ksapisrv.com'
