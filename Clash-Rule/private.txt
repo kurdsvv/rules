@@ -254,5 +254,5 @@ payload:
 - '+.iz8qkg.com'
 - '+.histar.tv'
 - '+.uhibo.com'
-- '+..*boku.*'
-- '+..*ulivetv.*'
+- '+.*boku.*'
+- '+.*ulivetv.*'
