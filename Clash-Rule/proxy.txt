@@ -80,7 +80,6 @@ payload:
 - '+.googleyoutube.com'
 - '+.googlr.com'
 - '+.goolge.com'
-- '+.gstatic.com'
 - '+.jsdelivr.net'
 - '+.youtobe.com'
 - '+.youtrannytube.com'
