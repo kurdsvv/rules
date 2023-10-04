@@ -251,3 +251,8 @@ payload:
 - '+.cloudflare-dns.com'
 - '+.v82u1l.com'
 - '+.kin6c1.com'
+- '+.iz8qkg.com'
+- '+.histar.tv'
+- '+.uhibo.com'
+- '+..*boku.*'
+- '+..*ulivetv.*'
