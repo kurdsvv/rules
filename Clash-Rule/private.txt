@@ -256,3 +256,4 @@ payload:
 - '+.uhibo.com'
 - '+.*boku.*'
 - '+.*ulivetv.*'
+- '+.encrypted*.gstatic.com'
