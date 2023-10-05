@@ -257,3 +257,4 @@ payload:
 - '+.*boku.*'
 - '+.*ulivetv.*'
 - '+.encrypted*.gstatic.com'
+- '+.dns.sb'
