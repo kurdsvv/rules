@@ -202,16 +202,7 @@ hclips.com##.underplayer__description
 noodlemagazine.com##.suggestions
 noodlemagazine.com##.footer
 
-! 2022-12-21 https://zh.xhamster19.com
-zh.xhamster19.com##.footer
-zh.xhamster19.com##div.related-container:nth-of-type(5)
-zh.xhamster19.com##div.related-container:nth-of-type(6)
-zh.xhamster19.com##.related-block
-zh.xhamster19.com##.sidebar
-zh.xhamster19.com##.top-menu-container
-zh.xhamster19.com##.top-header
-zh.xhamster19.com##.clearfix.comments-container.comments-section
-zh.xhamster19.com##.width-wrap.related-container
+
 
 ! 2022-12-21 https://hotgirl.asia
 ||disqus.com/embed/comments/?base=default&f=hotgirl-asia-1&t_i=238456%20https%3A%2F%2Fhotgirl.asia%2Fvideos%2Fdmsdms1247-korean-bj-kbj21120403_dmsdms1247_20210924%2F&t_u=https%3A%2F%2Fhotgirl.asia%2Fvideos%2Fdmsdms1247-korean-bj-kbj21120403_dmsdms1247_20210924%2F&t_e=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924&t_d=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924%20-%20Share%20erotic%20Asian%20girl%20picture%20%26%20livestream&t_t=dmsdms1247-%20KOREAN%20BJ%20kbj21120403_dmsdms1247_20210924&s_o=default$subdocument
@@ -501,9 +492,6 @@ herexxx.com##.footer.has-background-night-light.container
 ! 2023-06-17 https://tktube.com
 tktube.com##.table
 
-! 2023-06-17 https://zh.xhamster19.com
-zh.xhamster19.com##.desktop-38c41.pinned-38c41
-zh.xhamster19.com##header
 
 ! 2023-06-18 https://www.dnaav.com
 www.dnaav.com##[href="http://23.225.52.61:4466/vip252.html"] > .image
@@ -561,9 +549,6 @@ www.douyu.com##div.PlayerToolbar-Content:nth-of-type(1)
 kbjfree.com##.pb-6.md\:pt-24.pt-12.px-4.mt-auto
 kbjfree.com##.mantine-u9j1uq.gap-y-2.flex-col.flex.w-full.mt-4.mantine-Container-root
 
-! 2023-09-01 https://zh.xhamster19.com
-zh.xhamster19.com##.main-wrap > .width-wrap
-zh.xhamster19.com##.main-wrap > div
 
 ! 2023-09-02 https://cn.xsz-av.com
 cn.xsz-av.com###comments_input_container
@@ -701,4 +686,14 @@ live.bilibili.com##.bg-bright-filter.z-gift-control-section.border-box.p-relativ
 
 ! 2023-09-30 https://yadong.space
 yadong.space##.happy-player-under.d-md-block.d-none > div
+
+! 2023-10-04 https://cn.xsz-av.com
+cn.xsz-av.com##.bg-dark.navbar-dark.navbar-expand-md.navbar
+
+! 2023-10-04 https://www.acfun.cn
+www.acfun.cn##.comm.clearfix
+www.acfun.cn###footer
+
+! 2023-10-05 https://guangsuzy.com
+||www.88tupian.com:88/tu/a/1694274533.gif$image
 
