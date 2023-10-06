@@ -284,8 +284,6 @@ payload:
 - '+.yximgs.com'
 - '+.zijieapi.com'
 - '+.zxid-m.mobileservice.cn'
-- '+.smartcleaner.online'
-
 - 'a.nel.cloudflare.com'
 - 'access1.tpns.sh.tencent.com'
 - 'aeventlog.beacon.qq.com'
