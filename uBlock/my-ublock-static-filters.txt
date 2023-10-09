@@ -697,3 +697,17 @@ www.acfun.cn###footer
 ! 2023-10-05 https://guangsuzy.com
 ||www.88tupian.com:88/tu/a/1694274533.gif$image
 
+! 2023-10-06 https://site.ip138.com
+site.ip138.com##.mod-link > .bd > ul
+site.ip138.com##.mod-news
+
+! 2023-10-06 https://51cg1.com
+51cg1.com##blockquote:nth-of-type(1)
+51cg1.com###comments
+51cg1.com##blockquote > p
+51cg1.com##a.content-file:nth-of-type(2)
+51cg1.com##p:nth-of-type(5)
+51cg1.com##a.content-file:nth-of-type(3)
+51cg1.com##a.content-file:nth-of-type(1)
+51cg1.com##.content-tabs
+
