@@ -265,3 +265,5 @@ payload:
 - '+.letmejerk.com'
 - '+.fuqqt.com'
 - '+.kavseoul.com'
+- '+.hellocdn1.net'
+- '+.yadongplay.net'
