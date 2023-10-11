@@ -164,9 +164,8 @@ herexxx.com###content-tab-about
 ! 2022-12-21 https://pornzog.com
 pornzog.com##.cf.footer
 pornzog.com##.row
-pornzog.com##.header-top
 pornzog.com##.wrapper.main-content > .block-title
-pornzog.com##.cf.video-buttons-container
+
 
 ! 2022-12-21 https://txxxporn.tube
 txxxporn.tube##.footer.footer-desktop
@@ -710,4 +709,32 @@ site.ip138.com##.mod-news
 51cg1.com##a.content-file:nth-of-type(3)
 51cg1.com##a.content-file:nth-of-type(1)
 51cg1.com##.content-tabs
+
+! 2023-10-09 https://18av.online
+18av.online###widget_videos_block-4
+
+! 2023-10-09 https://xfantazy.com
+xfantazy.com##div.jss707:nth-of-type(3)
+
+! 2023-10-09 https://www.letmejerk.com
+www.letmejerk.com##.footer
+www.letmejerk.com##.bottom-text
+
+! 2023-10-09 https://kbj.tv
+kbj.tv##.footer.has-background-night-light.container
+kbj.tv##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
+kbj.tv##.has-background-night.container
+
+! 2023-10-10 https://www.letmejerk.com
+www.letmejerk.com##.header
+
+! 2023-10-10 https://www.erome.com
+www.erome.com##.comments-imSETeCU.comments
+
+! 2023-10-10 https://txxxporn.tube
+txxxporn.tube##.footer.footer-mobile
+
+! 2023-10-10 https://pornzog.com
+pornzog.com##.lil.thumbs-related.thumbs-list
+pornzog.com##.report-button.button
 
