@@ -570,11 +570,7 @@ www.douyu.com##.HeaderNav
 www.douyu.com##li.Header-menu-link:nth-of-type(6)
 www.douyu.com##.Video.public-DropMenu
 
-! 2023-09-09 https://inporn.com
-inporn.com##.tops > .carousel
-inporn.com##.app__wrapper > div.wrapper
-inporn.com##p
-inporn.com##.footer-row
+
 
 ! 2023-09-09 https://ch.hdsex.org
 ch.hdsex.org##.player-section__ads-banners
@@ -629,14 +625,7 @@ asianporn.li##.sidebar.d-lg-block.d-none.col-xl-2.col-lg-3
 ! 2023-09-19 https://kissjav.com
 kissjav.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
 
-! 2023-09-20 https://member.inporn.com
-member.inporn.com##.menu__wrapper
-member.inporn.com##div.wrapper:nth-of-type(6)
-member.inporn.com##div.wrapper:nth-of-type(3)
-member.inporn.com##.seo
-member.inporn.com##.video-info__items
-member.inporn.com##.card
-member.inporn.com##.tops__sites > .carousel
+
 
 ! 2023-09-22 https://pornvee.com
 pornvee.com##div.border-palette-1.border-t.py-8.mt-8.clear-both.mx-auto.container
@@ -737,4 +726,15 @@ txxxporn.tube##.footer.footer-mobile
 ! 2023-10-10 https://pornzog.com
 pornzog.com##.lil.thumbs-related.thumbs-list
 pornzog.com##.report-button.button
+
+! 2023-10-11 https://member.inporn.com
+inporn.com##.menu__wrapper
+inporn.com##.app__wrapper > div.wrapper
+inporn.com##.footer > .wrapper
+inporn.com##div.wrapper:nth-of-type(7)
+inporn.com##.tops > .carousel > .carousel__container > .carousel__list
+member.inporn.com##.tops__sites > .carousel > .carousel__container
+
+! 2023-10-12 https://www.xvideos.com
+www.xvideos.com##footer
 
