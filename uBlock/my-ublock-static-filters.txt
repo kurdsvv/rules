@@ -161,11 +161,6 @@ herexxx.com##.content-search-left
 herexxx.com##.top.full
 herexxx.com###content-tab-about
 
-! 2022-12-21 https://pornzog.com
-pornzog.com##.cf.footer
-pornzog.com##.row
-pornzog.com##.wrapper.main-content > .block-title
-
 
 ! 2022-12-21 https://txxxporn.tube
 txxxporn.tube##.footer.footer-desktop
@@ -187,15 +182,7 @@ xfantazy.com##div.MuiGrid-grid-lg-3.MuiGrid-grid-md-4.MuiGrid-grid-sm-6.MuiGrid-
 xfantazy.com##div.jss1256:nth-of-type(3)
 xfantazy.com##.MuiTypography-body1.jss1257.MuiTypography-root
 
-! 2022-12-21 https://hclips.com
-hclips.com##.sidebar
-hclips.com##.footer
-hclips.com##.iomzummumuooii
-hclips.com##.seo
-hclips.com##.header
-hclips.com##.video-page__related
-hclips.com##div.wrapper:nth-of-type(6)
-hclips.com##.underplayer__description
+
 
 ! 2022-12-21 https://noodlemagazine.com
 noodlemagazine.com##.suggestions
@@ -240,14 +227,7 @@ fc2ppv.com##.wrapper > .footer
 fc2ppv.com##.copyright
 fc2ppv.com##div.content-group-light.content-group:nth-of-type(7)
 
-! 2022-12-21 https://privatehomeclips.com
-privatehomeclips.com##.sidebar
-privatehomeclips.com##.header
-privatehomeclips.com##.footer
-privatehomeclips.com##.seo
-privatehomeclips.com##.iomzummumuooii
-privatehomeclips.com##div.wrapper:nth-of-type(6)
-privatehomeclips.com##.video-page__related
+
 
 ! 2022-12-21 https://kbjplay.com
 kbjplay.com##.rownone.related-post
@@ -300,13 +280,6 @@ watchfreeav.com##.st_hidden
 watchfreeav.com##.post-info-bottom
 watchfreeav.com##.entry > p
 
-! 2022-12-21 https://tktube.com
-tktube.com##.footer-wrap
-tktube.com##.header
-tktube.com##.top-links
-tktube.com##.navigation
-tktube.com##.tags-cloud.box
-tktube.com##.sidebar
 
 ! 2022-12-21 https://watchfreekavonline.com
 watchfreekavonline.com##.site-info
@@ -627,14 +600,7 @@ kissjav.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
 
 
 
-! 2023-09-22 https://pornvee.com
-pornvee.com##div.border-palette-1.border-t.py-8.mt-8.clear-both.mx-auto.container
-pornvee.com##footer.border-palette-1.border-t.py-8.mt-8.clear-both.mx-auto.container
-pornvee.com##.lg\:h-16.h-14.z-30.right-0.left-0.lg\:static.fixed.mx-auto.lg\:bg-palette-1.bg-palette-1
 
-! 2023-09-22 https://yadong.cam
-yadong.cam##.banner_m.text-center.col-xs-6.col-sm-6.col-md-4.float-left > [href^="https://david.cdnbuzz.buzz/go4.php"]
-yadong.cam##div.pc-only.row > .text-center.col-md-12
 
 ! 2023-09-22 https://tyler-brown.com
 tyler-brown.com##.footer
@@ -644,17 +610,8 @@ tyler-brown.com##.container > .c_title
 ! 2023-09-22 https://yadong.cam
 yadong.cam##.copyright
 
-! 2023-09-22 https://banan.tv
-banan.tv##.center
-banan.tv##.site-header
-banan.tv##.content-header
 
-! 2023-09-22 https://www.pornlulu.com
-www.pornlulu.com##.p-2.container-fluid
-www.pornlulu.com##.elevation-4.sidebar-light-primary.main-sidebar
-www.pornlulu.com##.navbar-dark.navbar-expand.navbar
-www.pornlulu.com##.auto-hide-show.main-header
-www.pornlulu.com###pornfind
+
 
 ! 2023-09-22 https://www.qinav.com
 www.qinav.com##div.word:nth-of-type(5)
@@ -723,9 +680,7 @@ www.erome.com##.comments-imSETeCU.comments
 ! 2023-10-10 https://txxxporn.tube
 txxxporn.tube##.footer.footer-mobile
 
-! 2023-10-10 https://pornzog.com
-pornzog.com##.lil.thumbs-related.thumbs-list
-pornzog.com##.report-button.button
+
 
 ! 2023-10-11 https://member.inporn.com
 inporn.com##.menu__wrapper
@@ -737,4 +692,7 @@ member.inporn.com##.tops__sites > .carousel > .carousel__container
 
 ! 2023-10-12 https://www.xvideos.com
 www.xvideos.com##footer
+
+! 2023-10-13 https://tporn.xxx
+tporn.xxx##.footer
 
