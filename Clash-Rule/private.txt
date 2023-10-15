@@ -267,3 +267,5 @@ payload:
 - '+.kavseoul.com'
 - '+.hellocdn1.net'
 - '+.yadongplay.net'
+- '+.streamtape.com'
+- '+.embedwish.com'
