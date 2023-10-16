@@ -696,3 +696,7 @@ www.xvideos.com##footer
 ! 2023-10-13 https://tporn.xxx
 tporn.xxx##.footer
 
+! 2023-10-16 https://www.youtube.com
+www.youtube.com##ytd-popup-container.ytd-app.style-scope
+www.youtube.com##.opened
+
