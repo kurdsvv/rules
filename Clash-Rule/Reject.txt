@@ -1,8 +1,4 @@
 payload:
-- '+.126.com'
-- '+.126.net'
-- '+.163.com'
-- '+.163.net'
 - '+.360.cn'
 - '+.access1.tpns.sh.tencent.com'
 - '+.account.live.com'
