@@ -60,7 +60,6 @@ payload:
 - '+.checkappexec.microsoft.com'
 - '+.clientservices.googleapis.com'
 - '+.cloudapp.net'
-- '+.cnblogs.com'
 - '+.conf.qvb.qcloud.com'
 - '+.config.pinyin.sogou.com'
 - '+.cpro.baidustatic.com'
