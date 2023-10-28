@@ -401,3 +401,4 @@ payload:
 - '+.apijs.ksapisrv.com'
 - '+.brpnrt.stsdk.vivo.com.cn'
 - '+.mozilla.cloudflare-dns.com'
+- '+.encrypted-tbn3.gstatic.com'
