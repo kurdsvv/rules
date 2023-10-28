@@ -14,8 +14,7 @@ payload:
 - '+.baobuzz.com'
 - '+.bjsplus.com'
 
-- '+.cableav.tv'
-- '+.camcam.cc'
+
 - '+.camhdxx.com'
 - '+.camperks.com'
 - '+.caoliuzycdn.com'
@@ -174,10 +173,7 @@ payload:
 - '+.private.com'
 - '+.streamable.com'
 
-- '+.streamhentaimovies.com'
-- '+.streamking.org'
-- '+.streamlatina.com'
-- '+.tapecontent.net'
+
 - '+.telegram-cdn.org'
 - '+.telegram.me'
 - '+.telegram.org'
