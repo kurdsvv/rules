@@ -246,14 +246,6 @@ javrank.com##.col-md-4.col-lg-3.sidebar
 javrank.com##.header
 javrank.com##.menu
 
-! 2022-12-21 https://www.hm822.xyz
-www.hm822.xyz##body > .box
-www.hm822.xyz##.main.section > .box
-www.hm822.xyz##.space.nav-secondary.white.nav
-www.hm822.xyz###top_c
-www.hm822.xyz##.text-line.row
-www.hm822.xyz##div.heading:nth-of-type(6)
-www.hm822.xyz##div.box:nth-of-type(7)
 
 ! 2022-12-21 http://camcam.cc
 camcam.cc##.ht-n-open.ht-n-top.default-width.ht-notification-section
@@ -284,14 +276,6 @@ cableav.tv##.primary-content-control
 pornkai.com##.logo_container
 pornkai.com##.header
 pornkai.com##.footer
-
-! 2022-12-21 https://www.dxxtv.com
-www.dxxtv.com##header:nth-of-type(1)
-www.dxxtv.com##.breadcrumb-d.mt-3.py-2.list-inline
-www.dxxtv.com##.text-center.card-header
-www.dxxtv.com##div.card-body > .row
-www.dxxtv.com##.mt-4.text-center
-
 
 
 ! 2022-12-21 https://shyav.com
@@ -592,15 +576,12 @@ site.ip138.com##.mod-news
 51cg1.com##a.content-file:nth-of-type(1)
 51cg1.com##.content-tabs
 
-! 2023-10-09 https://18av.online
-18av.online###widget_videos_block-4
+
 
 ! 2023-10-09 https://xfantazy.com
 xfantazy.com##div.jss707:nth-of-type(3)
 
-! 2023-10-09 https://www.letmejerk.com
-www.letmejerk.com##.footer
-www.letmejerk.com##.bottom-text
+
 
 ! 2023-10-09 https://kbj.tv
 kbj.tv##.footer.has-background-night-light.container
@@ -613,8 +594,7 @@ www.letmejerk.com##.header
 ! 2023-10-10 https://www.erome.com
 www.erome.com##.comments-imSETeCU.comments
 
-! 2023-10-10 https://txxxporn.tube
-txxxporn.tube##.footer.footer-mobile
+
 
 
 
@@ -647,4 +627,8 @@ zh.xhamster19.com##.footer
 
 ! 2023-10-26 https://51cg1.com
 51cg1.com##div.container:nth-of-type(2)
+
+! 2023-10-27 https://bbs.kanxue.com
+bbs.kanxue.com##.hidden-md.hidden-sm.pr-0.col-3
+xxxvjmp.com^$popup
 
