@@ -3,7 +3,7 @@ payload:
 - '+.1853723.xyz'
 - '+.6ql3077s.saoutech.com'
 - '+.adtidy.org'
-- '+.ahcdn.com'
+
 - '+.akamai-cdn-content.com'
 - '+.akamai-video-content.com'
 - '+.alipansou.com'
@@ -13,7 +13,7 @@ payload:
 - '+.avgle.com'
 - '+.baobuzz.com'
 - '+.bjsplus.com'
-- '+.bootstrapcdn.com'
+
 - '+.cableav.tv'
 - '+.camcam.cc'
 - '+.camhdxx.com'
@@ -91,8 +91,7 @@ payload:
 - '+.qinav.com'
 - '+.qooqlevideo.com'
 - '+.qqaku.com'
-- '+.sb-cd.com'
-- '+.sbbrisk.com'
+
 - '+.sbface.com'
 - '+.sblona.com'
 - '+.sbrapid.com'
@@ -162,8 +161,7 @@ payload:
 - '+.noodlemagazine.com'
 - '+.vjav.com'
 - '+.xsz-av.com'
-- '+.streamwish.to'
-- '+.streamwish.com'
+
 - '+.fembed.com'
 - '+.vscdns.com'
 - '+.xh.video'
@@ -175,7 +173,7 @@ payload:
 - '+.porkbun.com'
 - '+.private.com'
 - '+.streamable.com'
-- '+.streamate.com'
+
 - '+.streamhentaimovies.com'
 - '+.streamking.org'
 - '+.streamlatina.com'
@@ -254,8 +252,6 @@ payload:
 - '+.iz8qkg.com'
 - '+.histar.tv'
 - '+.uhibo.com'
-- '+.*boku.*'
-- '+.*ulivetv.*'
 - '+.encrypted*.gstatic.com'
 - '+.zgtcpt.shop'
 - '+.51cg1.com'
@@ -267,7 +263,4 @@ payload:
 - '+.kavseoul.com'
 - '+.hellocdn1.net'
 - '+.yadongplay.net'
-- '+.streamtape.com'
-- '+.embedwish.com'
-- '+.fviplions.com'
-- '+.sbchill.com'
+
