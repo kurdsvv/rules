@@ -79,18 +79,7 @@ thebjav.com##.row.site-branding
 thebjav.com##.site-footer
 thebjav.com##.site-header
 
-! 2022-12-21 https://jp.spankbang.com
-jp.spankbang.com##footer
-jp.spankbang.com##.related_keywords
-jp.spankbang.com##.info
-jp.spankbang.com##.timeline
-jp.spankbang.com##.similar
-jp.spankbang.com##.right
-jp.spankbang.com##header
 
-! 2022-12-21 https://clipsex.video
-clipsex.video##div.new:nth-of-type(11)
-clipsex.video##div.new:nth-of-type(13)
 
 ! 2022-12-21 https://taiav.com
 taiav.com##.uk-first-column.uk-grid-margin.uk-margin-medium-top.videos-box.uk-width-5-6\@m.uk-width-1-1
@@ -98,16 +87,6 @@ taiav.com##.uk-width-1-6\@m.uk-width-1-1
 taiav.com##.uk-flex-wrap.uk-flex-between.uk-flex.footer.uk-margin-top.uk-container
 taiav.com##.tm-navbar-container.uk-sticky-fixed.uk-sticky.uk-navbar-container.uk-light
 
-! 2022-12-21 https://www.xngel.com
-www.xngel.com##.row.footer-container
-www.xngel.com##.pt_video_comments.pt_shadow.content.comments-content
-www.xngel.com##div.col-md-6:nth-of-type(1)
-www.xngel.com##.desktop.pull-right.no-padding-left.col-md-4
-
-! 2022-12-21 https://hotwap.net
-hotwap.net##.cat-width > .cat-box
-hotwap.net##.cat-control > .top-links
-hotwap.net##.head
 
 ! 2022-12-21 https://www.camperks.com
 www.camperks.com##.filter
@@ -162,17 +141,9 @@ herexxx.com##.top.full
 herexxx.com###content-tab-about
 
 
-! 2022-12-21 https://txxxporn.tube
-txxxporn.tube##.footer.footer-desktop
-txxxporn.tube##.top-keywords
-txxxporn.tube##.page-description
-txxxporn.tube##.page-videos-sidebar.col-2
-txxxporn.tube##.header-desktop.header
 
-! 2022-12-21 https://kbjtube.com
-kbjtube.com##.site-header
-kbjtube.com##.with-sidebar-right.widget-area
-kbjtube.com##.site-footer
+
+
 
 ! 2022-12-21 https://xfantazy.com
 xfantazy.com##.jss325 > .jss326
@@ -195,17 +166,6 @@ noodlemagazine.com##.footer
 hotgirl.asia###footer > .container
 hotgirl.asia##.comentarios
 
-! 2022-12-21 https://xxxdan.com
-xxxdan.com###footer > .inner
-xxxdan.com##p:nth-of-type(2)
-xxxdan.com###header
-xxxdan.com##.mobile-hide.nav-main
-xxxdan.com###related-items > .gallery.panel-default.panel
-xxxdan.com##h1
-xxxdan.com###friends
-xxxdan.com###content > p
-
-
 
 
 
@@ -218,24 +178,10 @@ kbj19cam.com###main > .widget-title
 kbj19cam.com##.archive-description
 kbj19cam.com##.with-sidebar-right.widget-area
 
-! 2022-12-21 https://fc2ppv.com
-fc2ppv.com##.content-search-left
-fc2ppv.com##.top.full
-fc2ppv.com##.navi.full
-fc2ppv.com##.tablist
-fc2ppv.com##.wrapper > .footer
-fc2ppv.com##.copyright
-fc2ppv.com##div.content-group-light.content-group:nth-of-type(7)
 
 
 
-! 2022-12-21 https://kbjplay.com
-kbjplay.com##.rownone.related-post
-kbjplay.com##.col-lg-3
-kbjplay.com##.comments-area
-kbjplay.com##.site-main
-kbjplay.com##.site-info
-kbjplay.com##.row
+
 
 ! 2022-12-21 https://ch.videosection.com
 ch.videosection.com##.footer
@@ -263,13 +209,6 @@ www.tnaflix.com##.clear.wrapper > .clear
 www.tnaflix.com###ajax_content > .clear > .main
 www.tnaflix.com##.nlUvBlock.commentsBlockUnderVid > .commentsBlock
 
-! 2022-12-21 https://www.xero.porn
-www.xero.porn##.related.list
-www.xero.porn###extbase > .tab-content
-www.xero.porn##footer.container-fluid
-www.xero.porn##.sub
-www.xero.porn###contents > .container
-www.xero.porn###wrap
 
 ! 2022-12-21 https://watchfreeav.com
 ||watchfreeav.com/wp-content/uploads/2019/05/Untitled-1.jpg$image
@@ -290,8 +229,7 @@ watchfreekavonline.com##.darknews-header.header-layout-default
 kav.so##.header-layout-1
 kav.so##.entry-content > div
 
-! 2022-12-21 https://fr.spankbang.com
-fr.spankbang.com##header
+
 
 ! 2022-12-21 https://watchfreejavonline.co
 watchfreejavonline.co##.mg-menu-full > div
@@ -506,9 +444,7 @@ www.xvideos.com##.tab-button.comments
 ! 2023-06-29 https://watchfreekavonline.com
 watchfreekavonline.com##.social-after-title.read-single.entry-content-wrap > .pos-rel.read-img
 
-! 2023-08-25 https://xxxdan.com
-xxxdan.com##.clearfix.gallery.panel-default.panel.related
-xxxdan.com###footer
+
 
 ! 2023-08-26 http://camcam.cc
 camcam.cc##.video-infos
@@ -700,4 +636,15 @@ tporn.xxx##.footer
 
 youtube.com##.opened
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+
+! 2023-10-23 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Modal-content
+zhuanlan.zhihu.com##.Modal-backdrop
+
+! 2023-10-24 https://zh.xhamster19.com
+zh.xhamster19.com##.main-wrap > .width-wrap
+zh.xhamster19.com##.footer
+
+! 2023-10-26 https://51cg1.com
+51cg1.com##div.container:nth-of-type(2)
 
