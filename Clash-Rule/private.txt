@@ -270,3 +270,4 @@ payload:
 - '+.streamtape.com'
 - '+.embedwish.com'
 - '+.fviplions.com'
+- '+.sbchill.com'
