@@ -71,7 +71,6 @@ payload:
 - '+.d4-push.static.yximgs.com'
 - '+.da.mmarket.com'
 - '+.danmuproxy.douyu.com'
-- '+.data.microsoft.com'
 - '+.dotbeats.douyucdn.cn'
 - '+.dotcounter.douyucdn.cn'
 - '+.dotserver.douyucdn.cn'
