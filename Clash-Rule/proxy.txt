@@ -276,3 +276,4 @@ payload:
 - 'koreanbjvids.com'
 - 'licdn.cn.cdn20.com'
 - 'mtalk.google.com'
+- 'yadong36.shop'
