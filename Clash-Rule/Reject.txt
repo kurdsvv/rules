@@ -401,3 +401,4 @@ payload:
 - '+.brpnrt.stsdk.vivo.com.cn'
 - '+.mozilla.cloudflare-dns.com'
 - '+.encrypted-tbn*.gstatic.com'
+- 'basic-static-server.infinitynewtab.com'
