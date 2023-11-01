@@ -49,7 +49,6 @@ payload:
 - '+.doodcdn.com'
 - '+.dxxtv.com'
 - '+.efhie.com'
-- '+.embedwish.com'
 - '+.encrypted*.gstatic.com'
 - '+.erome.com'
 - '+.exkbj.com'
