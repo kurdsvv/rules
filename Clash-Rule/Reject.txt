@@ -400,5 +400,6 @@ payload:
 - '+.apijs.ksapisrv.com'
 - '+.brpnrt.stsdk.vivo.com.cn'
 - '+.mozilla.cloudflare-dns.com'
-- '+.encrypted-tbn*.gstatic.com'
+- 'encrypted-tbn0.gstatic.com'
+- 'encrypted-tbn3.gstatic.com'
 - 'basic-static-server.infinitynewtab.com'
