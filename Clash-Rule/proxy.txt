@@ -250,7 +250,6 @@ payload:
 - '+.xmyysw.com'
 - '+.xnxx-cdn.com'
 - '+.xxxdan.com'
-- '+.yadong88.shop'
 - '+.yadongpang.net'
 - '+.yadongplay.com'
 - '+.yadongplay.net'
