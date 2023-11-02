@@ -632,3 +632,23 @@ zh.xhamster19.com##.footer
 bbs.kanxue.com##.hidden-md.hidden-sm.pr-0.col-3
 xxxvjmp.com^$popup
 
+! 2023-11-01 https://blog.csdn.net
+blog.csdn.net##.recommend-box-style.insert-baidu-box.recommend-box
+blog.csdn.net##.blog-footer-bottom
+
+! 2023-11-01 https://zh.stripchat.com
+zh.stripchat.com##.default-footer
+
+! 2023-11-01 https://chaturbate.com
+||static-assets.highwebmedia.com/images/bg-footer-holder.gif?cc1e09ef1e7a$image
+||static-assets.highwebmedia.com/images/bg-footer-holder.gif?cc1e09ef1e7a$image
+chaturbate.com##.footer-holder
+chaturbate.com###roomTabs
+
+! 2023-11-01 https://zh.stripchat.com
+zh.stripchat.com##.model-chat-size-large.model-chat-normal.model-chat
+zh.stripchat.com##.chat
+
+! 2023-11-02 https://koreanbjvids.com
+koreanbjvids.com##.box-shadow.title-block
+
