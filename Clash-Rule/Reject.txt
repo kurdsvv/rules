@@ -425,7 +425,7 @@ payload:
 - '+.path.qidian.com'
 - '+.static.zhihu.com'
 - '+.pic2.zhimg.com'
-
+- '+.play.google.com'
 - '+.tangram.e.qq.com'
 - '+.pic3.zhimg.com'
 - 'encrypted-tbn3.gstatic.com'
