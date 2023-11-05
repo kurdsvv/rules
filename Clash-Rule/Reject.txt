@@ -98,8 +98,6 @@ payload:
 - '+.gm.mmstat.com'
 - '+.google-analytics.com'
 - '+.guid.tpns.sh.tencent.com'
-- '+.gvt2.com'
-- '+.gvt3.com'
 - '+.h-adashx.ut.taobao.com'
 - '+.h.trace.qq.com'
 - '+.hlstct.douyucdn2.cn'
