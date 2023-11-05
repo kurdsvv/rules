@@ -425,9 +425,11 @@ payload:
 - '+.path.qidian.com'
 - '+.static.zhihu.com'
 - '+.pic2.zhimg.com'
-- '+.e2c6.gcp.gvt2.com'
+
 - '+.tangram.e.qq.com'
 - '+.pic3.zhimg.com'
-- '+.e2c28.gcp.gvt2.com'
 - 'encrypted-tbn3.gstatic.com'
 - 'basic-static-server.infinitynewtab.com'
+- '+.gcp.gvt2.com'
+- '+.gvt3.com'
+- '+.gvt2.com'
