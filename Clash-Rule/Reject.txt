@@ -432,3 +432,4 @@ payload:
 - '+.gcp.gvt2.com'
 - '+.gvt3.com'
 - '+.gvt2.com'
+- 'go.microsoft.com'
