@@ -1,5 +1,5 @@
 payload:
-
+- '+.sb-cd.com'
 - '+.accounts.google.com'
 - '+.accounts.googlers.com'
 - '+.ahcdn.com'
