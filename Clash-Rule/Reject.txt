@@ -433,3 +433,4 @@ payload:
 - '+.gvt3.com'
 - '+.gvt2.com'
 - 'go.microsoft.com'
+- 'gameimg.qidian.com'
