@@ -67,3 +67,4 @@ payload:
 - '+.olevod.com'
 - '+.mzyglc.xyz'
 - '+.pandalive.co.kr'
+- '+.rutood.com'
