@@ -434,3 +434,5 @@ payload:
 - '+.gvt2.com'
 - 'go.microsoft.com'
 - 'gameimg.qidian.com'
+- '+.msn.com'
+- '+.update.microsoft.com'
