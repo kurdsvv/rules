@@ -50,3 +50,4 @@ payload:
 - '+.yuewen.com'
 - '+.yun.ssdm.cc'
 - '+.yzzy-tv-cdn.com'
+- '+.weatheroffer.com'
