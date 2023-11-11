@@ -416,8 +416,6 @@ payload:
 - '+.unpkg.zhimg.com'
 - '+.easytomessage.com'
 - '+.fourier.taobao.com'
-- '+.e2c34.gcp.gvt2.com'
-- '+.e2c56.gcp.gvt2.com'
 - '+.audid-api.taobao.com'
 - '+.e2c57.gcp.gvt2.com'
 - '+.broadcast.chat.bilibili.com'
