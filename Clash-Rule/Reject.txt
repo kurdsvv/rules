@@ -436,3 +436,4 @@ payload:
 - '+.update.microsoft.com'
 - '+.clickwifi.net'
 - '+.nelreports.net'
+- 'img3.chouti.comhttps'
