@@ -440,3 +440,4 @@ payload:
 - 'intake-logging.wikimedia.org'
 - 'iecvlist.microsoft.com'
 - 'settings-win.data.microsoft.com'
+- '+.live.com'
