@@ -54,3 +54,4 @@ payload:
 - '+.digicert.com'
 - '+.videotxxx.com'
 - '+.txxx.tube'
+- '+.statically.io'
