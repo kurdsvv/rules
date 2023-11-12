@@ -437,3 +437,4 @@ payload:
 - '+.clickwifi.net'
 - '+.nelreports.net'
 - 'img3.chouti.comhttps'
+- 'intake-logging.wikimedia.org;
