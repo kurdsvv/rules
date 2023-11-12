@@ -434,4 +434,5 @@ payload:
 - 'gameimg.qidian.com'
 - '+.msn.com'
 - '+.update.microsoft.com'
-- '+.clickwifi.net;
+- '+.clickwifi.net'
+- '+.nelreports.net'
