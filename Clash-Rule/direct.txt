@@ -53,3 +53,4 @@ payload:
 - '+.weatheroffer.com'
 - '+.digicert.com'
 - '+.videotxxx.com'
+- '+.txxx.tube'
