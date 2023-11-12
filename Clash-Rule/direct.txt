@@ -51,3 +51,4 @@ payload:
 - '+.yun.ssdm.cc'
 - '+.yzzy-tv-cdn.com'
 - '+.weatheroffer.com'
+- '+.digicert.com'
