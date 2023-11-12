@@ -652,3 +652,9 @@ zh.stripchat.com##.chat
 ! 2023-11-02 https://koreanbjvids.com
 koreanbjvids.com##.box-shadow.title-block
 
+! 2023-11-10 https://zh.xhamster19.com
+zh.xhamster19.com##.no-update.vertical.yld-pccams-wgt
+zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
+
+kbjav.com##^script:has-text(/univresalP/)
+
