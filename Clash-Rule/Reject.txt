@@ -439,3 +439,4 @@ payload:
 - 'img3.chouti.comhttps'
 - 'intake-logging.wikimedia.org'
 - 'iecvlist.microsoft.com'
+- 'settings-win.data.microsoft.com'
