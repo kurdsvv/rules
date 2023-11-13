@@ -441,3 +441,4 @@ payload:
 - 'iecvlist.microsoft.com'
 - 'settings-win.data.microsoft.com'
 - '+.live.com'
+- 'activation-v2.sls.microsoft.com'
