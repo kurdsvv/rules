@@ -64,3 +64,4 @@ payload:
 - '+.mzyglc.xyz'
 - '+.pandalive.co.kr'
 - '+.rutood.com'
+- '+.asianviralhub.com'
