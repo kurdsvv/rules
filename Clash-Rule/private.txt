@@ -65,3 +65,4 @@ payload:
 - '+.pandalive.co.kr'
 - '+.rutood.com'
 - '+.asianviralhub.com'
+- '+.kbj.tv'
