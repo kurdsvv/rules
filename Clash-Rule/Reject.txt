@@ -442,3 +442,4 @@ payload:
 - 'settings-win.data.microsoft.com'
 - '+.live.com'
 - 'activation-v2.sls.microsoft.com'
+- '+.gfe.nvidia.com'
