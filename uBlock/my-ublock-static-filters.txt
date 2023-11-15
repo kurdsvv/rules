@@ -656,7 +656,6 @@ koreanbjvids.com##.box-shadow.title-block
 zh.xhamster19.com##.no-update.vertical.yld-pccams-wgt
 zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 
-
 ||s1.kav.so^$inline-script
 ||taiav.com^$inline-script
 ||watchfreekav.com^$inline-script
@@ -685,7 +684,6 @@ zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 ||qinav.com^$inline-script
 ||thefantazy.com^$inline-script
 ||kavporn.com^$inline-script
-||kbjav.com^$inline-script
 ||thekbjcam.com^$inline-script
 ||erome.com^$inline-script
 ||sexbjcam.com^$inline-script
@@ -701,4 +699,7 @@ zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 ||hotgirl.asia^$inline-script
 ||kissjav.com^$inline-script
 ||kbj.tv^$inline-script
+||kbjav.com^$inline-script
+!kbjav.com##+js(acis,/univresalP/)
+!kbjav.com##+js(nowoif)
 
