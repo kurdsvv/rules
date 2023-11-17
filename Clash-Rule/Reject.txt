@@ -443,3 +443,4 @@ payload:
 - '+.live.com'
 - 'activation-v2.sls.microsoft.com'
 - '+.gfe.nvidia.com'
+- 'dmd.metaservices.microsoft.com'
