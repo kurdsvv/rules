@@ -657,7 +657,7 @@ zh.xhamster19.com##.no-update.vertical.yld-pccams-wgt
 zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 
 ||s1.kav.so^$inline-script
-||taiav.com^$inline-script
+
 ||watchfreekav.com^$inline-script
 ||spankbang.com^$inline-script
 ||avgle.com^$inline-script
@@ -676,16 +676,14 @@ zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 ||tyler-brown.com^$inline-script
 ||hdsex.org^$inline-script
 ||inporn.com^$inline-script
-||kavseoul.com^$inline-script
+
 ||redd.tube^$inline-script
 ||51cg1.com^$inline-script
 ||asianporn.li^$inline-script
 ||pornkai.com^$inline-script
 ||qinav.com^$inline-script
-||thefantazy.com^$inline-script
 ||kavporn.com^$inline-script
 ||thekbjcam.com^$inline-script
-||erome.com^$inline-script
 ||sexbjcam.com^$inline-script
 ||thebjav.com^$inline-script
 ||sexkbj.com^$inline-script
@@ -700,6 +698,23 @@ zh.xhamster19.com##.horizontal.as-width-wrap.no-update.yld-pccams-wgt
 ||kissjav.com^$inline-script
 ||kbj.tv^$inline-script
 ||kbjav.com^$inline-script
+||thefantazy.com^$inline-script
+
+kavseoul.com##+js(set,adConfig,undefined)
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
+! 2023-11-15 https://asianviralhub.com
+asianviralhub.com##.top-links
+asianviralhub.com##.footer
+asianviralhub.com##.tags-cloud.box
+asianviralhub.com###list_videos_related_videos
+asianviralhub.com##.info-buttons
+asianviralhub.com##nav
+asianviralhub.com##.notice
+asianviralhub.com##.header
+asianviralhub.com##.search-cloud.box
+asianviralhub.com##.sidebar
+
+! 2023-11-17 https://www.erome.com
+www.erome.com###disclaimer
 
