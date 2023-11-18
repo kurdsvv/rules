@@ -55,3 +55,4 @@ payload:
 - '+.videotxxx.com'
 - '+.txxx.tube'
 - '+.statically.io'
+- '+.k2s.cc'
