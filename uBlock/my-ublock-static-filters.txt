@@ -659,6 +659,16 @@ asianviralhub.com##.sidebar
 ! 2023-11-17 https://www.erome.com
 www.erome.com###disclaimer
 
+! 2023-11-19 https://kissjav.com
+kissjav.com###related-videos
+kissjav.com###comments
+kissjav.com##footer
+kissjav.com##.mb-2.is-size-5
+kissjav.com##.mt-2.has-text-centered-tablet.has-text-centered-mobile.is-align-items-stretch.is-justify-content-center.is-flex-wrap-wrap.is-flex
+kissjav.com##hr.page-divider:nth-of-type(1)
+kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
+
+
 ||s1.kav.so^$inline-script
 ||watchfreekav.com^$inline-script
 ||spankbang.com^$inline-script
@@ -685,14 +695,13 @@ www.erome.com###disclaimer
 ||thebjav.com^$inline-script
 ||koreanbjvids.com^$inline-script
 ||videosection.com^$inline-script
-||mrjav.net^$inline-script
+
 ||camcam.cc^$inline-script
 ||s1.kbj.so^$inline-script
 ||kbj19cam.com^$inline-script
 ||kbjfree.com^$inline-script
 ||hotgirl.asia^$inline-script
-||kissjav.com^$inline-script
-||kbj.tv^$inline-script
+
 ||kbjav.com^$inline-script
 ||thefantazy.com^$inline-script
 
@@ -708,4 +717,3 @@ yadongpang.net##+js(set,setInterval,noopFunc)
 
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
-
