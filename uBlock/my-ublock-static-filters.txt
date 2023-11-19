@@ -141,10 +141,6 @@ herexxx.com##.top.full
 herexxx.com###content-tab-about
 
 
-
-
-
-
 ! 2022-12-21 https://xfantazy.com
 xfantazy.com##.jss325 > .jss326
 ||xfantazy.com/assets/fdm/red.jpg$image
@@ -167,20 +163,12 @@ hotgirl.asia###footer > .container
 hotgirl.asia##.comentarios
 
 
-
-
-
-
 ! 2022-12-21 https://kbj19cam.com
 kbj19cam.com##.site-header
 kbj19cam.com##.br-bottom-10.site-footer
 kbj19cam.com###main > .widget-title
 kbj19cam.com##.archive-description
 kbj19cam.com##.with-sidebar-right.widget-area
-
-
-
-
 
 
 ! 2022-12-21 https://ch.videosection.com
@@ -709,8 +697,7 @@ www.erome.com###disclaimer
 ||thefantazy.com^$inline-script
 
 
-pornzog.com##+js(set,AdManager.init,undefined)
-
+pornzog.com##+js(set,AdManager.init,noopFunc)
 kavporn.com##+js(set,adConfig,undefined)
 watchfreekavonline.com##+js(set,adConfig,undefined)
 kavseoul.com##+js(set,adConfig,undefined)
