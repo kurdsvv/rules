@@ -710,10 +710,26 @@ pornzog.com##+js(set,AdManager.init,noopFunc)
 kavporn.com##+js(set,adConfig,undefined)
 watchfreekavonline.com##+js(set,adConfig,undefined)
 kavseoul.com##+js(set,adConfig,undefined)
-yadongpang.net##+js(set,board_move,noopFunc)  
-yadongpang.net##+js(set,setTimeout,noopFunc)  
-yadongpang.net##+js(set,setInterval,noopFunc)  
+!yadongpang.net##+js(set,setTimeout,noopFunc)  
+!yadongpang.net##+js(set,board_move,noopFunc)  
+!yadongpang.net##+js(set,setInterval,noopFunc) 
 
 
+!wenku.so.com##+js(set,setTimeout,noopFunc)  
+!wenku.so.com##+js(set,setInterval,noopFunc)  
+
+/banner.js
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
+
+! 2023-11-19 https://hotgirl.asia
+hotgirl.asia##.mvi-content
+hotgirl.asia###mv-keywords
+
+! 2023-11-19 https://yadongpang.net
+yadongpang.net###menu_table
+
+! 2023-12-01 https://www.bilibili.com
+www.bilibili.com##.bili-mini-content-wp
+www.bilibili.com##.bili-mini-mask
+
