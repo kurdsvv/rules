@@ -8,35 +8,11 @@ mp.weixin.qq.com##.rich_media_area_extra
 mp.weixin.qq.com##.js_darkmode__291.__bg_gif.wxw-img.rich_pages
 
 
-
-! 2022-10-02 https://www.douyu.com
-www.douyu.com##.RandomPKBar-content
-||shark2.douyucdn.cn/front-publish/live-master/assets/images/open_b8efb48.webp$image
-www.douyu.com##.is-show.ActBase.ACTDrillPowder202209
-www.douyu.com##.is-show.ActBase.PlayATrick
-www.douyu.com##.ToolbarActivityArea
+! 2023-12-02 https://www.douyu.com
+www.douyu.com##.Bottom
 www.douyu.com##.layout-Aside
-
-! 2022-10-03 https://www.douyu.com
-www.douyu.com##.layout-Bottom
-
-! 2022-10-21 https://www.douyu.com
-||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/logo_1b3821c.png$image
-www.douyu.com##.LSPRoot-logo
-||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/gift-album_630af8a.png$image
-www.douyu.com##.LSPMission
-www.douyu.com##.ActBase-switchWrap
-
-! 2022-10-22 https://www.douyu.com
-||shark2.douyucdn.cn/front-publish/live-starlight-palace-master/assets/images/gift-album_630af8a.png$image
-www.douyu.com##.ActRotation
-
-! 2022-10-29 https://www.douyu.com
-www.douyu.com##.is-show.ActBase.ACTPANDORABOX
-www.douyu.com##.is-show.ActBase.HALLOWEENACT202211
-
-
-
+www.douyu.com##.layout-Player-aside
+www.douyu.com##.ToolbarActivityArea
 
 ! 2022-12-21 https://watchfreekav.com
 watchfreekav.com##.af-middle-header
@@ -271,10 +247,7 @@ shyav.com##.top.full
 shyav.com##.tablist
 shyav.com##.wrapper > .footer
 
-! 2022-12-22 https://www.douyu.com
-www.douyu.com##div.wm-general:nth-of-type(1)
-www.douyu.com###bc47
-www.douyu.com###bc46
+
 
 
 
@@ -366,7 +339,12 @@ koreanbjvids.com##.site-footer
 
 ! 2023-06-02 https://live.bilibili.com
 live.bilibili.com###full-screen-interactive-wrap
-
+live.bilibili.com##.z-section-blocks.f-clear.section-block
+live.bilibili.com##.link-footer
+live.bilibili.com##.z-link-footer-ctnr.link-footer-ctnr
+live.bilibili.com##.bg-bright-filter.z-gift-control-section.border-box.p-relative.gift-control-section
+www.bilibili.com##.bili-mini-content-wp
+www.bilibili.com##.bili-mini-mask
 ! 2023-06-02 https://herexxx.com
 herexxx.com##.pt-2.is-justify-content-space-between.navbar-brand
 herexxx.com##.footer.has-background-night-light.container
@@ -421,9 +399,8 @@ watchfreekavonline.com##.social-after-title.read-single.entry-content-wrap > .po
 ! 2023-08-26 http://camcam.cc
 camcam.cc##.video-infos
 
-! 2023-08-26 https://www.douyu.com
-www.douyu.com##.ToolbarGiftArea-GiftBox
-www.douyu.com##div.PlayerToolbar-Content:nth-of-type(1)
+
+
 
 ! 2023-08-31 https://kbjfree.com
 kbjfree.com##.pb-6.md\:pt-24.pt-12.px-4.mt-auto
@@ -443,13 +420,7 @@ www.qinav.com##.footer
 www.qinav.com##.bar
 www.qinav.com##.b300
 
-! 2023-09-09 https://www.douyu.com
-www.douyu.com##.layout-Player-toolbar
-www.douyu.com##.layout-Player-chat
-www.douyu.com##.Game.public-DropMenu
-www.douyu.com##.HeaderNav
-www.douyu.com##li.Header-menu-link:nth-of-type(6)
-www.douyu.com##.Video.public-DropMenu
+
 
 
 
@@ -471,11 +442,8 @@ ch.hdsex.org##div.ads-el.video:nth-of-type(53)
 ch.hdsex.org##div.ads-el.video:nth-of-type(52)
 ch.hdsex.org##div.ads-el.video:nth-of-type(54)
 
-! 2023-09-13 https://www.douyu.com
-www.douyu.com##.is-show.ActBase.ACT-DIAMOND-CARNIVAL
 
-! 2023-09-15 https://www.douyu.com
-www.douyu.com##.is-show.ActBase.HofAnchor202309
+
 
 ! 2023-09-16 https://blog.csdn.net
 blog.csdn.net##.passport-login-box
@@ -490,7 +458,7 @@ yadongpang.net##li.gnb_1dli:nth-of-type(7)
 yadongpang.net##li.gnb_1dli:nth-of-type(6)
 yadongpang.net##li.gnb_1dli:nth-of-type(4)
 yadongpang.net###banner
-
+yadongpang.net###menu_table
 ! 2023-09-18 https://blog.csdn.net
 blog.csdn.net##.blog_container_aside
 
@@ -527,15 +495,9 @@ www.qinav.com##div.word:nth-of-type(5)
 ! 2023-09-23 https://pornvee.com
 pornvee.com##.lg\:pl-2.lg\:flex-none.flex-grow.lg\:block.hidden
 
-! 2023-09-23 https://www.douyu.com
-www.douyu.com###layout-Player-aside
-www.douyu.com##.layout-Player-asideMain
 
-! 2023-09-26 https://live.bilibili.com
-live.bilibili.com##.z-section-blocks.f-clear.section-block
-live.bilibili.com##.link-footer
-live.bilibili.com##.z-link-footer-ctnr.link-footer-ctnr
-live.bilibili.com##.bg-bright-filter.z-gift-control-section.border-box.p-relative.gift-control-section
+
+
 
 ! 2023-09-30 https://yadong.space
 yadong.space##.happy-player-under.d-md-block.d-none > div
@@ -563,7 +525,9 @@ site.ip138.com##.mod-news
 51cg1.com##a.content-file:nth-of-type(3)
 51cg1.com##a.content-file:nth-of-type(1)
 51cg1.com##.content-tabs
-
+51cg1.com##div.container:nth-of-type(2)
+51cg1.com##.flash
+51cg1.com###footer
 
 
 ! 2023-10-09 https://xfantazy.com
@@ -613,8 +577,7 @@ zhuanlan.zhihu.com##.Modal-backdrop
 zh.xhamster19.com##.main-wrap > .width-wrap
 zh.xhamster19.com##.footer
 
-! 2023-10-26 https://51cg1.com
-51cg1.com##div.container:nth-of-type(2)
+
 
 ! 2023-10-27 https://bbs.kanxue.com
 bbs.kanxue.com##.hidden-md.hidden-sm.pr-0.col-3
@@ -668,45 +631,54 @@ kissjav.com##.mt-2.has-text-centered-tablet.has-text-centered-mobile.is-align-it
 kissjav.com##hr.page-divider:nth-of-type(1)
 kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
 
+! 2023-12-01 https://hellocdn1.net
+||hellocdn1.net/count.js$script,1p
+||hellocdn1.net/view.js$script,domain=yadongpang.net
+||hellocdn1.net/cnt.js$script,domain=yadongpang.net
+||img.hellocdn1.net/banner/pa/banner.js$script,domain=yadongpang.net
+!||s1.kav.so^$inline-script
+!||watchfreekav.com^$inline-script
+!||spankbang.com^$inline-script
+!||avgle.com^$inline-script
+!||herexxx.com^$inline-script
+!||xhamster19.com^$inline-script
+!||watchfreejavonline.co^$inline-script
+!||javrank.com^$inline-script
+!||xsz-av.com^$inline-script
+!||xnxx.com^$inline-script
+!||fuqqt.com^$inline-script
+!||shyav.com^$inline-script
+!||noodlemagazine.com^$inline-script
+!||tyler-brown.com^$inline-script
+!||hdsex.org^$inline-script
+!||inporn.com^$inline-script
+!||redd.tube^$inline-script
+!||51cg1.com^$inline-script
+!||asianporn.li^$inline-script
+!||pornkai.com^$inline-script!
+!||qinav.com^$inline-script
+!||thekbjcam.com^$inline-script
+!||sexbjcam.com^$inline-script
+!||thebjav.com^$inline-script
+!||koreanbjvids.com^$inline-script
+!||videosection.com^$inline-script
 
-||s1.kav.so^$inline-script
-||watchfreekav.com^$inline-script
-||spankbang.com^$inline-script
-||avgle.com^$inline-script
-||herexxx.com^$inline-script
-||xhamster19.com^$inline-script
-||watchfreejavonline.co^$inline-script
-||javrank.com^$inline-script
-||xsz-av.com^$inline-script
-||xnxx.com^$inline-script
-||fuqqt.com^$inline-script
-||shyav.com^$inline-script
-||noodlemagazine.com^$inline-script
-||tyler-brown.com^$inline-script
-||hdsex.org^$inline-script
-||inporn.com^$inline-script
-||redd.tube^$inline-script
-||51cg1.com^$inline-script
-||asianporn.li^$inline-script
-||pornkai.com^$inline-script
-||qinav.com^$inline-script
-||thekbjcam.com^$inline-script
-||sexbjcam.com^$inline-script
-||thebjav.com^$inline-script
-||koreanbjvids.com^$inline-script
-||videosection.com^$inline-script
+!||camcam.cc^$inline-script
+!||s1.kbj.so^$inline-script
+!||kbj19cam.com^$inline-script
+!||kbjfree.com^$inline-script
+!||hotgirl.asia^$inline-script
 
-||camcam.cc^$inline-script
-||s1.kbj.so^$inline-script
-||kbj19cam.com^$inline-script
-||kbjfree.com^$inline-script
-||hotgirl.asia^$inline-script
-
-||kbjav.com^$inline-script
-||thefantazy.com^$inline-script
+!||kbjav.com^$inline-script
+!||thefantazy.com^$inline-script
 
 
-pornzog.com##+js(set,AdManager.init,noopFunc)
+! 2023-12-02 https://pornzog.com
+pornzog.com##.cf.footer
+pornzog.com##.row
+pornzog.com##.jsMenuContainer.header-menu
+pornzog.com##.video-ntv-list
+!pornzog.com##+js(set,AdManager.init,noopFunc)
 kavporn.com##+js(set,adConfig,undefined)
 watchfreekavonline.com##+js(set,adConfig,undefined)
 kavseoul.com##+js(set,adConfig,undefined)
@@ -718,18 +690,10 @@ kavseoul.com##+js(set,adConfig,undefined)
 !wenku.so.com##+js(set,setTimeout,noopFunc)  
 !wenku.so.com##+js(set,setInterval,noopFunc)  
 
-/banner.js
+
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
-
 ! 2023-11-19 https://hotgirl.asia
 hotgirl.asia##.mvi-content
 hotgirl.asia###mv-keywords
-
-! 2023-11-19 https://yadongpang.net
-yadongpang.net###menu_table
-
-! 2023-12-01 https://www.bilibili.com
-www.bilibili.com##.bili-mini-content-wp
-www.bilibili.com##.bili-mini-mask
 
