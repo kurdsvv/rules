@@ -56,3 +56,7 @@ payload:
 - '+.txxx.tube'
 - '+.statically.io'
 - '+.k2s.cc'
+- '+.iyhdmm.com'
+- '+.lz-cdn14.com'
+- '+.yzzy-online.com'
+- '+.vip-vip-yzzy.com'
