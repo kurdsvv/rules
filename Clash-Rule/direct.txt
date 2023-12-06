@@ -60,3 +60,4 @@ payload:
 - '+.lz-cdn14.com'
 - '+.yzzy-online.com'
 - '+.vip-vip-yzzy.com'
+- '+.msdl.micosoft.com'
