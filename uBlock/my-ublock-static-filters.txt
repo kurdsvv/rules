@@ -57,11 +57,6 @@ thebjav.com##.site-header
 
 
 
-! 2022-12-21 https://taiav.com
-taiav.com##.uk-first-column.uk-grid-margin.uk-margin-medium-top.videos-box.uk-width-5-6\@m.uk-width-1-1
-taiav.com##.uk-width-1-6\@m.uk-width-1-1
-taiav.com##.uk-flex-wrap.uk-flex-between.uk-flex.footer.uk-margin-top.uk-container
-taiav.com##.tm-navbar-container.uk-sticky-fixed.uk-sticky.uk-navbar-container.uk-light
 
 
 ! 2022-12-21 https://www.camperks.com
@@ -277,9 +272,6 @@ www.pornfind.org##.main-footer
 m.weibo.cn##ul.m-wpbtn-list > li
 m.weibo.cn##.m-wpop-box
 
-! 2023-05-18 https://taiav.com
-taiav.com##div.uk-margin-top.uk-container > center
-taiav.com##.globalads > div > div
 
 
 ! 2023-05-18 https://www.tnaflix.com
@@ -476,8 +468,6 @@ kissjav.com##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
 
 
 
-
-
 ! 2023-09-22 https://tyler-brown.com
 tyler-brown.com##.footer
 tyler-brown.com##.suggestions
@@ -486,17 +476,11 @@ tyler-brown.com##.container > .c_title
 ! 2023-09-22 https://yadong.cam
 yadong.cam##.copyright
 
-
-
-
 ! 2023-09-22 https://www.qinav.com
 www.qinav.com##div.word:nth-of-type(5)
 
 ! 2023-09-23 https://pornvee.com
 pornvee.com##.lg\:pl-2.lg\:flex-none.flex-grow.lg\:block.hidden
-
-
-
 
 
 ! 2023-09-30 https://yadong.space
@@ -534,7 +518,6 @@ site.ip138.com##.mod-news
 xfantazy.com##div.jss707:nth-of-type(3)
 
 
-
 ! 2023-10-09 https://kbj.tv
 kbj.tv##.footer.has-background-night-light.container
 kbj.tv##.is-hidden-tablet-only.is-hidden-mobile.is-narrow.column
@@ -546,9 +529,12 @@ www.letmejerk.com##.header
 ! 2023-10-10 https://www.erome.com
 www.erome.com##.comments-imSETeCU.comments
 
-
-
-
+! 2023-12-02 https://pornzog.com
+pornzog.com##.cf.footer
+pornzog.com##.row
+pornzog.com##.jsMenuContainer.header-menu
+pornzog.com##.video-ntv-list
+!pornzog.com##+js(set,AdManager.init,noopFunc)
 
 ! 2023-10-11 https://member.inporn.com
 inporn.com##.menu__wrapper
@@ -577,6 +563,17 @@ zhuanlan.zhihu.com##.Modal-backdrop
 zh.xhamster19.com##.main-wrap > .width-wrap
 zh.xhamster19.com##.footer
 
+! 2023-11-19 https://hotgirl.asia
+hotgirl.asia##.mvi-content
+hotgirl.asia###mv-keywords
+
+
+
+! 2023-12-02 https://taiav.com
+taiav.com##.uk-container.uk-margin-top.footer.uk-flex.uk-flex-between.uk-flex-wrap
+taiav.com##div.uk-margin-top.uk-container:nth-of-type(3)
+taiav.com##.uk-width-1-6\@m.uk-width-1-1
+taiav.com##.uk-container-expand.uk-container
 
 
 ! 2023-10-27 https://bbs.kanxue.com
@@ -630,19 +627,28 @@ kissjav.com##.mb-2.is-size-5
 kissjav.com##.mt-2.has-text-centered-tablet.has-text-centered-mobile.is-align-items-stretch.is-justify-content-center.is-flex-wrap-wrap.is-flex
 kissjav.com##hr.page-divider:nth-of-type(1)
 kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
+! 2023-12-02 https://astaff.51cg1.com
+astaff.51cg1.com##article:nth-of-type(3)
+astaff.51cg1.com##[href="/archives/82072/"]
+astaff.51cg1.com##article:nth-of-type(7)
+astaff.51cg1.com##[href="/archives/96912/"]
+astaff.51cg1.com##[href="/archives/70737/"]
+astaff.51cg1.com##article:nth-of-type(14)
+astaff.51cg1.com##article:nth-of-type(13)
+astaff.51cg1.com##[href="/archives/5526/"] > .post-card
 
 ! 2023-12-01 https://hellocdn1.net
 ||hellocdn1.net/count.js$script,1p
 ||hellocdn1.net/view.js$script,domain=yadongpang.net
 ||hellocdn1.net/cnt.js$script,domain=yadongpang.net
 ||img.hellocdn1.net/banner/pa/banner.js$script,domain=yadongpang.net
-!||s1.kav.so^$inline-script
-!||watchfreekav.com^$inline-script
+||s1.kav.so^$inline-script
+||watchfreekav.com^$inline-script
 !||spankbang.com^$inline-script
 !||avgle.com^$inline-script
 !||herexxx.com^$inline-script
 !||xhamster19.com^$inline-script
-!||watchfreejavonline.co^$inline-script
+||watchfreejavonline.co^$inline-script
 !||javrank.com^$inline-script
 !||xsz-av.com^$inline-script
 !||xnxx.com^$inline-script
@@ -653,7 +659,7 @@ kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
 !||hdsex.org^$inline-script
 !||inporn.com^$inline-script
 !||redd.tube^$inline-script
-!||51cg1.com^$inline-script
+||51cg1.com^$inline-script
 !||asianporn.li^$inline-script
 !||pornkai.com^$inline-script!
 !||qinav.com^$inline-script
@@ -664,7 +670,7 @@ kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
 !||videosection.com^$inline-script
 
 !||camcam.cc^$inline-script
-!||s1.kbj.so^$inline-script
+||s1.kbj.so^$inline-script
 !||kbj19cam.com^$inline-script
 !||kbjfree.com^$inline-script
 !||hotgirl.asia^$inline-script
@@ -673,14 +679,11 @@ kissjav.com##.pt-2.is-justify-content-space-between.navbar-brand
 !||thefantazy.com^$inline-script
 
 
-! 2023-12-02 https://pornzog.com
-pornzog.com##.cf.footer
-pornzog.com##.row
-pornzog.com##.jsMenuContainer.header-menu
-pornzog.com##.video-ntv-list
-!pornzog.com##+js(set,AdManager.init,noopFunc)
+
 kavporn.com##+js(set,adConfig,undefined)
 watchfreekavonline.com##+js(set,adConfig,undefined)
+s1.kbj.so##+js(set,adConfig,undefined)
+s1.kav.so##+js(set,adConfig,undefined)
 kavseoul.com##+js(set,adConfig,undefined)
 !yadongpang.net##+js(set,setTimeout,noopFunc)  
 !yadongpang.net##+js(set,board_move,noopFunc)  
@@ -693,7 +696,7 @@ kavseoul.com##+js(set,adConfig,undefined)
 
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
-! 2023-11-19 https://hotgirl.asia
-hotgirl.asia##.mvi-content
-hotgirl.asia###mv-keywords
+
+! 2023-12-02 https://www.douyu.com
+www.douyu.com##div.wm-general:nth-of-type(1)
 
