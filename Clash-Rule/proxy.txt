@@ -275,5 +275,13 @@ payload:
 - '+.zgtcpt.shop'
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
-
-
+- '+.video-delivery.net'
+- '+.telegram-cdn.org'
+- '+.telegram.me'
+- '+.telegram.org'
+- '+.telegram.space'
+- '+.telegramcn.net'
+- '+.telegramcn.org'
+- '+.xvideos-cdn.com'
+- '+.xvideos-porn-video.com'
+- '+.3sybf.com'
