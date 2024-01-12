@@ -1,7 +1,7 @@
 payload:
 - '+.123du.vip'
 - '+.1853723.xyz'
-- '+.169xinshu.com'
+- '+.69xinshu.com'
 - '+.51cg1.com'
 - '+.69shuba.com'
 - '+.6ql3077s.saoutech.com'
