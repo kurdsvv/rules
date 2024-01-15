@@ -442,3 +442,5 @@ payload:
 - 'activation-v2.sls.microsoft.com'
 - '+.gfe.nvidia.com'
 - 'dmd.metaservices.microsoft.com'
+- '+.pluto.sina.cn'
+- '+.cmnt.sina.cn'
