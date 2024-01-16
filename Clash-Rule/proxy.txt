@@ -1,23 +1,6 @@
 payload:
 - '+.accounts.google.com'
 - '+.accounts.googlers.com'
-- '+.ahcdn.com'
-- '+.akadns.com'
-- '+.akamai-cdn-content.com'
-- '+.akamai-video-content.com'
-- '+.akamai.com'
-- '+.akamai.net'
-- '+.akamaientrypoint.net'
-- '+.akamaized.net'
-- '+.alipansou.com'
-- '+.filelions.com'
-- '+.filelions.online'
-- '+.filestore.app'
-- '+.flextv.co.kr'
-- '+.fluidplayer.com'
-- '+.fsvod1.com'
-- '+.fuqqt.com'
-- '+.fviplions.com'
 - '+.ggpht.com'
 - '+.ghewig.com'
 - '+.git-scm.com'
@@ -100,11 +83,7 @@ payload:
 - '+.youjizz.com'
 - '+.youtobe.com'
 - '+.ytimg.com'
-- '+.zencdn.net'
-- '+.zgtcpt.shop'
-- '+.zh.xhamster19.com'
-- '+.zoubuting.com'
-- '+.video-delivery.net'
+
 
 
 
