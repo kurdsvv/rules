@@ -83,7 +83,10 @@ payload:
 - '+.youjizz.com'
 - '+.youtobe.com'
 - '+.ytimg.com'
-
+- '+.afreecatv.com'
+- '+.xiaobaotv.net'
+- '+.xiaoheimi.net'
+- '+.xiaoxintv.net'
 
 
 
