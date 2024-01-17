@@ -75,3 +75,4 @@ payload:
 - '+.ffzyread1.com'
 - '+.vip-yzzy-tv.com'
 - '+.49zyvideoplayurl.com'
+- '+.cdnkan.top'
