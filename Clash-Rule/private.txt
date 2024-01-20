@@ -253,3 +253,4 @@ payload:
 - '+.zgtcpt.shop'
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
+- '+.enaak-cdn.com'
