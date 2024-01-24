@@ -87,6 +87,7 @@ payload:
 - '+.xiaobaotv.net'
 - '+.xiaoheimi.net'
 - '+.xiaoxintv.net'
+- '+.gstatic.com'
 
 
 
