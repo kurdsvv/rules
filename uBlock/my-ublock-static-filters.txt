@@ -13,7 +13,9 @@ www.douyu.com##.Bottom
 www.douyu.com##.layout-Aside
 www.douyu.com##.layout-Player-aside
 www.douyu.com##.ToolbarActivityArea
-
+! 2024-01-19 https://www.douyu.com
+www.douyu.com##.is-mini.is-show.ActBase.liveAdvancedGift202312
+www.douyu.com##.is-show.ActBase.liveAdvancedGift202312
 ! 2022-12-21 https://watchfreekav.com
 watchfreekav.com##.af-middle-header
 watchfreekav.com##.menu-item-12688.menu-item-object-category.menu-item-type-taxonomy.menu-item
@@ -636,6 +638,18 @@ astaff.51cg1.com##[href="/archives/70737/"]
 astaff.51cg1.com##article:nth-of-type(14)
 astaff.51cg1.com##article:nth-of-type(13)
 astaff.51cg1.com##[href="/archives/5526/"] > .post-card
+! 2023-12-02 https://www.douyu.com
+www.douyu.com##div.wm-general:nth-of-type(1)
+
+! 2023-12-23 https://live.bilibili.com
+live.bilibili.com##.z-aside-area.border-box.p-absolute.aside-area
+! 2024-01-18 https://bad.news
+bad.news##.footer-parent
+
+! 2024-01-06 https://www.jiedm.com
+www.jiedm.com##div.b300:nth-of-type(1)
+www.jiedm.com##div.b300:nth-of-type(2)
+www.jiedm.com##.b300
 
 ! 2023-12-01 https://hellocdn1.net
 ||hellocdn1.net/count.js$script,1p
@@ -674,7 +688,6 @@ astaff.51cg1.com##[href="/archives/5526/"] > .post-card
 !||kbj19cam.com^$inline-script
 !||kbjfree.com^$inline-script
 !||hotgirl.asia^$inline-script
-
 !||kbjav.com^$inline-script
 !||thefantazy.com^$inline-script
 
@@ -685,18 +698,18 @@ watchfreekavonline.com##+js(set,adConfig,undefined)
 s1.kbj.so##+js(set,adConfig,undefined)
 s1.kav.so##+js(set,adConfig,undefined)
 kavseoul.com##+js(set,adConfig,undefined)
-!yadongpang.net##+js(set,setTimeout,noopFunc)  
-!yadongpang.net##+js(set,board_move,noopFunc)  
-!yadongpang.net##+js(set,setInterval,noopFunc) 
-
-
+watchfreekavonline.com##+js(set,adConfig,undefined)
+watchfreekav.com##+js(set,adConfig,undefined)
+watchfreejavonline.co##+js(set,adConfig,undefined)
+kavseoul.com##+js(set,adConfig,undefined)
 !wenku.so.com##+js(set,setTimeout,noopFunc)  
 !wenku.so.com##+js(set,setInterval,noopFunc)  
-
-
 !kbjav.com##+js(acis,/univresalP/)
 !kbjav.com##+js(nowoif)
 
-! 2023-12-02 https://www.douyu.com
-www.douyu.com##div.wm-general:nth-of-type(1)
 
+
+
+!yadongpang.net##+js(set,setTimeout,noopFunc)  
+!yadongpang.net##+js(set,board_move,noopFunc)  
+!yadongpang.net##+js(set,setInterval,noopFunc) 
