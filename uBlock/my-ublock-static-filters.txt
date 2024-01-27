@@ -712,4 +712,5 @@ kavseoul.com##+js(set,adConfig,undefined)
 
 !yadongpang.net##+js(set,setTimeout,noopFunc)  
 !yadongpang.net##+js(set,board_move,noopFunc)  
-!yadongpang.net##+js(set,setInterval,noopFunc) 
+!yadongpang.net##+js(set,setInterval,noopFunc)
+
