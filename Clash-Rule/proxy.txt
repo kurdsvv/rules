@@ -155,3 +155,4 @@ payload:
 - '+.videosection.com'
 - '+.3sybf.com'
 - '+.askzybf.com'
+- '+.youtube.com'
