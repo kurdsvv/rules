@@ -156,5 +156,4 @@ payload:
 - '+.3sybf.com'
 - '+.askzybf.com'
 - '+.youtube.com'
-- '+.cloudflare-dns.com'
-- '+.dns.google'
+- '+.enaak-cdn.com'
