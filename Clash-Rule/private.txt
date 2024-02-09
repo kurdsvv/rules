@@ -42,7 +42,6 @@ payload:
 - '+.doodcdn.com'
 - '+.dxxtv.com'
 - '+.efhie.com'
-- '+.enaak-cdn.com'
 - '+.erome.com'
 - '+.exkbj.com'
 - '+.flextv.co.kr'
