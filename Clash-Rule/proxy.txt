@@ -157,3 +157,4 @@ payload:
 - '+.askzybf.com'
 - '+.youtube.com'
 - '+.enaak-cdn.com'
+- '+.store.steampowered.com'
