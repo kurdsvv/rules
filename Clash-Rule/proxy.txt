@@ -158,3 +158,5 @@ payload:
 - '+.youtube.com'
 - '+.enaak-cdn.com'
 - '+.store.steampowered.com'
+- '+.steamstatic.com'
+- '+.steamserver.net'
