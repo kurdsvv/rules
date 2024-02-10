@@ -160,3 +160,4 @@ payload:
 - '+.store.steampowered.com'
 - '+.steamstatic.com'
 - '+.steamserver.net'
+- '+.steampowered.com'
