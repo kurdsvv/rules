@@ -161,3 +161,6 @@ payload:
 - '+.steamstatic.com'
 - '+.steamserver.net'
 - '+.steampowered.com'
+- '+.rutood.com'
+- '+.sb-cd.com'
+- '+.wishfast.top'
