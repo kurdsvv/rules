@@ -164,3 +164,8 @@ payload:
 - '+.rutood.com'
 - '+.sb-cd.com'
 - '+.wishfast.top'
+- '+.sexbjcam.com'
+- '+.sexbjtv.com'
+- '+.sexkbj.com'
+- '+.sexykbj.com'
+- '+.thekbjcam.com'
