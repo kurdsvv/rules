@@ -183,3 +183,7 @@ payload:
 - '+.kissjav.com'
 - '+.koreanbj.club'
 - '+.koreanbjvids.com'
+- 'doh.dns.sb'
+- 'dns.google'
+- 'dns.cloudflare.com'
+- 'doh.opendns.com'
