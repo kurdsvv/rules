@@ -187,3 +187,8 @@ payload:
 - 'dns.google'
 - 'dns.cloudflare.com'
 - 'doh.opendns.com'
+- '+.twitch.tv'
+- '+.ext-twitch.tv'
+- '+.live-video.net'
+- '+.twitchcdn.net'
+
