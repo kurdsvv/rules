@@ -188,4 +188,4 @@ payload:
 - '+.live-video.net'
 - '+.twitchcdn.net'
 - '+.ttvnw.net'
-- '+.dot.pub'
+- '+.dns.pub'
