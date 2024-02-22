@@ -163,4 +163,7 @@ payload:
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
 - '+.eacg.net'
+- '+.v2ex.com'
+- '+.ax1x.com'
+- '+.wwads.cn'
 
