@@ -188,3 +188,4 @@ payload:
 - '+.live-video.net'
 - '+.twitchcdn.net'
 - '+.ttvnw.net'
+- '+.dns.alidns.com'
