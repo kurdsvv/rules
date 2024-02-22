@@ -295,3 +295,5 @@ payload:
 - 'yoda.kwd.inkuai.com
 - 'yoda.kwd.inkuai.com'
 - 'zt-sup.kwd.inkuai.com'
+- 'kiu.freenewdomain.com'
+- 'kiu.imagine777.com'
