@@ -189,3 +189,4 @@ payload:
 - '+.twitchcdn.net'
 - '+.ttvnw.net'
 - '+.dns.alidns.com'
+- '+.dot.pub'
