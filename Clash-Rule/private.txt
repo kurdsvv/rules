@@ -4,6 +4,7 @@ payload:
 - '+.51cg1.com'
 - '+.69shuba.com'
 - '+.69xinshu.com'
+- '+.69shu.pro'
 - '+.6ql3077s.saoutech.com'
 - '+.adblockplus.org'
 - '+.adgoogle.net'
