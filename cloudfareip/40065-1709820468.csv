@@ -1,0 +1,253 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+192.151.255.22,41698,443,true,HKG,Asia Pacific,Hong Kong,33,0.00
+154.197.92.68,5010,443,true,NRT,Asia Pacific,Tokyo,34,0.00
+154.197.92.120,889,80,false,HKG,Asia Pacific,Hong Kong,34,0.00
+154.197.92.99,889,80,false,HKG,Asia Pacific,Hong Kong,34,0.00
+103.20.222.23,10008,443,true,HKG,Asia Pacific,Hong Kong,34,0.00
+154.197.92.102,5010,443,true,NRT,Asia Pacific,Tokyo,35,0.00
+154.197.92.114,889,80,false,HKG,Asia Pacific,Hong Kong,35,0.00
+154.197.92.94,889,80,false,HKG,Asia Pacific,Hong Kong,35,0.00
+192.151.255.29,41698,443,true,HKG,Asia Pacific,Hong Kong,36,0.00
+154.197.92.117,5010,443,true,NRT,Asia Pacific,Tokyo,36,0.00
+154.197.92.126,889,80,false,HKG,Asia Pacific,Hong Kong,36,0.00
+192.151.223.244,80,0,false,HKG,Asia Pacific,Hong Kong,37,0.00
+154.197.92.90,5010,443,true,NRT,Asia Pacific,Tokyo,37,0.00
+154.197.92.74,5010,443,true,NRT,Asia Pacific,Tokyo,37,0.00
+154.197.92.89,889,80,false,HKG,Asia Pacific,Hong Kong,37,0.00
+154.197.92.103,889,80,false,HKG,Asia Pacific,Hong Kong,38,0.00
+154.197.92.92,5010,443,true,NRT,Asia Pacific,Tokyo,40,0.00
+154.197.92.105,889,80,false,HKG,Asia Pacific,Hong Kong,40,0.00
+192.151.223.245,80,0,false,HKG,Asia Pacific,Hong Kong,40,0.00
+154.197.92.85,889,80,false,HKG,Asia Pacific,Hong Kong,40,0.00
+154.197.92.77,5010,443,true,NRT,Asia Pacific,Tokyo,43,0.00
+172.247.127.126,443,0,false,HKG,Asia Pacific,Hong Kong,44,0.00
+23.225.64.87,19710,443,true,HKG,Asia Pacific,Hong Kong,44,0.00
+154.197.92.98,889,80,false,HKG,Asia Pacific,Hong Kong,47,0.00
+23.225.64.248,48625,443,true,LAX,North America,Los Angeles,68,0.00
+154.197.92.69,5010,443,true,NRT,Asia Pacific,Tokyo,71,0.00
+154.197.92.73,889,80,false,HKG,Asia Pacific,Hong Kong,74,0.00
+154.197.92.125,5010,443,true,NRT,Asia Pacific,Tokyo,75,0.00
+192.151.223.242,80,0,false,HKG,Asia Pacific,Hong Kong,75,0.00
+154.197.92.91,889,80,false,HKG,Asia Pacific,Hong Kong,76,0.00
+154.197.92.71,5010,443,true,NRT,Asia Pacific,Tokyo,76,0.00
+154.197.92.118,889,80,false,HKG,Asia Pacific,Hong Kong,76,0.00
+154.197.92.84,889,80,false,HKG,Asia Pacific,Hong Kong,77,0.00
+192.151.223.246,80,0,false,HKG,Asia Pacific,Hong Kong,77,0.00
+154.197.92.79,889,80,false,HKG,Asia Pacific,Hong Kong,78,0.00
+154.197.92.126,5010,443,true,NRT,Asia Pacific,Tokyo,78,0.00
+192.151.223.243,80,0,false,HKG,Asia Pacific,Hong Kong,78,0.00
+154.197.92.120,5010,443,true,NRT,Asia Pacific,Tokyo,78,0.00
+154.197.92.122,889,80,false,HKG,Asia Pacific,Hong Kong,78,0.00
+154.197.92.72,889,80,false,HKG,Asia Pacific,Hong Kong,80,0.00
+154.197.92.101,5010,443,true,NRT,Asia Pacific,Tokyo,80,0.00
+154.197.92.75,889,80,false,HKG,Asia Pacific,Hong Kong,81,0.00
+154.197.92.79,5010,443,true,NRT,Asia Pacific,Tokyo,81,0.00
+156.251.179.241,9000,0,false,HKG,Asia Pacific,Hong Kong,81,0.00
+154.197.92.66,5010,443,true,NRT,Asia Pacific,Tokyo,81,0.00
+154.197.92.83,889,0,false,HKG,Asia Pacific,Hong Kong,81,0.00
+154.197.92.67,5010,443,true,NRT,Asia Pacific,Tokyo,81,0.00
+154.197.92.125,889,80,false,HKG,Asia Pacific,Hong Kong,82,0.00
+154.197.92.121,889,80,false,HKG,Asia Pacific,Hong Kong,82,0.00
+154.197.92.86,5010,443,true,NRT,Asia Pacific,Tokyo,84,0.00
+156.251.179.136,60999,80,false,HKG,Asia Pacific,Hong Kong,85,0.00
+154.197.92.93,889,80,false,HKG,Asia Pacific,Hong Kong,87,0.00
+154.197.92.106,5010,443,true,NRT,Asia Pacific,Tokyo,114,0.00
+154.197.92.107,889,80,false,HKG,Asia Pacific,Hong Kong,114,0.00
+154.197.92.110,5010,443,true,NRT,Asia Pacific,Tokyo,116,0.00
+154.197.92.115,5010,443,true,NRT,Asia Pacific,Tokyo,118,0.00
+154.197.92.108,5010,443,true,NRT,Asia Pacific,Tokyo,124,0.00
+154.197.92.80,889,80,false,HKG,Asia Pacific,Hong Kong,124,0.00
+23.225.71.4,25975,0,false,SMF,North America,Sacramento,175,0.00
+23.225.108.121,4444,0,false,LAX,North America,Los Angeles,175,0.00
+23.224.237.77,4444,0,false,LAX,North America,Los Angeles,175,0.00
+23.225.71.25,24399,0,false,MIA,North America,Miami,177,0.00
+23.224.237.4,4444,443,false,LAX,North America,Los Angeles,177,0.00
+23.224.237.19,4444,0,false,LAX,North America,Los Angeles,177,0.00
+23.225.108.13,4444,443,false,LAX,North America,Los Angeles,177,0.00
+23.224.236.212,4444,443,false,LAX,North America,Los Angeles,177,0.00
+161.129.41.159,83,0,false,LAX,North America,Los Angeles,177,0.00
+23.224.236.79,4444,443,false,LAX,North America,Los Angeles,177,0.00
+23.225.71.25,24385,0,false,ORD,North America,Chicago,178,0.00
+23.224.237.225,4444,0,false,LAX,North America,Los Angeles,178,0.00
+23.225.71.25,24240,0,false,IAD,North America,Ashburn,178,0.00
+23.225.71.25,24162,80,false,MIA,North America,Miami,178,0.00
+23.225.71.25,24128,0,false,MIA,North America,Miami,179,0.00
+23.225.107.227,4444,0,false,LAX,North America,Los Angeles,179,0.00
+23.224.85.43,9000,0,false,LAX,North America,Los Angeles,179,0.00
+23.225.71.25,24025,80,false,DFW,North America,Dallas,180,0.00
+23.224.236.101,4444,443,false,LAX,North America,Los Angeles,180,0.00
+23.225.71.25,24070,80,false,MIA,North America,Miami,180,0.00
+23.225.71.4,28880,0,false,EWR,North America,Newark,180,0.00
+23.225.107.144,4444,0,false,LAX,North America,Los Angeles,180,0.00
+23.225.108.79,4444,443,false,LAX,North America,Los Angeles,180,0.00
+23.225.107.108,4444,0,false,LAX,North America,Los Angeles,181,0.00
+23.224.95.98,24547,0,false,ATL,North America,Atlanta,181,0.00
+23.224.89.247,884,0,false,LAX,North America,Los Angeles,181,0.00
+23.225.107.224,4444,0,false,LAX,North America,Los Angeles,181,0.00
+23.225.107.89,4444,443,false,LAX,North America,Los Angeles,181,0.00
+23.225.108.28,4444,443,false,LAX,North America,Los Angeles,182,0.00
+23.225.71.25,24095,0,false,ORD,North America,Chicago,182,0.00
+23.224.236.232,4444,443,false,LAX,North America,Los Angeles,182,0.00
+103.99.179.88,1001,443,true,LAX,North America,Los Angeles,182,0.00
+23.224.95.98,24106,0,false,SEA,North America,Seattle,182,0.00
+23.225.71.4,29109,0,false,PHL,North America,Philadelphia,183,0.00
+23.224.236.3,4444,443,false,LAX,North America,Los Angeles,183,0.00
+103.99.115.173,443,0,true,LAX,North America,Los Angeles,183,0.00
+185.238.250.168,36545,443,true,LAX,North America,Los Angeles,183,0.00
+23.224.236.119,4444,443,false,LAX,North America,Los Angeles,183,0.00
+23.224.236.182,4444,443,false,LAX,North America,Los Angeles,184,0.00
+23.224.236.39,4444,443,false,LAX,North America,Los Angeles,184,0.00
+23.224.237.223,4444,0,false,LAX,North America,Los Angeles,184,0.00
+23.225.71.33,24002,80,false,DFW,North America,Dallas,184,0.00
+23.224.236.37,4444,0,false,LAX,North America,Los Angeles,184,0.00
+23.225.71.4,25262,0,false,DFW,North America,Dallas,184,0.00
+212.103.62.170,22896,443,true,LAX,North America,Los Angeles,184,0.00
+23.224.237.177,4444,443,false,LAX,North America,Los Angeles,185,0.00
+23.225.107.88,4444,443,false,LAX,North America,Los Angeles,185,0.00
+23.225.107.158,4444,443,false,LAX,North America,Los Angeles,185,0.00
+23.225.71.4,28557,0,false,IAH,North America,Houston,185,0.00
+23.224.95.98,24666,0,false,MIA,North America,Miami,185,0.00
+23.225.71.25,24213,0,false,IAD,North America,Ashburn,185,0.00
+23.225.107.116,4444,443,false,LAX,North America,Los Angeles,185,0.00
+23.225.107.253,4444,0,false,LAX,North America,Los Angeles,185,0.00
+23.225.71.4,28046,0,false,ATL,North America,Atlanta,186,0.00
+185.238.250.136,58780,443,true,LAX,North America,Los Angeles,186,0.00
+23.225.71.25,24219,0,false,ATL,North America,Atlanta,186,0.00
+23.225.108.179,4444,0,false,LAX,North America,Los Angeles,186,0.00
+23.224.236.5,4444,443,false,LAX,North America,Los Angeles,186,0.00
+23.224.236.76,4444,0,false,LAX,North America,Los Angeles,186,0.00
+23.225.71.4,28676,0,false,PDX,North America,Portland,186,0.00
+23.224.236.239,4444,443,false,LAX,North America,Los Angeles,186,0.00
+23.224.95.98,24256,0,false,MIA,North America,Miami,186,0.00
+23.225.71.4,28086,0,false,MIA,North America,Miami,186,0.00
+23.225.71.4,26320,0,false,DEN,North America,Denver,186,0.00
+23.225.71.25,24116,80,false,SMF,North America,Sacramento,186,0.00
+23.225.71.4,26711,0,false,IAD,North America,Ashburn,186,0.00
+23.224.237.124,4444,0,false,LAX,North America,Los Angeles,186,0.00
+23.225.107.218,4444,443,false,LAX,North America,Los Angeles,187,0.00
+23.225.71.25,24270,0,false,IAD,North America,Ashburn,187,0.00
+23.225.71.4,27473,0,false,TLH,North America,Tallahassee,187,0.00
+23.224.237.150,4444,443,false,LAX,North America,Los Angeles,187,0.00
+23.224.236.30,4444,0,false,LAX,North America,Los Angeles,187,0.00
+23.224.236.141,4444,443,false,LAX,North America,Los Angeles,187,0.00
+23.225.108.11,4444,443,false,LAX,North America,Los Angeles,187,0.00
+23.224.81.249,39003,80,false,YYZ,North America,Toronto,187,0.00
+23.225.108.231,4444,0,false,LAX,North America,Los Angeles,188,0.00
+23.225.71.4,27868,0,false,EWR,North America,Newark,188,0.00
+23.224.236.50,4444,0,false,LAX,North America,Los Angeles,188,0.00
+23.225.71.25,24030,0,false,MIA,North America,Miami,188,0.00
+23.224.95.98,24455,0,false,EWR,North America,Newark,188,0.00
+23.225.107.78,4444,443,false,LAX,North America,Los Angeles,188,0.00
+23.225.107.33,4444,0,false,LAX,North America,Los Angeles,188,0.00
+23.224.236.88,4444,443,false,LAX,North America,Los Angeles,188,0.00
+23.225.107.229,4444,0,false,LAX,North America,Los Angeles,188,0.00
+23.225.71.4,24203,0,false,MIA,North America,Miami,188,0.00
+103.99.115.109,8923,0,false,LAX,North America,Los Angeles,189,0.00
+23.224.236.177,4444,443,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.238,4444,443,false,LAX,North America,Los Angeles,189,0.00
+162.209.145.169,80,0,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.70,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.225.71.4,27184,0,false,ORD,North America,Chicago,189,0.00
+23.224.236.42,4444,443,false,LAX,North America,Los Angeles,189,0.00
+185.194.148.131,41706,443,true,LAX,North America,Los Angeles,189,0.00
+23.225.107.250,4444,443,false,LAX,North America,Los Angeles,189,0.00
+23.225.71.4,25701,0,false,SEA,North America,Seattle,189,0.00
+23.224.95.98,24518,0,false,SEA,North America,Seattle,189,0.00
+23.225.107.26,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.123,4444,443,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.4,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.66,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.224.237.169,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.225.108.99,4444,0,false,LAX,North America,Los Angeles,189,0.00
+23.224.236.207,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.225.107.28,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.225.107.252,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.224.236.153,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.225.71.4,26631,0,false,SJC,North America,San Jose,190,0.00
+23.225.107.194,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.225.108.86,4444,443,false,LAX,North America,Los Angeles,190,0.00
+23.225.107.178,4444,443,false,LAX,North America,Los Angeles,190,0.00
+23.224.236.36,4444,0,false,LAX,North America,Los Angeles,190,0.00
+23.225.107.191,4444,443,false,LAX,North America,Los Angeles,190,0.00
+23.225.71.4,26580,0,false,LAX,North America,Los Angeles,191,0.00
+23.224.194.29,8889,80,false,LAX,North America,Los Angeles,191,0.00
+23.225.107.242,4444,443,false,LAX,North America,Los Angeles,191,0.00
+23.224.236.200,4444,0,false,LAX,North America,Los Angeles,191,0.00
+23.224.236.135,4444,443,false,LAX,North America,Los Angeles,191,0.00
+23.225.71.4,24238,0,false,SJC,North America,San Jose,191,0.00
+23.224.236.160,4444,443,false,LAX,North America,Los Angeles,191,0.00
+23.225.108.251,4444,0,false,LAX,North America,Los Angeles,191,0.00
+23.225.108.135,4444,443,false,LAX,North America,Los Angeles,191,0.00
+23.225.71.25,24309,0,false,ANC,North America,Anchorage,191,0.00
+23.225.71.4,28377,0,false,PDX,North America,Portland,191,0.00
+23.225.108.218,4444,443,false,LAX,North America,Los Angeles,191,0.00
+23.225.71.4,27175,0,false,ORD,North America,Chicago,191,0.00
+185.186.147.105,34237,2096,true,LAX,North America,Los Angeles,192,0.00
+23.225.108.72,4444,0,false,LAX,North America,Los Angeles,192,0.00
+23.224.236.115,4444,443,false,LAX,North America,Los Angeles,192,0.00
+23.224.237.130,4444,0,false,LAX,North America,Los Angeles,192,0.00
+23.225.71.4,28449,0,false,ATL,North America,Atlanta,192,0.00
+23.224.81.249,39004,0,false,YYZ,North America,Toronto,192,0.00
+23.224.237.86,4444,0,false,LAX,North America,Los Angeles,192,0.00
+23.224.236.167,4444,0,false,LAX,North America,Los Angeles,192,0.00
+23.225.108.80,4444,443,false,LAX,North America,Los Angeles,192,0.00
+23.225.107.170,4444,443,false,LAX,North America,Los Angeles,192,0.00
+23.224.127.19,9001,0,false,LAX,North America,Los Angeles,192,0.00
+23.224.236.111,4444,443,false,LAX,North America,Los Angeles,192,0.00
+23.224.236.54,4444,443,false,LAX,North America,Los Angeles,193,0.00
+23.224.237.111,4444,0,false,LAX,North America,Los Angeles,193,0.00
+23.224.236.125,4444,443,false,LAX,North America,Los Angeles,193,0.00
+23.225.107.112,4444,443,false,LAX,North America,Los Angeles,193,0.00
+23.224.236.83,4444,0,false,LAX,North America,Los Angeles,193,0.00
+23.224.236.121,4444,443,false,LAX,North America,Los Angeles,193,0.00
+161.129.39.66,48510,443,true,SEA,North America,Seattle,193,0.00
+23.225.71.25,24201,0,false,PDX,North America,Portland,193,0.00
+23.224.237.198,4444,443,false,LAX,North America,Los Angeles,194,0.00
+172.247.123.93,34237,0,true,LAX,North America,Los Angeles,194,0.00
+23.225.108.130,4444,0,false,LAX,North America,Los Angeles,194,0.00
+23.224.237.248,4444,443,false,LAX,North America,Los Angeles,194,0.00
+23.225.71.4,25164,0,false,DFW,North America,Dallas,194,0.00
+23.225.71.4,25569,0,false,SJC,North America,San Jose,194,0.00
+192.151.255.4,41698,443,true,HKG,Asia Pacific,Hong Kong,194,0.00
+23.225.71.4,24228,0,false,EWR,North America,Newark,194,0.00
+23.225.71.25,24032,0,false,DFW,North America,Dallas,194,0.00
+172.247.123.56,34237,0,true,LAX,North America,Los Angeles,195,0.00
+156.251.130.226,443,0,false,LAX,North America,Los Angeles,195,0.00
+2.56.255.16,443,0,true,LAX,North America,Los Angeles,195,0.00
+23.225.71.25,24053,0,false,ATL,North America,Atlanta,195,0.00
+23.225.71.25,24453,0,false,DFW,North America,Dallas,195,0.00
+23.225.108.12,4444,443,false,LAX,North America,Los Angeles,195,0.00
+23.224.237.163,4444,0,false,LAX,North America,Los Angeles,195,0.00
+23.224.236.67,4444,443,false,LAX,North America,Los Angeles,196,0.00
+23.225.108.169,4444,443,false,LAX,North America,Los Angeles,196,0.00
+23.225.107.251,4444,0,false,LAX,North America,Los Angeles,196,0.00
+23.225.107.222,4444,443,false,LAX,North America,Los Angeles,197,0.00
+23.225.107.156,4444,443,false,LAX,North America,Los Angeles,197,0.00
+23.225.71.5,24140,0,false,LAX,North America,Los Angeles,197,0.00
+23.225.71.4,25250,0,false,ATL,North America,Atlanta,197,0.00
+23.224.95.98,24227,0,false,PDX,North America,Portland,197,0.00
+185.238.250.167,40444,443,true,LAX,North America,Los Angeles,197,0.00
+23.225.71.4,27062,0,false,DEN,North America,Denver,198,0.00
+172.247.44.119,24004,0,false,LAX,North America,Los Angeles,199,0.00
+23.224.236.210,4444,443,false,LAX,North America,Los Angeles,199,0.00
+23.225.71.4,26638,0,false,SJC,North America,San Jose,199,0.00
+23.225.108.84,4444,443,false,LAX,North America,Los Angeles,200,0.00
+23.225.107.97,4444,443,false,LAX,North America,Los Angeles,200,0.00
+23.224.237.117,4444,443,false,LAX,North America,Los Angeles,201,0.00
+23.225.108.209,4444,443,false,LAX,North America,Los Angeles,201,0.00
+2.59.151.192,38135,0,true,LAX,North America,Los Angeles,202,0.00
+23.225.108.244,4444,443,false,LAX,North America,Los Angeles,205,0.00
+23.224.95.98,24294,0,false,SEA,North America,Seattle,206,0.00
+23.225.108.152,4444,443,false,LAX,North America,Los Angeles,208,0.00
+23.225.107.213,4444,443,false,LAX,North America,Los Angeles,210,0.00
+23.225.108.38,4444,443,false,LAX,North America,Los Angeles,210,0.00
+23.225.107.148,4444,443,false,LAX,North America,Los Angeles,211,0.00
+23.225.108.199,4444,443,false,LAX,North America,Los Angeles,211,0.00
+23.225.107.91,4444,443,false,LAX,North America,Los Angeles,212,0.00
+23.225.108.128,4444,443,false,LAX,North America,Los Angeles,212,0.00
+23.225.108.93,4444,443,false,LAX,North America,Los Angeles,212,0.00
+23.225.107.216,4444,443,false,LAX,North America,Los Angeles,213,0.00
+23.225.71.25,24071,80,false,ORD,North America,Chicago,216,0.00
+23.225.107.118,4444,443,false,LAX,North America,Los Angeles,217,0.00
+23.225.108.131,4444,443,false,LAX,North America,Los Angeles,217,0.00
+23.225.107.152,4444,443,false,LAX,North America,Los Angeles,221,0.00
