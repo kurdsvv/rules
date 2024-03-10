@@ -185,3 +185,4 @@ payload:
 - '+.twitchcdn.net'
 - '+.ttvnw.net'
 - '+.sw-cdnstreamwish.com'
+- '+.3k.fxxk.dedyn.io'
