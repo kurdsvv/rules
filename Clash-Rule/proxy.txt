@@ -186,3 +186,9 @@ payload:
 - '+.ttvnw.net'
 - '+.sw-cdnstreamwish.com'
 - '+.3k.fxxk.dedyn.io'
+- '+.moistr.freenods.sbs'
+- '+.5112233.xyz'
+- '+.sub.kaiche.tk'
+- '+.allsub.king361.cf'
+- '+.cmsub.maishizhi.cloudns.biz
+- '+.zjccc.zjccc1.dns-dynamic.net'
