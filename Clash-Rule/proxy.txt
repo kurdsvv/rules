@@ -192,3 +192,4 @@ payload:
 - '+.allsub.king361.cf'
 - '+.cmsub.maishizhi.cloudns.biz
 - '+.zjccc.zjccc1.dns-dynamic.net'
+- '+.workers.dev'
