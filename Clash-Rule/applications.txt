@@ -12,3 +12,4 @@ payload:
   - PROCESS-NAME,MicrosoftEdgeSH.exe
   - PROCESS-NAME,MicrosoftEdge.exe
   - PROCESS-NAME,XBox.TCUI.exe
+  - PROCESS-NAME,msedgewebview2.exe
