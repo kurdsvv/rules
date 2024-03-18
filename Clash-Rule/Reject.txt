@@ -137,6 +137,7 @@ payload:
 - 'msg.douyu.com'
 - 'mssdk3-normal-hl.zijieapi.com'
 - 'newclient.map.baidu.com'
+- 'edge.microsoft.com'
 - 'onrt-stsdk.vivo.com.cn'
 - 'optimizationguide-pa.googleapis.com'
 - 'ort-stsdk.vivo.com.cn'
