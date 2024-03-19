@@ -201,3 +201,4 @@ payload:
 - 'zt-sup.kwd.inkuai.com'
 - 'kiu.imagine777.com'
 - 'kiu.freenewdomain.com'
+- 'googleads.g.doubleclick.net'
