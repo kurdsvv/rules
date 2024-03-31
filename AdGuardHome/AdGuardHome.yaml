@@ -23,13 +23,113 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-
-    - '#https://dns.google/dns-query'
-    - tls://dns.alidns.com
-
+    - '#tls://auto.dh-global-team.net:693'
+    - '#tls://dh-dns.global-idt.net:853'
+    - '#tls://162.14.132.109:853'
+    - '#https://dns.alidns.com/dns-query'
+    - h3://dns.alidns.com/dns-query
+    - '#https://dh-dns.global-idt.net/dns-query'
+    - '#tls://dns.alidns.com'
+    - '#tls://162.14.132.109:853'
+    - '#quic://162.14.132.109:853'
+    - h3://162.14.132.109/dns-query
+    - '[/mzyglc.xyz/]h3://dns.alidns.com/dns-query'
+    - '[/windowsupdatea.com/]h3://dns.alidns.com/dns-query'
+    - '[/mzycf.cfd/]h3://dns.alidns.com/dns-query'
+    - '[/pages.dev/]h3://dns.alidns.com/dns-query'
+    - '[/tahaquran8.xyz/]h3://dns.alidns.com/dns-query'
+    - '[/eu.org/]h3://dns.alidns.com/dns-query'
+    - '[/allhub.ltd/]h3://dns.alidns.com/dns-query'
+    - '[/dedyn.io/]h3://dns.alidns.com/dns-query'
+    - '[/mywire.org/]h3://dns.alidns.com/dns-query'
+    - '[/ddnsgeek.com/]h3://dns.alidns.com/dns-query'
+    - '[/accesscam.org/]h3://dns.alidns.com/dns-query'
+    - '[/freeddns.org/]h3://dns.alidns.com/dns-query'
+    - '[/theworkpc.com/]h3://dns.alidns.com/dns-query'
+    - '[/loseyourip.com/]h3://dns.alidns.com/dns-query'
+    - '[/giize.com/]h3://dns.alidns.com/dns-query'
+    - '[/kozow.com/]h3://dns.alidns.com/dns-query'
+    - '[/gleeze.com/]h3://dns.alidns.com/dns-query'
+    - '[/ddnsfree.com/]h3://dns.alidns.com/dns-query'
+    - '[/cloudns.org/]h3://dns.alidns.com/dns-query'
+    - '[/camdvr.org/]h3://dns.alidns.com/dns-query'
+    - '[/ooguy.com/]h3://dns.alidns.com/dns-query'
+    - '[/casacam.net/]h3://dns.alidns.com/dns-query'
+    - '[/xf.free.hr/]h3://dns.alidns.com/dns-query'
+    - '[/kaiche.tk/]h3://dns.alidns.com/dns-query'
+    - '[/090227.xyz/]h3://dns.alidns.com/dns-query'
+    - '[/xxxxxxxx.tk/]h3://dns.alidns.com/dns-query'
+    - '[/rweek.top/]h3://dns.alidns.com/dns-query'
+    - '[/icook.tw/]h3://dns.alidns.com/dns-query'
+    - '[/ip.sb/]h3://dns.alidns.com/dns-query'
+    - '[/japan.com/]h3://dns.alidns.com/dns-query'
+    - '[/malaysia.com/]h3://dns.alidns.com/dns-query'
+    - '[/russia.com/]h3://dns.alidns.com/dns-query'
+    - '[/singapore.com/]h3://dns.alidns.com/dns-query'
+    - '[/skk.moe/]h3://dns.alidns.com/dns-query'
+    - '[/visa.com.sg/]h3://dns.alidns.com/dns-query'
+    - '[/visa.com.hk/]h3://dns.alidns.com/dns-query'
+    - '[/visa.com.tw/]h3://dns.alidns.com/dns-query'
+    - '[/visa.co.jp/]h3://dns.alidns.com/dns-query'
+    - '[/visakorea.com/]h3://dns.alidns.com/dns-query'
+    - '[/gco.gov.qa/]h3://dns.alidns.com/dns-query'
+    - '[/www.gov.se/]h3://dns.alidns.com/dns-query'
+    - '[/www.gov.ua/]h3://dns.alidns.com/dns-query'
+    - '[/shopify.com/]h3://dns.alidns.com/dns-query'
+    - '[/whoer.net/]h3://dns.alidns.com/dns-query'
+    - '[/whatismyip.com/]h3://dns.alidns.com/dns-query'
+    - '[/hugedomains.com/]h3://dns.alidns.com/dns-query'
+    - '[/udacity.com/]h3://dns.alidns.com/dns-query'
+    - '[/4chan.org/]h3://dns.alidns.com/dns-query'
+    - '[/okcupid.com/]h3://dns.alidns.com/dns-query'
+    - '[/glassdoor.com/]h3://dns.alidns.com/dns-query'
+    - '[/alejandracaiccedo.com/]h3://dns.alidns.com/dns-query'
+    - '[/bpminecraft.com/]h3://dns.alidns.com/dns-query'
+    - '[/boba88slot.com/]h3://dns.alidns.com/dns-query'
+    - '[/gur.gov.ua/]h3://dns.alidns.com/dns-query'
+    - '[/zsu.gov.ua/]h3://dns.alidns.com/dns-query'
+    - '[/iakeys.com/]h3://dns.alidns.com/dns-query'
+    - '[/d-555.com/]h3://dns.alidns.com/dns-query'
+    - '[/fbi.gov/]h3://dns.alidns.com/dns-query'
+    - '[/cloudflare.com/]h3://dns.alidns.com/dns-query'
+    - '[/bdfstt.sbs/]h3://dns.alidns.com/dns-query'
+    - '[/sajaditsme.com/]h3://dns.alidns.com/dns-query'
+    - '[/xujiang.link/]h3://dns.alidns.com/dns-query'
+    - '[/20230619.love/]h3://dns.alidns.com/dns-query'
+    - '[/workers.dev/]h3://dns.alidns.com/dns-query'
+    - '[/zxv.biz.id/]h3://dns.alidns.com/dns-query'
+    - '[/outline-vpn.cloud/]h3://dns.alidns.com/dns-query'
+    - '[/cloudflarest.link/]h3://dns.alidns.com/dns-query'
+    - '[/parspack.com/]h3://dns.alidns.com/dns-query'
+    - '[/eliv2.top/]h3://dns.alidns.com/dns-query'
+    - '[/stmmhaah44at69fr5haha677tggthyhfxgdg00yraa5jha7o0o0ostmhahaoo0o.website/]h3://dns.alidns.com/dns-query'
+    - '[/cloudzoom.online/]h3://dns.alidns.com/dns-query'
+    - '[/zedmodeon.lat/]h3://dns.alidns.com/dns-query'
+    - '[/nazirman.cfd/]h3://dns.alidns.com/dns-query'
+    - '[/1lagvpn13.cfd/]h3://dns.alidns.com/dns-query'
+    - '[/visa.com/]h3://dns.alidns.com/dns-query'
+    - '[/user.com/]h3://dns.alidns.com/dns-query'
+    - '[/satoshi.mom/]h3://dns.alidns.com/dns-query'
+    - '[/tgzdyz2.top/]h3://dns.alidns.com/dns-query'
+    - '[/ylks.link/]h3://dns.alidns.com/dns-query'
+    - '[/k.pl/]h3://dns.alidns.com/dns-query'
+    - '[/onkasikepcdaddastam.tech/]h3://dns.alidns.com/dns-query'
+    - '[/lp-airdrop.top/]h3://dns.alidns.com/dns-query'
+    - '[/5112233.xyz/]h3://dns.alidns.com/dns-query'
+    - '[/nttkk.com/]h3://dns.alidns.com/dns-query'
+    - '[/frasier.buzz/]h3://dns.alidns.com/dns-query'
+    - '[/625968575.top/]h3://dns.alidns.com/dns-query'
+    - '[/lrhcloud.cfd/]h3://dns.alidns.com/dns-query'
+    - '[/dns-dynamic.net/]h3://dns.alidns.com/dns-query'
+    - '[/freenods.sbs/]h3://dns.alidns.com/dns-query'
+    - '[/gdutbbs.com/]h3://dns.alidns.com/dns-query'
+    - '[/369110.xyz/]h3://dns.alidns.com/dns-query'
+    - '[/xiee98.com/]h3://dns.alidns.com/dns-query'
+    - '[/tedx.net/]h3://dns.alidns.com/dns-query'
   upstream_dns_file: ""
   bootstrap_dns:
-    - 8.8.8.8
+    - 223.5.5.5
+    - 223.6.6.6
   fallback_dns: []
   upstream_mode: load_balance
   fastest_timeout: 1s
@@ -38,6 +138,7 @@ dns:
     - 192.168.0.100
     - 192.168.0.103
     - 192.168.0.101
+    - 192.168.0.104
   blocked_hosts:
     - version.bind
     - id.server
@@ -46,14 +147,14 @@ dns:
     - 127.0.0.0/8
     - ::1/128
   cache_size: 4194304
-  cache_ttl_min: 1
-  cache_ttl_max: 100
-  cache_optimistic: true
+  cache_ttl_min: 10
+  cache_ttl_max: 60
+  cache_optimistic: false
   bogus_nxdomain: []
   aaaa_disabled: true
   enable_dnssec: false
   edns_client_subnet:
-    custom_ip: 120.223.242.160
+    custom_ip: 162.14.132.109
     enabled: false
     use_custom: false
   max_goroutines: 300
@@ -70,6 +171,7 @@ dns:
   serve_http3: false
   use_http3_upstreams: false
   serve_plain_dns: true
+  hostsfile_enabled: true
 tls:
   enabled: false
   server_name: ""
@@ -86,12 +188,14 @@ tls:
   private_key_path: ""
   strict_sni_check: false
 querylog:
+  dir_path: ""
   ignored: []
   interval: 168h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
+  dir_path: ""
   ignored: []
   interval: 168h
   enabled: true
@@ -126,6 +230,7 @@ user_rules:
   - '||kiu.freenewdomain.com^$important'
   - '||kiu.skyfall0.com^$important'
   - '||kiu.memories7.com^$important'
+  - '||nav-edge.smartscreen.microsoft.com^$important'
   - ""
 dhcp:
   enabled: false
@@ -172,7 +277,7 @@ filtering:
   parental_cache_size: 1048576
   cache_time: 30
   filters_update_interval: 24
-  blocked_response_ttl: 200
+  blocked_response_ttl: 100
   filtering_enabled: true
   parental_enabled: false
   safebrowsing_enabled: false
