@@ -23,15 +23,10 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - '#tls://auto.dh-global-team.net:693'
-    - '#tls://dh-dns.global-idt.net:853'
-    - '#tls://162.14.132.109:853'
+
     - '#https://dns.alidns.com/dns-query'
     - h3://dns.alidns.com/dns-query
-    - '#https://dh-dns.global-idt.net/dns-query'
     - '#tls://dns.alidns.com'
-    - '#tls://162.14.132.109:853'
-    - '#quic://162.14.132.109:853'
     - h3://162.14.132.109/dns-query
     - '[/mzyglc.xyz/]h3://dns.alidns.com/dns-query'
     - '[/windowsupdatea.com/]h3://dns.alidns.com/dns-query'
