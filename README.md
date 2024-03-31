@@ -40,7 +40,7 @@ rule-providers:
   cncidr:
     type: http
     behavior: ipcidr
-    url: https://raw.githubusercontent.com/kurdsvv/rules/master/cncidr/cncidr.yaml
+    url: https://download-1302801676.cos.ap-shanghai.myqcloud.com/Geo_AS_IP/Geo_AS_IP_CN_All_Clash.yaml
     path: ./ruleset/cncidr.yaml
     interval: 86400
   proxy:
@@ -64,7 +64,7 @@ rule-providers:
   telegramcidr:
     type: http
     behavior: ipcidr
-    url: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/telegramcidr.txt
     path: ./ruleset/telegramcidr.yaml
     interval: 86400
   private:
@@ -79,6 +79,25 @@ rule-providers:
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Reject.txt
     path: ./ruleset/reject.yaml
     interval: 86400
+  Cloudflare:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Cloudflare.txt
+    path: ./ruleset/Cloudflare.yaml
+    interval: 86400
+  Google:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Google.txt
+    path: ./ruleset/Google.yaml
+    interval: 86400
+  applications:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/applications.txt
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
 ```
 
 #### 黑名单模式 Rules 配置方式（推荐）
@@ -91,14 +110,19 @@ rule-providers:
 ```yaml
 rules:
   - RULE-SET,reject,REJECT
-  - RULE-SET,Myrejetct,REJECT
+  - RULE-SET,applications,REJECT
+  #- RULE-SET,Myrejetct,REJECT
+  #- PROCESS-NAME,Telegram.exe,🌈 Telegram
+  - RULE-SET,proxy,🚀 节点选择
+  - RULE-SET,private,♻️ 自动选择
+  - RULE-SET,telegramcidr,🌈 Telegram
   - RULE-SET,direct,DIRECT
   - RULE-SET,cncidr,DIRECT
-  - RULE-SET,private,♻️ 自动选择
-  - RULE-SET,proxy,🚀 节点选择
-  - RULE-SET,telegramcidr,🎯 Telegram-vmess
+  - RULE-SET,Google,🚀 节点选择
+  - RULE-SET,Cloudflare,🚀 节点选择
   - RULE-SET,lancidr,DIRECT
   - MATCH,MATCH
+
 ```
 
 
