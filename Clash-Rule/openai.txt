@@ -2,5 +2,5 @@ payload:
 - '+.openai.com'
 - '+.chatgpt.com'
 - '+.intercom.io'
-- '+.oaistatic.com
+- '+.oaistatic.com'
 
