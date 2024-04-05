@@ -185,4 +185,4 @@ payload:
 - '+.twitchcdn.net'
 - '+.ttvnw.net'
 - '+.sw-cdnstreamwish.com'
-
+- '+.api-iptest.bestip.one'
