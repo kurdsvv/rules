@@ -1,5 +1,6 @@
 payload:
 - '+.okk.131213.xyz'
+- '+.cn-cdn.ljy2345.com'
 - '+.cdn.cmliussss.top'
 - '+.jp02.nttkk.com'
 - '+.kr01.nttkk.com'
