@@ -202,3 +202,5 @@ payload:
 - 'kiu.imagine777.com'
 - 'kiu.freenewdomain.com'
 - 'googleads.g.doubleclick.net'
+- 'beacons.gcp.gvt2.com'
+- 'nav-edge.smartscreen.microsoft.com'
