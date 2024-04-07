@@ -13,3 +13,4 @@ payload:
   - PROCESS-NAME,MicrosoftEdge.exe
   - PROCESS-NAME,XBox.TCUI.exe
   - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-NAME,smartscreen.exe
