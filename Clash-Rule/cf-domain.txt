@@ -51,6 +51,7 @@ payload:
 - '+.bestproxy.wcccc.fun'
 - '+.www.xfltd.top'
 - '+.1.achen.link'
+- '+.yxip.now.cc'
 - '+.cf.flyff.eu.org'
 - '+.cfip.xxxxxxxx.tk'
 - '+.cdn.kaiche.tk'
