@@ -186,3 +186,5 @@ payload:
 - '+.gitlab.net'
 - '+.gitstar.com'
 - '+.gitstar.net'
+- '+.shodan.io'
+- '+.fontawesome.com'
