@@ -55,6 +55,7 @@ payload:
 - '+.statically.io'
 - '+.k2s.cc'
 - '+.iyhdmm.com'
+- '+.zoomeye.org'
 - '+.lz-cdn14.com'
 - '+.yzzy-online.com'
 - '+.vip-vip-yzzy.com'
