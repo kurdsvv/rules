@@ -172,3 +172,4 @@ payload:
 - '+.kaiche.tk'
 - '+.pages.dev'
 - '+.onflashdrive.app'
+- '+.fontawesome.com'
