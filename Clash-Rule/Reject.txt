@@ -1,5 +1,4 @@
 payload:
-
 - '+.360.cn'
 - '+.baidu.com'
 - '+.baifubao.com'
