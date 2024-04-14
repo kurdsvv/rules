@@ -173,3 +173,6 @@ payload:
 - '+.pages.dev'
 - '+.onflashdrive.app'
 - '+.fontawesome.com'
+- '+.cf.090227.xyz'
+- '+.stock.hostmonit.com'
+- '+.monitor.gacjie.cn'
