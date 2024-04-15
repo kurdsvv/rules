@@ -33,6 +33,7 @@ proxy-groups:
   - name: MATCH
     type: select
     proxies:
+      - 🚀 节点选择
       - DIRECT
       - REJECT
 rules:
