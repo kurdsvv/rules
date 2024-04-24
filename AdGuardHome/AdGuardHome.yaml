@@ -23,15 +23,14 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - '#https://dh-dns.global-idt.net/dns-query'
+
     - '#https://dns.alidns.com/dns-query'
-    - '#tls://162.14.132.109:853'
-    - '#tls://dh-dns.global-idt.net:853'
+
     - '#tls://dns.alidns.com'
     - '#h3://dns.alidns.com/dns-query'
-    - '#h3://162.14.132.109/dns-query'
+
     - quic://dns.alidns.com:853
-    - '#quic://162.14.132.109:853'
+
   upstream_dns_file: ""
   bootstrap_dns:
     - 223.5.5.5
