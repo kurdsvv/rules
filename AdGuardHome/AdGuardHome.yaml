@@ -23,13 +23,15 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-
+    - '#https://dh-dns.global-idt.net/dns-query'
     - '#https://dns.alidns.com/dns-query'
-
+    - '#tls://162.14.132.109:853'
+    - '#tls://dh-dns.global-idt.net:853'
     - '#tls://dns.alidns.com'
-    - h3://dns.alidns.com/dns-query
+    - '#h3://dns.alidns.com/dns-query'
+    - '#h3://162.14.132.109/dns-query'
     - quic://dns.alidns.com:853
-
+    - '#quic://162.14.132.109:853'
   upstream_dns_file: ""
   bootstrap_dns:
     - 223.5.5.5
@@ -51,9 +53,9 @@ dns:
     - 127.0.0.0/8
     - ::1/128
   cache_size: 4194304
-  cache_ttl_min: 300
-  cache_ttl_max: 600
-  cache_optimistic: false
+  cache_ttl_min: 120
+  cache_ttl_max: 180
+  cache_optimistic: true
   bogus_nxdomain: []
   aaaa_disabled: true
   enable_dnssec: false
@@ -131,13 +133,6 @@ filters:
 whitelist_filters: []
 user_rules:
   - '||config.pinyin.sogou.com^$important'
-  - '||kiu.freenewdomain.com^$important'
-  - '||kiu.skyfall0.com^$important'
-  - '||kiu.memories7.com^$important'
-  - '||nav-edge.smartscreen.microsoft.com^$important'
-  - '||update.netsarang.com^$important'
-  - '||www.netsarang.com^$important'
-  - '||netsarang.com^$important'
   - ""
 dhcp:
   enabled: false
@@ -157,7 +152,7 @@ dhcp:
     ra_slaac_only: false
     ra_allow_slaac: false
 filtering:
-  blocking_ipv4: 10.0.0.1
+  blocking_ipv4: 127.0.0.2
   blocking_ipv6: '::'
   blocked_services:
     schedule:
@@ -175,12 +170,18 @@ filtering:
     pixabay: true
     yandex: true
     youtube: false
-  blocking_mode: default
+  blocking_mode: custom_ip
   parental_block_host: family-block.dns.adguard.com
   safebrowsing_block_host: standard-block.dns.adguard.com
   rewrites:
-    - domain: '*.netsarang.com'
-      answer: 127.0.0.1
+    - domain: proxyip.aliyun.fxxk.dedyn.io
+      answer: 104.16.39.140
+    - domain: proxyip.jp.fxxk.dedyn.io
+      answer: 104.19.55.209
+    - domain: proxyip.hk.fxxk.dedyn.io
+      answer: 104.17.190.170
+    - domain: aliyun.godns.onflashdrive.app
+      answer: 47.242.54.157
   safebrowsing_cache_size: 1048576
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
