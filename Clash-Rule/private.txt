@@ -188,3 +188,7 @@ payload:
 - '+.gitstar.net'
 - '+.shodan.io'
 - '+.fontawesome.com'
+- '+.openai.com'
+- '+.chatgpt.com'
+- '+.intercom.io'
+- '+.oaistatic.com'
