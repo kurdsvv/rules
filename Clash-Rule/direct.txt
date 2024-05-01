@@ -74,3 +74,4 @@ payload:
 - '+.vip-yzzy-tv.com'
 - '+.49zyvideoplayurl.com'
 - '+.cdnkan.top'
+- '+.mirror.ghproxy.com'
