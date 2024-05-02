@@ -192,3 +192,4 @@ payload:
 - '+.chatgpt.com'
 - '+.intercom.io'
 - '+.oaistatic.com'
+- '+.69shu.top'
