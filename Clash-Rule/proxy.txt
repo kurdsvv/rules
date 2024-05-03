@@ -84,3 +84,4 @@ payload:
 - '+.telegramcn.net'
 - '+.telegramcn.org'
 - '+.telegramdownload.com'
+- '+.youtube.com'
