@@ -725,4 +725,33 @@ watchfreekavonline.com##+js(set,adConfig,undefined)
 !yadongpang.net##+js(set,board_move,noopFunc)  
 !yadongpang.net##+js(set,setInterval,noopFunc)
 
+! 2024-04-05 https://thekbjcam.com
+||thekbjcam.com/wp-content/uploads/2024/01/photo1.jpg$image
+
+! 2024-04-06 https://www.jyshare.com
+www.jyshare.com##.mt-2.col-md-12
+
+! 2024-04-10 https://tool.chinaz.com
+tool.chinaz.com##.Tool-mainnav
+
+! 2024-04-11 https://yako.red
+yako.red###banner
+
+! 2024-04-11 https://boce.aliyun.com
+boce.aliyun.com##topbar-www
+
+! 2024-04-13 https://www.xvideos.com
+www.xvideos.com##.premium-results-line
+
+! 2024-04-13 https://xxxdan.com
+xxxdan.com###related-items
+xxxdan.com###footer
+
+! 2024-04-13 https://redporn.tv
+redporn.tv##.footer
+redporn.tv##div#list_traders_bottom:nth-of-type(5)
+redporn.tv##div#list_traders_bottom:nth-of-type(6)
+
+! 2024-04-29 https://kbjav.com
+kbjav.com##.with-sidebar-right.widget-area
 
