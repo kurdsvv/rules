@@ -1,19 +1,27 @@
-port: 7890
-socks-port: 7891
+mixed-port: 7677
+socks-port: 7655
 allow-lan: true
-mode: Rule
+bind-address: "*"
+mode: rule
 log-level: info
-external-controller: :9090
+external-controller: 127.0.0.1:9090
+
 dns:
-  enabled: true
-  nameserver:
-    - 119.29.29.29
+  enable: true
+  ipv6: false
+  default-nameserver:
     - 223.5.5.5
-  fallback:
     - 8.8.8.8
-    - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
+
+  enhanced-mode: fake-ip	
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 192.168.0.107:53
+    - quic://dns.alidns.com:853
+
+  fallback:
+    - 192.168.0.107:53
+    - quic://dns.alidns.com:853
 proxies:
     - {name: Test01, server: 4.4.4.4, port: 8443, client-fingerprint: random, type: vless, uuid: 3f5ccc70-4a2f-4f64-b084-49e8b4ae1d8c, tls: true, tfo: false, skip-cert-verify: true, servername: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com, network: ws, ws-opts: {path: "/test-1c7.pages.dev/?ed=2048", headers: {Host: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com}}, udp: true}
     - {name: Test02, server: 4.4.4.4, port: 8443, client-fingerprint: random, type: vless, uuid: 3f5ccc70-4a2f-4f64-b084-49e8b4ae1d8c, tls: true, tfo: false, skip-cert-verify: true, servername: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com, network: ws, ws-opts: {path: "/test-1c7.pages.dev/?ed=2048", headers: {Host: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com}}, udp: true}
