@@ -30,73 +30,94 @@
 #### Rule Providers 配置方式
 
 ```yaml
-rule-providers:
   Myrejetct:
     type: http
     behavior: domain
     url: https://anti-ad.net/clash.yaml
     path: ./ruleset/Myrejetct.yaml
-    interval: 86400
+    interval: 259200
   cncidr:
     type: http
     behavior: ipcidr
-    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/cncidr.yaml
+    url: https://download-1302801676.cos.ap-shanghai.myqcloud.com/Geo_AS_IP/Geo_AS_IP_CN_All_Clash.yaml
     path: ./ruleset/cncidr.yaml
-    interval: 86400
+    interval: 259200
+  allcnip:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/all_cn_cidr.txt
+    path: ./ruleset/allcnip.yaml
+    interval: 259200
+
   proxy:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/proxy.txt
     path: ./ruleset/proxy.yaml
-    interval: 86400
+    interval: 259200
   direct:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/direct.txt
     path: ./ruleset/direct.yaml
-    interval: 86400
+    interval: 259200
+  cfdomain:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/cf-domain.txt
+    path: ./ruleset/cfdomain.yaml
+    interval: 259200
+    
+  openai:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/openai.txt
+    path: ./ruleset/openai.yaml
+    interval: 259200    
+
   lancidr:
     type: http
     behavior: ipcidr
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/lancidr.txt
     path: ./ruleset/lancidr.yaml
-    interval: 86400
+    interval: 259200
   telegramcidr:
     type: http
     behavior: ipcidr
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/telegramcidr.txt
     path: ./ruleset/telegramcidr.yaml
-    interval: 86400
+    interval: 259200
   private:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/private.txt
     path: ./ruleset/private.yaml
-    interval: 86400
+    interval: 259200
   reject:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Reject.txt
     path: ./ruleset/reject.yaml
-    interval: 86400
+    interval: 259200
   Cloudflare:
     type: http
     behavior: ipcidr
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Cloudflare.txt
     path: ./ruleset/Cloudflare.yaml
-    interval: 86400
+    interval: 259200
   Google:
     type: http
     behavior: ipcidr
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/Google.txt
     path: ./ruleset/Google.yaml
-    interval: 86400
+    interval: 259200
   applications:
     type: http
     behavior: classical
     url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/applications.txt
     path: ./ruleset/applications.yaml
-    interval: 86400
+    interval: 259200
+
 
 ```
 
@@ -109,17 +130,17 @@ rule-providers:
 
 ```yaml
 rules:
-  - RULE-SET,reject,REJECT
-  - RULE-SET,applications,REJECT
   #- RULE-SET,Myrejetct,REJECT
-  #- PROCESS-NAME,Telegram.exe,🌈 Telegram
+  - RULE-SET,cfdomain,Cloudafare-conn
   - RULE-SET,proxy,🚀 节点选择
-  - RULE-SET,private,♻️ 自动选择
+  #- RULE-SET,openai,ChatGPT
   - RULE-SET,telegramcidr,🌈 Telegram
   - RULE-SET,direct,DIRECT
   - RULE-SET,cncidr,DIRECT
+  #- RULE-SET,allcnip,DIRECT
   - RULE-SET,Google,🚀 节点选择
-  - RULE-SET,Cloudflare,🚀 节点选择
+  - RULE-SET,Cloudflare,Cloudafare-conn
+  - RULE-SET,private,♻️ 自动选择
   - RULE-SET,lancidr,DIRECT
   - MATCH,MATCH
 
