@@ -39,7 +39,7 @@
   cncidr:
     type: http
     behavior: ipcidr
-    url: https://download-1302801676.cos.ap-shanghai.myqcloud.com/Geo_AS_IP/Geo_AS_IP_CN_All_Clash.yaml
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/cncidr.yaml
     path: ./ruleset/cncidr.yaml
     interval: 259200
   allcnip:
