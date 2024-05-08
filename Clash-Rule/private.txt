@@ -183,3 +183,4 @@ payload:
 - '+.oaistatic.com'
 - '+.69shu.top'
 - '+.chatgpt.com'
+- '+.69shuba.pro'
