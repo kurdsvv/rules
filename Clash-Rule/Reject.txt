@@ -39,7 +39,6 @@ payload:
 - '+.youku.com'
 - '+.yoyo.org'
 - '+.yuba.douyu.com'
-- '+.zhuanlan.zhihu.com'
 - 'a.nel.cloudflare.com'
 - 'access1.tpns.sh.tencent.com'
 - 'activation-v2.sls.microsoft.com'
