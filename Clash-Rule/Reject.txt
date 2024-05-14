@@ -32,7 +32,6 @@ payload:
 - '+.windowsupdate.com'
 - '+.ws.infinitynewtab.com'
 - '+.www.yhd.com'
-- '+.www.zhihu.com'
 - '+.xtracloud.net'
 - '+.yandex.ru'
 - '+.you.163.com'
