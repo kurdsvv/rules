@@ -1,13 +1,11 @@
 payload:
 - '+.360.cn'
-- '+.baidu.com'
 - '+.baifubao.com'
 - '+.bandi.so'
 - '+.bdurl.net'
 - '+.bitsum.com'
 - '+.c-ctrip.com'
 - '+.c.m.163.com'
-- '+.captcha.zhihu.com'
 - '+.ccleanr.net'
 - '+.ctldl.windowsupdate.com'
 - '+.ctobsnssdk.com'
