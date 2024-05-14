@@ -181,4 +181,6 @@ payload:
 - '+.zgtcpt.shop'
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
-
+- '+.xiaobaotv.net'
+- '+.xiaoheimi.net'
+- '+.xiaoxintv.net'
