@@ -28,8 +28,6 @@ payload:
 - '+.camperks.com'
 - '+.canalplus'
 - '+.ceres9350.com'
-- '+.chatgpt.com'
-- '+.chatgpt.com'
 - '+.chromercise.com'
 - '+.cjkypo.com'
 - '+.dandanzan.com'
