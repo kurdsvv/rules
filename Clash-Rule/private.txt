@@ -88,7 +88,6 @@ payload:
 - '+.oaistatic.com'
 - '+.olemovienews.com'
 - '+.olevod.com'
-- '+.openai.com'
 - '+.pandalive.co.kr'
 - '+.phim18.co'
 - '+.phvod.top'
