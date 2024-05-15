@@ -66,7 +66,19 @@ payload:
 - '+.videosection.com'
 - '+.3sybf.com'
 - '+.askzybf.com'
-
+#代理域名
+- '+.freenods.sbs'
+- '+.kaiche.tk'
+- '+.pages.dev'
+- '+.onflashdrive.app'
+- '+.fontawesome.com'
+- '+.cf.090227.xyz'
+- '+.stock.hostmonit.com'
+- '+.monitor.gacjie.cn'
+- '+.eu.org'
+- '+.url.happyhour.lol'
+- '+.freetls.951314.xyz'
+#代理域名
 - '+.enaak-cdn.com'
 - '+.rutood.com'
 - '+.sb-cd.com'
