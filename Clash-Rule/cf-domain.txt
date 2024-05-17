@@ -78,6 +78,7 @@ payload:
 - '+.eu.org'
 - '+.url.happyhour.lol'
 - '+.freetls.951314.xyz'
+#代理域名
 - '+.enaak-cdn.com'
 - '+.rutood.com'
 - '+.sb-cd.com'
@@ -109,6 +110,7 @@ payload:
 - '+.api-iptest.bestip.one'
 - '+.5112233.xyz'
 - '+.shodan.io'
+#AI
 - '+.openai.com'
 - '+.chatgpt.com'
 - '+.intercom.io'
@@ -116,6 +118,7 @@ payload:
 - '+.gemini.google.com'
 - '+.auth0.com'
 - '+.challenges.cloudflare.com'
+#AI
 - '+.client-api.arkoselabs.com'
 - '+.events.statsigapi.net'
 - '+.featuregates.org'
