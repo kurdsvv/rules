@@ -77,7 +77,6 @@ payload:
 - '+.mirror.ghproxy.com'
 ##cloudfare domain
 - '+.giize.com'
-- '+.pages.dev'
 - '+.kozow.com'
 - '+.accesscam.org'
 - '+.gleeze.com'
