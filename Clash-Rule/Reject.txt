@@ -648,3 +648,4 @@ payload:
 - 'sstatic1.histats.com'
 - 'ali-sh-live-comet-22.chat.bilibili.com'
 - 'footprints-pa.googleapis.com'
+- 'baidu.com'
