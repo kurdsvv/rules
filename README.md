@@ -36,16 +36,10 @@
     url: https://anti-ad.net/clash.yaml
     path: ./ruleset/Myrejetct.yaml
     interval: 259200
-  cncidr:
+  telegramcidr-DC:
     type: http
     behavior: ipcidr
-    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/cncidr.yaml
-    path: ./ruleset/cncidr.yaml
-    interval: 259200
-  allcnip:
-    type: http
-    behavior: ipcidr
-    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/all_cn_cidr.txt
+    url: https://raw.githubusercontent.com/kurdsvv/rules/master/Clash-Rule/telegramcidr-DC.txt
     path: ./ruleset/allcnip.yaml
     interval: 259200
 
@@ -129,11 +123,13 @@
 - 如你不希望进行 DNS 解析，可在 `GEOIP` 规则的最后加上 `,no-resolve`，如 `GEOIP,CN,DIRECT,no-resolve`。
 
 ```yaml
-rules:
-  #- RULE-SET,Myrejetct,REJECT
+  - RULE-SET,reject,REJECT
+  - RULE-SET,applications,REJECT
+  - RULE-SET,Myrejetct,REJECT
   - RULE-SET,cfdomain,Cloudafare-conn
   - RULE-SET,proxy,🚀 节点选择
   #- RULE-SET,openai,ChatGPT
+  - RULE-SET,telegramcidr-DC,Vless-苏小柠
   - RULE-SET,telegramcidr,🌈 Telegram
   - RULE-SET,direct,DIRECT
   - RULE-SET,cncidr,DIRECT
@@ -143,7 +139,6 @@ rules:
   - RULE-SET,private,♻️ 自动选择
   - RULE-SET,lancidr,DIRECT
   - MATCH,MATCH
-
 ```
 
 
