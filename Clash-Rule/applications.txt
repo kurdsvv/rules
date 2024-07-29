@@ -15,3 +15,6 @@ payload:
   - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,smartscreen.exe
   - PROCESS-NAME,MicrosoftEdgeUpdate.exe
+  - PROCESS-NAME,GoogleUpdate.exe
+  - PROCESS-NAME,updater.exe
+  - PROCESS-NAME,AutoUpdate.exe
