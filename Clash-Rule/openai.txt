@@ -84,6 +84,7 @@ payload:
 - '+.51cg1.com'
 - '+.69shux.net'
 - '+.69shuba.cx'
+- '+.69shu.me'
 - '+.69shuba.com'
 - '+.69shuba.pro'
 - '+.69xinshu.com'
