@@ -159,6 +159,6 @@ payload:
 - '+.xiaoxintv.net'
 - '+.kbjfan.com'
 - '+.stream-topkav.com'
-
-
+- '+.sosorg.nyc.mn'
+- '+.filegear-sg.me'
 
