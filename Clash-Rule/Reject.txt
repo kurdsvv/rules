@@ -752,3 +752,4 @@ payload:
 - 'pic8.iqiyipic.com'
 - 'api.smoot.apple.cn'
 - 'api-p0.yksdks.com'
+- 'update.iobit.com'
