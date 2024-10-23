@@ -75,3 +75,4 @@ payload:
 - '+.telegramcn.org'
 - '+.telegramdownload.com'
 - '+.youtube.com'
+- '+.fapcat.com'
