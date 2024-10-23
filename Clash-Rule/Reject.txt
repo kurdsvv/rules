@@ -753,3 +753,4 @@ payload:
 - 'api.smoot.apple.cn'
 - 'api-p0.yksdks.com'
 - 'update.iobit.com'
+- '+.internetdownloadmanager.com'
