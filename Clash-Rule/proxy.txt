@@ -76,3 +76,4 @@ payload:
 - '+.telegramdownload.com'
 - '+.youtube.com'
 - '+.fapcat.com'
+- '+.ahcdn.com'
