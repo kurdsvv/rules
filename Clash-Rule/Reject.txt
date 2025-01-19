@@ -1,183 +1,269 @@
 
+
 payload:
-- '+.360.cn'
-- '+.baifubao.com'
-- '+.bandi.so'
-- '+.bdurl.net'
-- '+.bitsum.com'
 - '+.c-ctrip.com'
-- '+.c.m.163.com'
-- '+.ccleanr.net'
-- '+.chat.bilibili.com'
-- '+.ctldl.windowsupdate.com'
-- '+.ctobsnssdk.com'
-- '+.ctrip.com'
-- '+.facebook.com'
-- '+.facebook.net'
-- '+.internetdownloadmanager.com'
-- '+.ldmnq.com'
-- '+.m.qq.com'
-- '+.m.taobao.com'
-- '+.mcdn.bilivideo.cn'
-- '+.pps.tv'
-- '+.smtcdns.net'
-- '+.snssdk.com'
-- '+.sogou.com'
-- '+.twitter.com'
-- '+.uc.cn'
-- '+.vivo.com.cn'
-- '+.whotracks.me'
-- '+.windows.com'
-- '+.windows.net'
-- '+.windowsupdate.com'
-- '+.www.yhd.com'
-- '+.xtracloud.net'
-- '+.yandex.ru'
-- '+.you.163.com'
-- '+.youku.com'
+
+- 'stat.tiara.kakao.com'
+
+- 'ogads-pa.clients6.google.com'
+
+- 'px.effirst.com'
+
+- 'browser.pipe.aria.microsoft.com'
+- 'kv501.prod.do.dsp.mp.microsoft.com'
+- 'officeclient.microsoft.com'
+- 'self.events.data.microsoft.com'
+- 'slscr.update.microsoft.com'
+- 'v10.events.data.microsoft.com'
+- 'watson.telemetry.microsoft.com'
+
 - '+.yoyo.org'
+
+- 'nexusrules.officeapps.live.com'
+
+- 'assets.adobedtm.com'
+
+- 'grs.dbankcloud.asia'
+
+- 'az3-upload.ksapisrv.com'
+- 'gdfpsec.ksapisrv.com'
+- 'push.ksapisrv.com'
+
+- 'slb-p2p.vcloud.ks-live.com'
+
+- 'bjfesdk.douyucdn.cn'
+- 'gift.douyucdn.cn'
+- 'rtbapi.douyucdn.cn'
+
+- 'smartop-sdkapi-ipv6.jiguang.cn'
+- 'smartop-sdkapi.jiguang.cn'
+
+- 'r.stripe.com'
+
+- '+.c.m.163.com'
+- '+.you.163.com'
+
+- '+.pps.tv'
+
+- 'loc.map.baidu.com'
+
+- '+.chat.bilibili.com'
+- 'broadcast.chat.bilibili.com'
+- 'data.bilibili.com'
+- 'le3-api.game.bilibili.com'
+- 'live-trace.bilibili.com'
+- 'security.bilibili.com'
+- 'tracker.chat.bilibili.com'
+
+- 'sessions.bugsnag.com'
+
+- '+.ctldl.windowsupdate.com'
+- '+.windowsupdate.com'
+- 'ctldl.windowsupdate.com'
+
 - '+.yuba.douyu.com'
-- 'a.nel.cloudflare.com'
+
+- 'xtrapath1.izatcloud.net'
+- 'xtrapath2.izatcloud.net'
+- 'xtrapath3.izatcloud.net'
+
+- '+.360.cn'
+- 'msch.f.360.cn'
+
+- 'gdfp.gifshow.com'
+- 'gdfpsec.gifshow.com'
+- 'push.gifshow.com'
+- 'ulogjs.gifshow.com'
+
+- 'beacons5.gvt3.com'
+
+- '+.sogou.com'
+- 'config.pinyin.sogou.com'
+- 'get.sogou.com'
+- 'input.shouji.sogou.com'
+- 'ping.pinyin.sogou.com'
+
+- '+.ctobsnssdk.com'
+
+- 'www.google-analytics.com'
+
+- '+.windows.com'
+
+- '+.baifubao.com'
+
+- 'static.doubleclick.net'
+
+- 'ecs.office.com'
+
+- 'qdp.qidian.com'
+
+- 'geolocation.onetrust.com'
+
+- 'grs.platform.dbankcloud.ru'
+
+- 'dnkeeper.platform.dbankcloud.cn'
+- 'events-drcn.op.dbankcloud.cn'
+- 'grs.dbankcloud.cn'
+- 'metrics1-drcn.dt.dbankcloud.cn'
+
+- 'cn-beijing.log.aliyuncs.com'
+- 'pds-app-cn-beijing.cn-beijing.log.aliyuncs.com'
+
+- '+.whotracks.me'
+
+- '+.m.qq.com'
 - 'acts.book.qq.com'
-- 'ad.mcloud.139.com'
-- 'ali-stats.jpush.cn'
+- 'dldir1v6.qq.com'
+- 'graph.qq.com'
+- 'ied-tqos-tgp.qq.com'
+- 'imgcache.qq.com'
+- 'ios.bugly.qq.com'
+- 'ios.rqd.qq.com'
+- 'isdspeed.qq.com'
+- 'localhost.ptlogin2.qq.com'
+- 'localhost.weixin.qq.com'
+- 'lp.open.weixin.qq.com'
+- 'open.weixin.qq.com'
+- 'p.l.qq.com'
+- 'path.book.qq.com'
+- 'res.wx.qq.com'
+- 'rmonitor.qq.com'
+- 'rpt.gdt.qq.com'
+- 'sdkreport.e.qq.com'
+- 'ssl.captcha.qq.com'
+- 'ssl.ptlogin2.graph.qq.com'
+- 'ssl.ptlogin2.qq.com'
+- 'support.weixin.qq.com'
+- 'szlong.weixin.qq.com'
+- 't.captcha.qq.com'
+- 'tangram.e.qq.com'
+- 'ui.ptlogin2.qq.com'
+- 'unitelogreport.reader.qq.com'
+- 'us.l.qq.com'
+- 'ywab.reader.qq.com'
+
+- '+.windows.net'
+
+- '+.m.taobao.com'
+- 'audid-api.taobao.com'
+- 'fourier.taobao.com'
+- 'h-adashx.ut.taobao.com'
+- 'openjmacs4uc.m.taobao.com'
+
 - 'apd-pcdnwxlogin.teg.tencent-cloud.net'
 - 'apd-pcdnwxnat.teg.tencent-cloud.net'
 - 'apd-pcdnwxstat.teg.tencent-cloud.net'
-- 'api-access.pangolin-sdk-toutiao1.com'
-- 'api-c.dutils.com'
-- 'api-d.dutils.com'
-- 'assets.adobedtm.com'
-- 'audid-api.taobao.com'
-- 'az3-upload.ksapisrv.com'
+
+- '+.mcdn.bilivideo.cn'
+
+- '+.bitsum.com'
+
+- 'live.douyin.com'
+
+- 'ali-stats.jpush.cn'
+- 'ce3e75d5-ipv6.jpush.cn'
+- 'ce3e75d5.jpush.cn'
+- 'config-ipv6.jpush.cn'
+- 'config.jpush.cn'
+- 'gd-stats.jpush.cn'
+- 's.jpush.cn'
+- 'stats.jpush.cn'
+- 'status-ipv6.jpush.cn'
+- 'tsis.jpush.cn'
+
+- 'passport.bilibili.cn'
+
 - 'beacons.gcp.gvt2.com'
 - 'beacons.gvt2.com'
 - 'beacons2.gvt2.com'
 - 'beacons3.gvt2.com'
 - 'beacons4.gvt2.com'
 - 'beacons5.gvt2.com'
-- 'beacons5.gvt3.com'
-- 'bjfesdk.douyucdn.cn'
-- 'broadcast.chat.bilibili.com'
-- 'browser.pipe.aria.microsoft.com'
-- 'ca.iadsdk.apple.com'
-- 'ce3e75d5-ipv6.jpush.cn'
-- 'ce3e75d5.jpush.cn'
-- 'clientservices.googleapis.com'
-- 'cn-beijing.log.aliyuncs.com'
-- 'config-ipv6.jpush.cn'
-- 'config.edge.skype.com'
-- 'config.jpush.cn'
-- 'config.pinyin.sogou.com'
-- 'ctldl.windowsupdate.com'
+
+- 'a.nel.cloudflare.com'
+
+- '+.internetdownloadmanager.com'
+
 - 'd-gm.mmstat.com'
-- 'data.bilibili.com'
-- 'dig.bdurl.net'
-- 'dldir1v6.qq.com'
-- 'dnkeeper.platform.dbankcloud.cn'
-- 'dns.weixin.qq.com.cn'
-- 'download.voicecloud.cn'
-- 'ecs.office.com'
-- 'events-drcn.op.dbankcloud.cn'
-- 'fourier.alibaba.com'
-- 'fourier.taobao.com'
-- 'fp.msedge.net'
-- 'gd-stats.jpush.cn'
-- 'gdfp.gifshow.com'
-- 'gdfpsec.gifshow.com'
-- 'gdfpsec.ksapisrv.com'
-- 'geolocation.onetrust.com'
-- 'get.sogou.com'
-- 'gift.douyucdn.cn'
-- 'graph.qq.com'
-- 'grs.dbankcloud.asia'
-- 'grs.dbankcloud.cn'
-- 'grs.dbankcloud.com'
+- 's-gm.mmstat.com'
+- 'wgo.mmstat.com'
+
+- 'ad.mcloud.139.com'
+
 - 'grs.dbankcloud.eu'
-- 'grs.platform.dbankcloud.ru'
-- 'h-adashx.ut.taobao.com'
-- 'hw-v2-web-player-tracker.biliapi.net'
-- 'ied-tqos-tgp.qq.com'
-- 'imgcache.qq.com'
-- 'input.shouji.sogou.com'
-- 'ios.bugly.qq.com'
-- 'ios.rqd.qq.com'
-- 'isdspeed.qq.com'
-- 'kv501.prod.do.dsp.mp.microsoft.com'
-- 'le3-api.game.bilibili.com'
-- 'live-trace.bilibili.com'
-- 'live.douyin.com'
-- 'loc.map.baidu.com'
-- 'localhost.ptlogin2.qq.com'
-- 'localhost.weixin.qq.com'
-- 'lp.open.weixin.qq.com'
-- 'metrics1-drcn.dt.dbankcloud.cn'
-- 'metrics1.data.hicloud.com'
-- 'mlvbdc.live.qcloud.com'
-- 'monitor-stsdk.vivo.com.cn'
-- 'msch.f.360.cn'
-- 'nexusrules.officeapps.live.com'
-- 'officeclient.microsoft.com'
-- 'ogads-pa.clients6.google.com'
-- 'onrt-stsdk.vivo.com.cn'
-- 'open.weixin.qq.com'
-- 'openjmacs4uc.m.taobao.com'
-- 'optimizationguide-pa.googleapis.com'
-- 'p.l.qq.com'
+
+- 'api-c.dutils.com'
+- 'api-d.dutils.com'
+
+- '+.uc.cn'
+
+- '+.ctrip.com'
+
+- '+.facebook.com'
+
+- '+.xtracloud.net'
+
 - 'p1-play.edge4k.com'
 - 'p2-play.edge4k.com'
-- 'passport.bilibili.cn'
-- 'path.book.qq.com'
-- 'pds-app-cn-beijing.cn-beijing.log.aliyuncs.com'
-- 'ping.pinyin.sogou.com'
+
+- '+.snssdk.com'
+
+- 'hw-v2-web-player-tracker.biliapi.net'
+
+- '+.twitter.com'
+
+- 'config.edge.skype.com'
+
+- '+.bandi.so'
+
+- 'services.gfe.nvidia.com'
+
+- '+.facebook.net'
+
+- '+.youku.com'
+
+- 'ca.iadsdk.apple.com'
+- 'xp.apple.com'
+
+- 'fp.msedge.net'
+
+- 'mlvbdc.live.qcloud.com'
+
+- 'fourier.alibaba.com'
+
+- '+.www.yhd.com'
+
+- 'px.wpk.quark.cn'
+
+- '+.vivo.com.cn'
+- 'dns.weixin.qq.com.cn'
+- 'monitor-stsdk.vivo.com.cn'
+- 'onrt-stsdk.vivo.com.cn'
+- 'stsdk.vivo.com.cn'
+
+- '+.yandex.ru'
+
+- 'api-access.pangolin-sdk-toutiao1.com'
+
+- '+.bdurl.net'
+- 'dig.bdurl.net'
+
 - 'push-rtmp-l11-encryption.douyincdn.com'
 - 'push-rtmp-spe-l11.douyincdn.com'
-- 'push.gifshow.com'
-- 'push.ksapisrv.com'
-- 'px.effirst.com'
-- 'px.wpk.quark.cn'
-- 'qdp.qidian.com'
-- 'r.stripe.com'
-- 'res.wx.qq.com'
-- 'rmonitor.qq.com'
-- 'rpt.gdt.qq.com'
-- 'rtbapi.douyucdn.cn'
-- 's-gm.mmstat.com'
-- 's.jpush.cn'
-- 'sdkreport.e.qq.com'
-- 'security.bilibili.com'
-- 'self.events.data.microsoft.com'
-- 'services.gfe.nvidia.com'
-- 'sessions.bugsnag.com'
-- 'slb-p2p.vcloud.ks-live.com'
-- 'slscr.update.microsoft.com'
-- 'smartop-sdkapi-ipv6.jiguang.cn'
-- 'smartop-sdkapi.jiguang.cn'
-- 'ssl.captcha.qq.com'
-- 'ssl.ptlogin2.graph.qq.com'
-- 'ssl.ptlogin2.qq.com'
-- 'stat.tiara.kakao.com'
-- 'static.doubleclick.net'
-- 'stats.jpush.cn'
-- 'status-ipv6.jpush.cn'
-- 'stsdk.vivo.com.cn'
-- 'support.weixin.qq.com'
-- 'szlong.weixin.qq.com'
-- 't.captcha.qq.com'
-- 'tangram.e.qq.com'
-- 'tracker.chat.bilibili.com'
-- 'tsis.jpush.cn'
-- 'ui.ptlogin2.qq.com'
-- 'ulogjs.gifshow.com'
-- 'unitelogreport.reader.qq.com'
+
+- 'clientservices.googleapis.com'
+- 'optimizationguide-pa.googleapis.com'
 - 'update.googleapis.com'
-- 'us.l.qq.com'
-- 'v10.events.data.microsoft.com'
-- 'watson.telemetry.microsoft.com'
-- 'wgo.mmstat.com'
-- 'www.google-analytics.com'
-- 'xp.apple.com'
-- 'xtrapath1.izatcloud.net'
-- 'xtrapath2.izatcloud.net'
-- 'xtrapath3.izatcloud.net'
-- 'ywab.reader.qq.com'
+
+- '+.smtcdns.net'
+
+- 'download.voicecloud.cn'
+
+- '+.ldmnq.com'
+
+- 'metrics1.data.hicloud.com'
+
+- '+.ccleanr.net'
+
+- 'grs.dbankcloud.com'
+
