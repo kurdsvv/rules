@@ -243,7 +243,7 @@ payload:
 - 'res.wx.qq.com'
 - 'us.l.qq.com'
 - 'p.l.qq.com'
-- 'sdkreport.e.qq.com''
+- 'sdkreport.e.qq.com'
 - 'unitelogreport.reader.qq.com'
 - 'rpt.gdt.qq.com'
 - 'config.jpush.cn'
