@@ -23,6 +23,8 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
+    - quic://north.dh-global-team.net:639
+    - '#https://dns.cloudflare.com/dns-query'
     - '#quic://dns.alidns.com:853'
   upstream_dns_file: ""
   bootstrap_dns:
@@ -33,6 +35,8 @@ dns:
   allowed_clients: []
   disallowed_clients:
     - 192.168.0.102
+    - 192.168.0.101
+    - 192.168.0.100
   blocked_hosts:
     - version.bind
     - id.server
@@ -91,7 +95,7 @@ querylog:
 statistics:
   dir_path: ""
   ignored: []
-  interval: 2160h
+  interval: 72h
   enabled: true
 filters:
   - enabled: true
@@ -165,7 +169,6 @@ filtering:
       - zhihu
       - xboxlive
       - twitter
-      - qq
       - facebook
       - 4chan
       - 500px
