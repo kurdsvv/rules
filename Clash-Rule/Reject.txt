@@ -235,3 +235,17 @@ payload:
 
 - 'grs.dbankcloud.com'
 
+- 'localhost.weixin.qq.com'
+- 'lp.open.weixin.qq.com'
+- 'le3-api.game.bilibili.com'
+- 'support.weixin.qq.com'
+- 'isdspeed.qq.com'
+- 'res.wx.qq.com'
+- 'us.l.qq.com'
+- 'p.l.qq.com'
+- 'sdkreport.e.qq.com''
+- 'unitelogreport.reader.qq.com'
+- 'rpt.gdt.qq.com'
+- 'config.jpush.cn'
+- 'tangram.e.qq.com'
+- 'ana.bandi.so'
