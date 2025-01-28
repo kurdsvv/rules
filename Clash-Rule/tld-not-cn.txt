@@ -86,4 +86,5 @@ payload:
 - '+.youtobe.com'
 - '+.youtube.com'
 - '+.ytimg.com'
+- '+.xvideos-cdn.com'
 
