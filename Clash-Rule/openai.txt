@@ -1,4 +1,5 @@
 payload:
+##GPT 域名
 - '+.openai.com'
 - '+.chatgpt.com'
 - '+.intercom.io'
