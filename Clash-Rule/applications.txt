@@ -18,3 +18,7 @@ payload:
   - PROCESS-NAME,GoogleUpdate.exe
   - PROCESS-NAME,updater.exe
   - PROCESS-NAME,AutoUpdate.exe
+  - PROCESS-NAME,OfficeClickToRun.exe
+  - PROCESS-NAME,SGTool.exe
+  - PROCESS-NAME,NVDisplay.Container.exe
+  - PROCESS-NAME,OfficeC2RClient.exe
