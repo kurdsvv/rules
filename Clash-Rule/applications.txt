@@ -22,3 +22,4 @@ payload:
   - PROCESS-NAME,SGTool.exe
   - PROCESS-NAME,NVDisplay.Container.exe
   - PROCESS-NAME,OfficeC2RClient.exe
+  - PROCESS-NAME,HRUpdate.exe
