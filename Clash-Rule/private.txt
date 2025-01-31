@@ -22,6 +22,7 @@ payload:
 - '+.cf.090227.xyz'
 - '+.api-iptest.bestip.one'
 - '+.5112233.xyz'
+- '+.us.kg'
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
