@@ -95,3 +95,4 @@ payload:
 - '+.weathercn.com'
 - '+.myssl.com'
 - '+.115.com'
+- '+.1foo.com'
