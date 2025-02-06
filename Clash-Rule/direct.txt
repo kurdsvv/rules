@@ -96,3 +96,4 @@ payload:
 - '+.myssl.com'
 - '+.115.com'
 - '+.1foo.com'
+- '+.baimiaoapp.com'
