@@ -24,7 +24,9 @@ payload:
 - '+.5112233.xyz'
 - '+.us.kg'
 - '+.digitalplat.org'
-
+- '+.o00o.ooo
+- '+.isegaro.com
+- '+.sosoorg.com
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
