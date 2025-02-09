@@ -23,3 +23,6 @@ payload:
   - PROCESS-NAME,NVDisplay.Container.exe
   - PROCESS-NAME,OfficeC2RClient.exe
   - PROCESS-NAME,HRUpdate.exe
+  - PROCESS-NAME,SoftUpdateTip.exe
+  - PROCESS-NAME,IObitLiveUpdate.exe
+  - PROCESS-NAME,SPUpdate.exe
