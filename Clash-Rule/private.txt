@@ -27,6 +27,7 @@ payload:
 - '+.o00o.ooo'
 - '+.isegaro.com'
 - '+.sosoorg.com'
+- '33898443.xyz'
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
