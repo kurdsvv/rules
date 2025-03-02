@@ -1644,4 +1644,4 @@ payload:
 - 'cf.iadsdk.apple.com'
 - 'csp-reporting.cloudflare.com'
 - 'pagead2.googlesyndication.com'
-- 'deliver.ptgncdn.com'
+
