@@ -87,7 +87,6 @@ payload:
 - '+.youtube.com'
 - '+.ytimg.com'
 - '+.xvideos-cdn.com'
-- '+.cloudflare.com'
 - 'cfip.xxxxxxxx.tk'
 - 'cdn.kaiche.tk'
 - 'cf.090227.xyz'
