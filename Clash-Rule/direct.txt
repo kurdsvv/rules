@@ -10,7 +10,6 @@ payload:
 - '+.cdnlz9.com'
 - '+.chouti.com'
 - '+.cjkypo.com'
-- '+.cloudns.net'
 - '+.csp.withgoogle.com'
 - '+.digicert.com'
 - '+.douyu.com'
@@ -94,4 +93,4 @@ payload:
 - '+.baimiaoapp.com'
 - '+.in-addr.arpa'
 - '+.microsoft.com'
-
+- '+.163.com'
