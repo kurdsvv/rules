@@ -104,3 +104,4 @@ payload:
 - 'visa.cn'
 - 'fbi.gov'
 - 'sp.rweek.top'
+- '+.ns.cloudflare.com'
