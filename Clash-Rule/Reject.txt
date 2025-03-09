@@ -851,8 +851,6 @@ payload:
 - 'sis-ipv6.jpush.cn'
 - 'tsis-ipv6.jpush.cn'
 
-- 'live.douyin.com'
-
 - 'passport.bilibili.cn'
 
 - 'ocpx.adwangmai.com'
