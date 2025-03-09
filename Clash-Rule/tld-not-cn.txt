@@ -107,3 +107,5 @@ payload:
 - '+.ns.cloudflare.com'
 - '+.sosoorg.com'
 - '+.eu.org'
+- '+.sjc.o00o.ooo'
+- '+.CMLiussss.net'
