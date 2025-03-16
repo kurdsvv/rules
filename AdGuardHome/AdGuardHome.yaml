@@ -23,20 +23,36 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - quic://north.dh-global-team.net:639
-    - '#https://dns.cloudflare.com/dns-query'
     - '#quic://dns.alidns.com:853'
+    - '[/*.qq.com/]quic://dns.alidns.com:853'
+    - '[/*.cn/]quic://dns.alidns.com:853'
+    - '[/*.bilibili.com/]quic://dns.alidns.com:853'
+    - '[/*.windows.com/]quic://dns.alidns.com:853'
+    - '[/*.bilivideo.com/]quic://dns.alidns.com:853'
+    - '[/*.hdslb.com/]quic://dns.alidns.com:853'
+    - '[/*.sanguosha.com/]quic://dns.alidns.com:853'
+    - '[/*.infinitynewtab.com/]quic://dns.alidns.com:853'
+    - '[/*.qidian.com/]quic://dns.alidns.com:853'
+    - '[/*.microsoft.com/]quic://dns.alidns.com:853'
+    - '[/*.yuewen.com/]quic://dns.alidns.com:853'
+    - '[/*.bing.com/]quic://dns.alidns.com:853'
+    - '[/*.myqcloud.com/]quic://dns.alidns.com:853'
+    - '[/*.tencent.com/]quic://dns.alidns.com:853'
+    - '[/*.cn/]quic://dns.alidns.com:853'
+    - '[/*.weatheroffer.com/]quic://dns.alidns.com:853'
+    - '[/*.hzyoka.com/]quic://dns.alidns.com:853'
   upstream_dns_file: ""
   bootstrap_dns:
-    - 202.46.34.74
+    - 223.5.5.5
+    - 8.8.8.8
   fallback_dns: []
   upstream_mode: load_balance
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients:
     - 192.168.0.102
+    - 192.168.0.105
     - 192.168.0.101
-    - 192.168.0.100
   blocked_hosts:
     - version.bind
     - id.server
@@ -45,15 +61,15 @@ dns:
     - 127.0.0.0/8
     - ::1/128
   cache_size: 4194304
-  cache_ttl_min: 120
-  cache_ttl_max: 300
+  cache_ttl_min: 600
+  cache_ttl_max: 1200
   cache_optimistic: true
   bogus_nxdomain: []
   aaaa_disabled: true
   enable_dnssec: false
   edns_client_subnet:
     custom_ip: 221.183.89.117
-    enabled: true
+    enabled: false
     use_custom: true
   max_goroutines: 300
   handle_ddr: true
@@ -88,14 +104,14 @@ tls:
 querylog:
   dir_path: ""
   ignored: []
-  interval: 168h
+  interval: 720h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
   dir_path: ""
   ignored: []
-  interval: 72h
+  interval: 168h
   enabled: true
 filters:
   - enabled: true
@@ -258,7 +274,6 @@ filtering:
       - spotify
       - temu
       - tidal
-      - tiktok
       - tinder
       - tumblr
       - twitch
@@ -283,7 +298,7 @@ filtering:
     pixabay: true
     yandex: true
     youtube: true
-  blocking_mode: default
+  blocking_mode: null_ip
   parental_block_host: family-block.dns.adguard.com
   safebrowsing_block_host: standard-block.dns.adguard.com
   rewrites: []
