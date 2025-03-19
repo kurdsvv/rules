@@ -257,3 +257,4 @@ payload:
 - '+.zh.xhamster19.com'
 - '+.zoubuting.com'
 - '+.gravatar.com'
+- '+.javrate.com'
