@@ -109,3 +109,5 @@ payload:
 - '+.eu.org'
 - '+.sjc.o00o.ooo'
 - '+.CMLiussss.net'
+- '+.nyc.mn'
+- '+.rr.nu'
