@@ -1,5 +1,5 @@
 payload:
-  - PROCESS-PATH,G:\WindowsInstall\AI-Chat\yfoo
-  - PROCESS-PATH,G:\WindowsInstall\blibdown
-  - PROCESS-PATH,G:\WindowsInstall\CloudMusic
-  - PROCESS-PATH,G:\WindowsInstall\blibdown
+  - PROCESS-NAME,AI.exe
+  - PROCESS-NAME,cloudmusic.exe
+  - PROCESS-NAME,bilidown.exe
+  - PROCESS-NAME,Motrix.exe
