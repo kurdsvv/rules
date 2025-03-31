@@ -1,0 +1,4 @@
+  - PROCESS-PATH,G:\WindowsInstall\AI-Chat\yfoo
+  - PROCESS-PATH,G:\WindowsInstall\blibdown
+  - PROCESS-PATH,G:\WindowsInstall\CloudMusic
+  - PROCESS-PATH,G:\WindowsInstall\blibdown
