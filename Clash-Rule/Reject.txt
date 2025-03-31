@@ -1000,7 +1000,6 @@ payload:
 - 'u05srooyhc.execute-api.us-east-1.amazonaws.com'
 - 'updates3.iobit.com.s3.amazonaws.com'
 - 'javmedia.s3.amazonaws.com'
-- '+.smtcdns.net'
 - 'pluto.sina.cn'
 - 'download.voicecloud.cn'
 - 'ossp.voicecloud.cn'
