@@ -26,3 +26,4 @@ payload:
   - PROCESS-NAME,SoftUpdateTip.exe
   - PROCESS-NAME,IObitLiveUpdate.exe
   - PROCESS-NAME,SPUpdate.exe
+  - PROCESS-NAME,SOGOUSmartAssistant.exe
