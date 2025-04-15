@@ -2,4 +2,4 @@ payload:
   - PROCESS-NAME,AI.exe
   - PROCESS-NAME,cloudmusic.exe
   - PROCESS-NAME,bilidown.exe
-  - PROCESS-NAME,Motrix.exe
+
