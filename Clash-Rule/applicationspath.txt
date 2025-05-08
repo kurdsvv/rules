@@ -2,4 +2,8 @@ payload:
   - PROCESS-NAME,AI.exe
   - PROCESS-NAME,cloudmusic.exe
   - PROCESS-NAME,bilidown.exe
-
+  - PROCESS-NAME,yak.exe
+  - PROCESS-NAME,Yakit.exe
+  - PROCESS-NAME,elevate.exe
+  - PROCESS-NAME,Motrix.exe
+  - PROCESS-NAME,aria2c.exe
