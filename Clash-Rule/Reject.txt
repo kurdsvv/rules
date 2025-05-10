@@ -1098,7 +1098,6 @@ payload:
 - 'easytomessage.com'
 - 'ad287.com'
 - 'id6.me'
-- 'x.com'
 - 'evocdn.net'
 - 'disneyplus.com'
 - 'rutrk.org'
