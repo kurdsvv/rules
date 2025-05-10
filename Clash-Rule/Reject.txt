@@ -458,8 +458,6 @@ payload:
 - 'ad.a-ads.com'
 - 'media.daly2024.com'
 - 'open.e.kuaishou.cn'
-- '+.twitter.com'
-- 'platform.twitter.com'
 - 'hw-v2-web-player-tracker.biliapi.net'
 - 'ali-web-player-tracker.biliapi.net'
 - 'grpc.biliapi.net'
