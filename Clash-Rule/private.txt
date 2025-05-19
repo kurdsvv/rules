@@ -1,22 +1,13 @@
 payload:
 #代理域名
-- '+.url.happyhour.lol'
 - '+.sosorg.nyc.mn'
 - '+.shodan.io'
 - '+.pages.dev'
-- '+.onflashdrive.app'
-- '+.monitor.gacjie.cn'
-- '+.freenods.sbs'
-- '+.fontawesome.com'
-- '+.filegear-sg.me'
 - '+.eu.org'
 - '+.dns-dynamic.net'
 - '+.cf.090227.xyz'
 - '+.api-iptest.bestip.one'
-- '+.us.kg'
-- '+.digitalplat.org'
 - '+.o00o.ooo'
-- '+.isegaro.com'
 - '33898443.xyz'
 - '3498416.cfd'
 #国际华为
@@ -63,13 +54,8 @@ payload:
 - '+.gitstar.net'
 
 ##69shu
-- '+.123du.vip'
 - '+.1853723.xyz'
-- '+.69shux.net'
-- '+.69shuba.cx'
-- '+.69shu.me'
 - '+.69shuba.com'
-- '+.69shuba.pro'
-- '+.69xinshu.com'
+
 
 
