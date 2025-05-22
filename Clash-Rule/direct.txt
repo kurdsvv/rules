@@ -94,3 +94,8 @@ payload:
 - '+.in-addr.arpa'
 - '+.microsoft.com'
 - '+.163.com'
+- '+.1foo.com'
+- '+.ai1foo.com'
+- '+.aichatapi.com'
+- '+.cn'
+- '+.bdimg.com'
