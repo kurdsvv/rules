@@ -991,7 +991,6 @@ payload:
 - 'aedns.weixin.qq.com'
 - 't.gdt.qq.com'
 - 'c.l.qq.com'
-- 'szshort.weixin.qq.com'
 - 'long.open.weixin.qq.com'
 - 'szshort.pay.weixin.qq.com'
 - 'win.gdt.qq.com'
