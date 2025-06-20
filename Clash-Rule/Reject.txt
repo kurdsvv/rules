@@ -1227,7 +1227,6 @@ payload:
 - 'dualstack-restsdk.amap.com'
 - 'amap-aos-info-nogw.amap.com'
 - 'page.amap.com'
-- ''
 - 'kuai.vzan.com'
 - 'a2.vzan.com'
 - 'i2.vzan.com'
