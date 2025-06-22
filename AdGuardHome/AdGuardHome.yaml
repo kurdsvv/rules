@@ -31,7 +31,6 @@ dns:
     - '[/*.github.com/]'
     - '[/*.gstatic.com/]'
     - '[/*.googleapis.com/]'
-    - '#quic://north.dh-global-team.net:639'
     - quic://dns.alidns.com:853
   upstream_dns_file: ""
   bootstrap_dns:
