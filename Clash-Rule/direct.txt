@@ -99,3 +99,4 @@ payload:
 - '+.aichatapi.com'
 - '+.cn'
 - '+.bdimg.com'
+- '+.doubao.com'
