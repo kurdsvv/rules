@@ -103,4 +103,8 @@ payload:
 - '+.videodelivery.net'
 - '+.warp.plus'
 - '+.workers.dev'
-
+- '+.mypikpak.com'
+- '+.adjust.com'
+- '+.mypikpak.net'
+- '+.pikpak.me'
+- '+.pikpakdrive.com'
