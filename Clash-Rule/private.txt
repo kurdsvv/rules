@@ -10,7 +10,7 @@ payload:
 - '+.o00o.ooo'
 - '33898443.xyz'
 - '3498416.cfd'
-
+- '+.ai'
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
