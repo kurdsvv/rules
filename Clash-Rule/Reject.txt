@@ -189,7 +189,6 @@ payload:
 - 'tpstelemetry.tencent.com'
 - 'galileotelemetry.tencent.com'
 - 'www.intensedebate.com'
-- '+.snssdk.com'
 - '+.baifubao.com'
 - 'api-p0.mobsurl.com'
 - 'api-p1.mobsurl.com'
