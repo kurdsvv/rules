@@ -1701,3 +1701,4 @@ payload:
 - 'perfops.r.worldssl.net'
 - 'cdnperf-rum.quantil.com'
 - 'cdnperf-rum.cdnetworks.net'
+- '+.cloudflareclient.com'
