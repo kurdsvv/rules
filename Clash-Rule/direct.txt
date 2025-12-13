@@ -140,3 +140,5 @@ payload:
 - '+.every1dns.net'
 - '+.one.one.one'
 - '+.pacloudflare.com'
+- '+.stripe.com'
+- '+.challenges.cloudflare.com'
