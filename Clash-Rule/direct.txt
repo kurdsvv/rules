@@ -100,3 +100,5 @@ payload:
 - '+.cn'
 - '+.bdimg.com'
 - '+.doubao.com'
+- '+.rapidssl.com'
+- '+.digicert-cn.com'
