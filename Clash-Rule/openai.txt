@@ -15,6 +15,5 @@ payload:
 - '+.oaiusercontent.com'
 - '+.openaiapi-site.azureedge.net'
 - '+.sentry.io'
-- '+.stripe.com'
 
 
