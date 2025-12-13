@@ -2,9 +2,7 @@ payload:
 #代理域名
 - '+.sosorg.nyc.mn'
 - '+.shodan.io'
-- '+.pages.dev'
 - '+.eu.org'
-- '+.dns-dynamic.net'
 - '+.cf.090227.xyz'
 - '+.api-iptest.bestip.one'
 - '+.o00o.ooo'
