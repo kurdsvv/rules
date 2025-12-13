@@ -6,7 +6,6 @@ payload:
 - '+.oaistatic.com'
 - '+.gemini.google.com'
 - '+.auth0.com'
-- '+.challenges.cloudflare.com'
 - '+.client-api.arkoselabs.com'
 - '+.events.statsigapi.net'
 - '+.featuregates.org'
