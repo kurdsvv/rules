@@ -1702,3 +1702,4 @@ payload:
 - 'cdnperf-rum.quantil.com'
 - 'cdnperf-rum.cdnetworks.net'
 - '+.cloudflareclient.com'
+- '+.gatherer.m.qq.com'
