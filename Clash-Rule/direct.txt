@@ -149,3 +149,8 @@ payload:
 - '+.bytetos.com'
 - '+.douyin.com'
 - '+.zijieapi.com'
+- '+.douyinstatic.com'
+- '+.bytegecko.com'
+- '+.ibytedapm.com'
+- '+.byteimg.com'
+- '+.bytefcdnrd.com'
