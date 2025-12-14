@@ -142,3 +142,4 @@ payload:
 - '+.pacloudflare.com'
 - '+.stripe.com'
 - '+.challenges.cloudflare.com'
+- '+.qq.com'
