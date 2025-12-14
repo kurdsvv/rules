@@ -143,3 +143,4 @@ payload:
 - '+.stripe.com'
 - '+.challenges.cloudflare.com'
 - '+.qq.com'
+- '+.qcloud.com'
