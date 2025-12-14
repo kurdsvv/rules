@@ -144,3 +144,8 @@ payload:
 - '+.challenges.cloudflare.com'
 - '+.qq.com'
 - '+.qcloud.com'
+- '+.douyinpic.com'
+- '+.yhgfb-cn-static.com'
+- '+.bytetos.com'
+- '+.douyin.com'
+- '+.zijieapi.com'
