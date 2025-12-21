@@ -157,3 +157,4 @@ payload:
 - '+.js.design'
 - '+.yyai8.com'
 - '+.juziseo.com'
+- '+.rutood.com'
