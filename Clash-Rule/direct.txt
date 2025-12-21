@@ -161,3 +161,4 @@ payload:
 - '+.gcaptcha4.geevisit.com'
 - '+.static.geetest.com'
 - '+.api.geetest.com'
+- '+.dh-global-team.net'
