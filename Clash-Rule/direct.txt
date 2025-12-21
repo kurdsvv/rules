@@ -154,3 +154,6 @@ payload:
 - '+.ibytedapm.com'
 - '+.byteimg.com'
 - '+.bytefcdnrd.com'
+- '+.js.design'
+- '+.yyai8.com'
+- '+.juziseo.com'
