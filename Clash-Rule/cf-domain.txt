@@ -258,3 +258,7 @@ payload:
 - '+.zoubuting.com'
 - '+.gravatar.com'
 - '+.javrate.com'
+- '+.kbjsvip.win'
+- '+.vvip.win'
+- '+.av19.ink'
+- '+.javopen.co'
