@@ -1739,3 +1739,4 @@ payload:
 - '+.log.kuaishou.com'
 - '+.log.gifshow.com'
 - '+.trace.kuaishou.com'
+- '+.redirector.gvt1.com'
