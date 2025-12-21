@@ -69,3 +69,5 @@ payload:
 - '+.mypikpak.net'
 - '+.pikpak.me'
 - '+.pikpakdrive.com'
+- '+.similarsites.com'
+- '+.similarcdn.com'
