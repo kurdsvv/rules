@@ -158,3 +158,4 @@ payload:
 - '+.yyai8.com'
 - '+.juziseo.com'
 - '+.rutood.com'
+- '+.static.geetest.com'
