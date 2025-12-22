@@ -141,20 +141,19 @@ rule-providers:
 
 ```yaml
 rules:
-  - RULE-SET,DropIP,REJECT-DROP
+  - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
+  - PROCESS-NAME,Telegram.exe,Telegram
   - RULE-SET,reject,REJECT
   - RULE-SET,applications,REJECT
-  - RULE-SET,Myrejetct,REJECT
-  - RULE-SET,private,♻️ 自动选择
-  - RULE-SET,proxy,🚀 节点选择
-  - RULE-SET,cfdomain,cf-conn
-  - RULE-SET,openai,♻️ 自动选择 
-  - RULE-SET,telegramcidr,🌈 Telegram
+  - RULE-SET,Cloudflare,DIRECT,no-resolve
+  - RULE-SET,cncidr,DIRECT,no-resolve
+  - RULE-SET,private,cf-conn
+  - RULE-SET,proxy,节点选择
+  - RULE-SET,openai,cf-conn
+  - RULE-SET,telegramcidr,Telegram
   - RULE-SET,direct,DIRECT
-  - RULE-SET,cncidr,DIRECT
-  - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - RULE-SET,Google,🚀 节点选择
+  - RULE-SET,cfdomain,cf-conn
   - RULE-SET,Cloudflare,cf-conn
   - RULE-SET,lancidr,DIRECT
   - MATCH,MATCH
