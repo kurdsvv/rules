@@ -162,3 +162,4 @@ payload:
 - '+.static.geetest.com'
 - '+.api.geetest.com'
 - '+.dh-global-team.net'
+- '+.dns.alidns.com'
