@@ -163,3 +163,5 @@ payload:
 - '+.api.geetest.com'
 - '+.dh-global-team.net'
 - '+.dns.alidns.com'
+- '+.bytegoofy.com'
+- '+.bytetcc.com'
