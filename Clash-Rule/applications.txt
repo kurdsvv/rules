@@ -62,3 +62,4 @@ payload:
   - PROCESS-NAME,SogouFlash.exe
   - PROCESS-NAME,SogouExe.exe
   - PROCESS-NAME,SogouSvc.exe
+  - PROCESS-NAME,Updater.exe
