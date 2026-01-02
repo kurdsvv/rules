@@ -10,14 +10,11 @@ payload:
   - PROCESS-NAME,Microsoft.ECApp.exe
   - PROCESS-NAME,MicrosoftEdgeCP.exe
   - PROCESS-NAME,MicrosoftEdgeSH.exe
-  - PROCESS-NAME,MicrosoftEdge.exe
   - PROCESS-NAME,XBox.TCUI.exe
   - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,smartscreen.exe
   - PROCESS-NAME,MicrosoftEdgeUpdate.exe
-  - PROCESS-NAME,GoogleUpdate.exe
   - PROCESS-NAME,updater.exe
-  - PROCESS-NAME,AutoUpdate.exe
   - PROCESS-NAME,OfficeClickToRun.exe
   - PROCESS-NAME,SGTool.exe
   - PROCESS-NAME,NVDisplay.Container.exe
@@ -37,7 +34,6 @@ payload:
   - PROCESS-NAME,SGKaomoji.exe
   - PROCESS-NAME,SGMyInput.exe
   - PROCESS-NAME,SGSmartAssistant.exe
-  - PROCESS-NAME,SGTool.exe
   - PROCESS-NAME,SGWangzai.exe
   - PROCESS-NAME,SGWebRender.exe
   - PROCESS-NAME,SGWizard.exe
@@ -46,7 +42,6 @@ payload:
   - PROCESS-NAME,SogouToolkits.exe
   - PROCESS-NAME,userNetSchedule.exe
   - PROCESS-NAME,Uninstall\Uninstall.exe
-  - PROCESS-NAME,crashrpt.exe
   - PROCESS-NAME,SogouComMgr.exe
   - PROCESS-NAME,biz_helper.exe
   - PROCESS-NAME,biz_notify.exe
@@ -63,3 +58,5 @@ payload:
   - PROCESS-NAME,SogouExe.exe
   - PROCESS-NAME,SogouSvc.exe
   - PROCESS-NAME,Updater.exe
+
+
