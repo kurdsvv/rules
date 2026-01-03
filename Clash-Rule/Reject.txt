@@ -1668,7 +1668,6 @@ payload:
 - 'p1.adkwai.com'
 - 'openfpcdn.io'
 - 'ic-vt-nss.xhcdn.com'
-- 'static-ah.xhcdn.com'
 - 'video-cf.xhcdn.com'
 - 'ic-vrm-nss.xhcdn.com'
 - 'ic-tt-nss.xhcdn.com'
