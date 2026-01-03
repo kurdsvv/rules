@@ -115,3 +115,5 @@ payload:
 - '+.xiaobaotv.net'
 - '+.xiaoheimi.net'
 - '+.xiaoxintv.net'
+- '+.aqw.sisurl.com'
+- '+.t66y.com'
