@@ -6,18 +6,13 @@ payload:
 - '+.accesscam.org'
 - '+.gleeze.com'
 - '+.camdvr.org'
-- '+.yxip.now.cc'
-- '+.kaiche.tk'
-- '+.rweek.top'
-- '+.dedyn.io'
-- '+.xxxxxxxx.tk'
 - '+.cloudflare.cyou'
 - '+.eu.org'
 - '+.theworkpc.com'
 - '+.mywire.org'
 - '+.gitgoogle.com'
 - '+.cloudns.org'
-
+- '+.dedyn.io'
 - '+.ddnsfree.com'
 - '+.dnschecker.org'
 - '+.comicabc.com'
@@ -249,5 +244,6 @@ payload:
 - '+.av19.ink'
 - '+.javopen.co'
 - '+.edu.kg'
+
 
 
