@@ -1732,3 +1732,5 @@ payload:
 - '+.log.gifshow.com'
 - '+.trace.kuaishou.com'
 - '+.redirector.gvt1.com'
+- '+.variations.brave.com'
+- '+.go-updater.brave.com'
