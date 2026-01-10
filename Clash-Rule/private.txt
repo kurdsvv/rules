@@ -71,3 +71,5 @@ payload:
 - '+.pikpakdrive.com'
 - '+.similarsites.com'
 - '+.similarcdn.com'
+- '+.www.52av.one'
+- '+.yocoolnet.in'
