@@ -165,3 +165,5 @@ payload:
 - '+.dns.alidns.com'
 - '+.bytegoofy.com'
 - '+.bytetcc.com'
+- '+.bytedance.com'
+- '+.bytescm.com'
