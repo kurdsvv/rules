@@ -167,3 +167,4 @@ payload:
 - '+.bytetcc.com'
 - '+.bytedance.com'
 - '+.bytescm.com'
+- '+.smtcdns.net'
