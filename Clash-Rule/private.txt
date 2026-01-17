@@ -73,3 +73,4 @@ payload:
 - '+.similarcdn.com'
 - '+.www.52av.one'
 - '+.yocoolnet.in'
+- '+.pickpackapp.com'
