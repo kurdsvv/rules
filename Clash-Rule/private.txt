@@ -74,3 +74,5 @@ payload:
 - '+.www.52av.one'
 - '+.yocoolnet.in'
 - '+.pickpackapp.com'
+- '+.hboav.com'
+- '+.5278.cc'
