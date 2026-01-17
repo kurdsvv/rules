@@ -76,3 +76,5 @@ payload:
 - '+.pickpackapp.com'
 - '+.hboav.com'
 - '+.5278.cc'
+- '+.t66y.com'
+- '+.sisurl.com'
