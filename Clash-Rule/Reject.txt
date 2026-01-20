@@ -1734,3 +1734,7 @@ payload:
 - '+.redirector.gvt1.com'
 - '+.variations.brave.com'
 - '+.go-updater.brave.com'
+- '+.tgads.telegram.org'
+- '+.ads.telegram.org'
+- '+.sponsored.telegram.org'
+- '+.ads.tlgrm.ru'
