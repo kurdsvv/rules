@@ -168,3 +168,6 @@ payload:
 - '+.bytedance.com'
 - '+.bytescm.com'
 - '+.smtcdns.net'
+- '+.onetrust.com'
+- '+.stripe.com'
+- '+.stripe.network'
