@@ -1012,7 +1012,6 @@ payload:
 - 'openapi.ccrgt.com'
 - 'lf3-data.volccdn.com'
 - 'www.cnca.gov.cn'
-- 'geolocation.onetrust.com'
 - 'click.gamersky.com'
 - 'p2p-punch.xxpkg.com'
 - 'p2p-punch-v6.xxpkg.com'
