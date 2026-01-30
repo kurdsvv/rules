@@ -9,8 +9,6 @@ payload:
 - 'log5-applog.fqnovel.com'
 - 'rtlog5-applog-lq.fqnovel.com'
 - 'ad-ocpx.zhltech.net'
-- 'r.stripe.com'
-- 'q.stripe.com'
 - 'vibe.sleepyinternetfun.xyz'
 - 'mlvbdc.live.qcloud.com'
 - 'conf.qvb.qcloud.com'
