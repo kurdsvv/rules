@@ -171,3 +171,4 @@ payload:
 - '+.onetrust.com'
 - '+.stripe.com'
 - '+.stripe.network'
+- '+.static.redircdn.com'
