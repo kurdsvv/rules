@@ -55,3 +55,16 @@ ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
     - {name:
      - 
 
+6.🔒 锁这个文件
+icacls "%APPDATA%\Telegram Desktop\Updater.exe" /deny %USERNAME%:(F)
+
+icacls "%APPDATA%\Telegram Desktop\Updater.exe" /remove:d %USERNAME%
+
+7.🔒 锁这个目录
+icacls "%APPDATA%\Telegram Desktop" /inheritance:r
+
+icacls "%APPDATA%\Telegram Desktop" /grant Users:(OI)(CI)RX
+
+icacls "%APPDATA%\Telegram Desktop" /deny Users:(OI)(CI)(W,WD,AD,DC)
+
+icacls "%APPDATA%\Telegram Desktop" /remove:d Users
