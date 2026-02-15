@@ -1,16 +1,16 @@
-1.##排序节点
+1.排序节点
 ```
 awk -F, -v OFS=',' '!seen[$2 FS $3]++' file.csv > output.csv
 ```
 
-2.##格式化日志
+2.格式化日志
 ```
 awk -F. '{if (NF>=2) print $(NF-1)"."$NF}' domains.txt | sort | uniq -c | sort -nr
  
 awk -F'"QH":' '{print $2}' data.txt | awk -F'"' '{print $2}'
 ```
 
-3.##排序域名
+3.排序域名
 ```powershell
 awk -F'[.]' '
 {
@@ -35,7 +35,7 @@ END {
 }
 ' input.txt > output.txt
 ```
-4.##合并文件夹所有ts
+4.合并文件夹所有ts
 ```
 cd C:\path\to\ts_files
 
@@ -56,7 +56,7 @@ ForEach-Object {
 
 ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
 ```
-5.##Clash-verge格式存储
+5.Clash-verge格式存储
 ```
     - {name:
      - 
