@@ -80,3 +80,11 @@ payload:
 - '+.sisurl.com'
 - '+.edu.kg'
 - '+.ip2free.com'
+
+##reddit
+- '+.reddit.com'
+- '+.redd.it'
+- '+.redditmedia.com'
+- '+.redditspace.com'
+- '+.redditstatic.com'
+- '+.rlcdn.com'
