@@ -39,8 +39,6 @@ END {
 ```
 cd C:\path\to\ts_files
 
-(for %i in (*.ts) do @echo file '%i') > filelist.txt
-
 Get-ChildItem *.ts |
 Sort-Object {
     if ($_.BaseName -match '_(\d+)$') {
@@ -52,6 +50,7 @@ Sort-Object {
 ForEach-Object {
     "file '$($_.Name)'"
 } | Set-Content filelist.txt -Encoding UTF8
+
 
 
 ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
