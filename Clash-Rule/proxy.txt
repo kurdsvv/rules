@@ -117,3 +117,5 @@ payload:
 - '+.xiaoxintv.net'
 - '+.aqw.sisurl.com'
 - '+.t66y.com'
+- '+.duckduckgo.com'
+- '+.duck.ai'
