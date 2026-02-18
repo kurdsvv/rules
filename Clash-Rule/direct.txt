@@ -10,7 +10,6 @@ payload:
 - '+.cdnlz9.com'
 - '+.chouti.com'
 - '+.cjkypo.com'
-- '+.csp.withgoogle.com'
 - '+.digicert.com'
 - '+.douyu.com'
 - '+.douyuscdn.com'
