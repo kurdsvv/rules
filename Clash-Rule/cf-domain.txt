@@ -279,6 +279,7 @@ payload:
 - '+.casacam.net'
 - '+.ooguy.com'
 - '+.loseyourip.com'
+- '+.cdn2.aznude.com'
 
 
 
