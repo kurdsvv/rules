@@ -88,3 +88,4 @@ payload:
 - '+.redditspace.com'
 - '+.redditstatic.com'
 - '+.rlcdn.com'
+- '+.copilot.microsoft.com'
