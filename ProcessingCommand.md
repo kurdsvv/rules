@@ -77,3 +77,7 @@ icacls "%APPDATA%\Telegram Desktop" /deny Users:(OI)(CI)(W,WD,AD,DC)
 
 icacls "%APPDATA%\Telegram Desktop" /remove:d Users
 ```
+8.转录文件
+```
+for %i in (*.webm) do ffmpeg -i "%i" "%~ni.mp4"
+```
