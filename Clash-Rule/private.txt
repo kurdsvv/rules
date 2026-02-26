@@ -88,4 +88,7 @@ payload:
 - '+.redditspace.com'
 - '+.redditstatic.com'
 - '+.rlcdn.com'
-- '+.copilot.microsoft.com'
+##司机社
+- '+.xsijishe.net'
+- '+.sjs47.com'
+- '+.urlimage.cc'
