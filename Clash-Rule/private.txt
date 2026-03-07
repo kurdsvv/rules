@@ -92,3 +92,11 @@ payload:
 - '+.xsijishe.net'
 - '+.sjs47.com'
 - '+.urlimage.cc'
+
+##pikpak
+- '+.mypikpak.com'
+- '+.mypikpak.net'
+- '+.pikpak.io'
+- '+.pikpak.me'
+- '+.pikpakdrive.com'
+
