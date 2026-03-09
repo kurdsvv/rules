@@ -282,5 +282,13 @@ payload:
 - '+.aznude.com'
 - '+.azmen.com'
 
+##pikpak
+- '+.mypikpak.com'
+- '+.mypikpak.net'
+- '+.pikpak.io'
+- '+.pikpak.me'
+- '+.pikpakdrive.com'
+- '+.mypikpak.net'
+
 
 
