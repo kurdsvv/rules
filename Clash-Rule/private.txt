@@ -64,9 +64,8 @@ payload:
 - '+.videodelivery.net'
 - '+.warp.plus'
 - '+.workers.dev'
-- '+.mypikpak.com'
 - '+.adjust.com'
-- '+.mypikpak.net'
+
 - '+.pikpak.me'
 - '+.pikpakdrive.com'
 - '+.similarsites.com'
@@ -92,11 +91,4 @@ payload:
 - '+.xsijishe.net'
 - '+.sjs47.com'
 - '+.urlimage.cc'
-
-##pikpak
-- '+.mypikpak.com'
-- '+.mypikpak.net'
-- '+.pikpak.io'
-- '+.pikpak.me'
-- '+.pikpakdrive.com'
 
