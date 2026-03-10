@@ -290,10 +290,5 @@ payload:
 - '+.pikpakdrive.com'
 - '+.mypikpak.net'
 - '+.pickpackapp.com'
-##论坛
-- '+.www.52av.one'
-- '+.yocoolnet.in'
-- '+.gcbt.net'
-- '+.coolinet.net'
-- '+.d1erix.vip'
+
 
