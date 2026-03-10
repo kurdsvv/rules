@@ -56,6 +56,7 @@ payload:
 ##69shu
 - '+.1853723.xyz'
 - '+.69shuba.com'
+- '+.cdnshu.com'
 
 #cloudfare
 
