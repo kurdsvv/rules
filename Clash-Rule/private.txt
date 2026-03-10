@@ -86,6 +86,7 @@ payload:
 - '+.urlimage.cc'
 - '+.2048.vip'
 - '+.wlm0j.com'
+- '+.erogarga.com'
 ##BT搜索
 - '+.bt4gprx'
 - '+.laowangso.top'
