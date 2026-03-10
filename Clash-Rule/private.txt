@@ -73,7 +73,8 @@ payload:
 - '+.sisurl.com'
 - '+.edu.kg'
 - '+.ip2free.com'
-
+- '+.challenges.cloudflare.com'
+- '+.static.cloudflareinsights.com'
 ##reddit
 - '+.reddit.com'
 - '+.redd.it'
