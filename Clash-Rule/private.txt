@@ -89,6 +89,7 @@ payload:
 - '+.erogarga.com'
 - '+.91cg.city'
 - '+.51cg1.com'
+- '+.5278.cc'
 ##BT搜索
 - '+.bt4gprx'
 - '+.laowangso.top'
