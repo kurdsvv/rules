@@ -14,5 +14,6 @@ payload:
 - '+.oaiusercontent.com'
 - '+.openaiapi-site.azureedge.net'
 - '+.sentry.io'
-
+- '+.grok.com'
+- '+.copilot.microsoft.com'
 
