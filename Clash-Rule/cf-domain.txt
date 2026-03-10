@@ -293,7 +293,7 @@ payload:
 ##论坛
 - '+.www.52av.one'
 - '+.yocoolnet.in'
-- '+.5278.cc'
 - '+.gcbt.net'
 - '+.coolinet.net'
 - '+.d1erix.vip'
+
