@@ -87,6 +87,8 @@ payload:
 - '+.2048.vip'
 - '+.wlm0j.com'
 - '+.erogarga.com'
+- '+.91cg.city'
+- '+.51cg1.com'
 ##BT搜索
 - '+.bt4gprx'
 - '+.laowangso.top'
