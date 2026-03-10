@@ -80,7 +80,12 @@ payload:
 - '+.redditspace.com'
 - '+.redditstatic.com'
 - '+.rlcdn.com'
-##司机社
+##司机社论坛
+- '+.www.52av.one'
+- '+.yocoolnet.in'
+- '+.gcbt.net'
+- '+.coolinet.net'
+- '+.d1erix.vip'
 - '+.xsijishe.net'
 - '+.sjs47.com'
 - '+.urlimage.cc'
