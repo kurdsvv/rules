@@ -330,5 +330,5 @@ payload:
 - '+.one.one.one'
 - '+.pacloudflare.com'
 - '+.challenges.cloudflare.com'
-
+- '+.51cg.fun'
 
