@@ -81,11 +81,3 @@ icacls "%APPDATA%\Telegram Desktop" /remove:d Users
 ```
 for %i in (*.webm) do ffmpeg -i "%i"  -c:v h264_nvenc "%~ni.mp4"
 ```
-9.ECH 域名
-```
-crypto.cloudflare.com
-cloudflare-ech.com
-```
-
-
-crypto.cloudflare.com
