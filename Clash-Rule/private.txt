@@ -6,8 +6,12 @@ payload:
 - '+.cf.090227.xyz'
 - '+.api-iptest.bestip.one'
 - '+.o00o.ooo'
+- '+.dpdns.org'
+- '+.de5.net'
 - '33898443.xyz'
-- '3498416.cfd'
+- '+.cfd'
+- '+.ccwu.cc'
+- '+.shop'
 - '+.ai'
 #国际华为
 - '+.huaweicloud.com'
