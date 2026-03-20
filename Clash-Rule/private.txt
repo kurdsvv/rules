@@ -13,16 +13,7 @@ payload:
 - '+.ccwu.cc'
 - '+.shop'
 - '+.ai'
-- '+.cloudflare-ech.com'
-- '+.crypto.cloudflare.com'
-- '+.cloudflare-ech.com'
-- '+.ech.cloudflare.com'
-- '+.cloudflare-esni.com'
-- '+.encryptedsni.com'
-- '+.cloudflare-http1.com'
-- '+.cloudflare-http2.com'
-- '+.cloudflare-http3.com'
-- '+.cloudflare-quic.com'
+
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
