@@ -13,7 +13,7 @@ payload:
 - '+.ccwu.cc'
 - '+.shop'
 - '+.ai'
-
+- '+.dns.google.com'
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
