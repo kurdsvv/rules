@@ -291,4 +291,4 @@ payload:
 - '+.mypikpak.net'
 - '+.pickpackapp.com'
 - '+.51cg.fun'
-
+- '+.cg51.com'
