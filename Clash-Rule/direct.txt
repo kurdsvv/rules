@@ -143,3 +143,5 @@ payload:
 - '+.cloudflare-http2.com'
 - '+.cloudflare-http3.com'
 - '+.cloudflare-quic.com'
+- '+.mtalk.google.com'
+- '+.android.clients.google.com'
