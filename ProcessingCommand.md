@@ -80,4 +80,6 @@ icacls "%APPDATA%\Telegram Desktop" /remove:d Users
 8.转录文件
 ```
 for %i in (*.webm) do ffmpeg -i "%i"  -c:v h264_nvenc "%~ni.mp4"
+
+for %i in (*.webm) do ffmpeg -i "%i" -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -pix_fmt yuv420p -c:v h264_nvenc -preset p4 "%~ni.mp4"
 ```
