@@ -1724,3 +1724,4 @@ payload:
 - '+.ads.telegram.org'
 - '+.sponsored.telegram.org'
 - '+.ads.tlgrm.ru'
+- '+.bandicam.com'
