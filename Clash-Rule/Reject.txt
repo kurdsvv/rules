@@ -1725,3 +1725,5 @@ payload:
 - '+.sponsored.telegram.org'
 - '+.ads.tlgrm.ru'
 - '+.bandicam.com'
+- '+.bandisoft.com'
+- '+.bandisoft.app'
