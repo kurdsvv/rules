@@ -117,7 +117,6 @@ payload:
 - '+.js.design'
 - '+.yyai8.com'
 - '+.juziseo.com'
-- '+.rutood.com'
 - '+.gcaptcha4.geevisit.com'
 - '+.static.geetest.com'
 - '+.api.geetest.com'
