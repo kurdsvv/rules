@@ -283,6 +283,7 @@ payload:
 - '+.azmen.com'
 - '+.cloudflareinsights.com'
 - '+.rutood.com'
+- '+.twkan.com'
 ##pikpak
 - '+.mypikpak.com'
 - '+.mypikpak.net'
