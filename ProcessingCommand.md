@@ -39,17 +39,12 @@ END {
 ```
 cd C:\path\to\ts_files
 
-Get-ChildItem *.ts |
-Sort-Object {
-    if ($_.BaseName -match '_(\d+)$') {
-        [int]$matches[1]
-    } else {
-        -1
-    }
-} |
-ForEach-Object {
-    "file '$($_.Name)'"
-} | Set-Content filelist.txt -Encoding UTF8
+Get-ChildItem -File *.ts |
+    Sort-Object { [int]$_.BaseName } |
+    ForEach-Object {
+        "file '$($_.Name)'"
+    } |
+    Set-Content filelist.txt -Encoding UTF8
 
 
 
