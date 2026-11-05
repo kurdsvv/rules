@@ -62,7 +62,7 @@ payload:
 - '+.1853723.xyz'
 - '+.69shuba.com'
 - '+.cdnshu.com'
-
+- '+.51shucheng.net'
 #cloudfare
 
 - '+.pages.dev'
@@ -147,3 +147,4 @@ payload:
 - '+.every1dns.net'
 - '+.one.one.one'
 - '+.pacloudflare.com'
+
