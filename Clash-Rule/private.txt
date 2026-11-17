@@ -14,6 +14,7 @@ payload:
 - '+.shop'
 - '+.ai'
 - '+.dns.google.com'
+- '+.uukanshu.cc'
 #国际华为
 - '+.huaweicloud.com'
 - '+.console-intl.huaweicloud.com'
