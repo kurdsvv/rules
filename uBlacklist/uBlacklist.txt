@@ -229,3 +229,17 @@ title/.*(txt下载|笔趣阁|公开课|准妈|孕产|宝宝|养育|专家|药企
 *://yuedu.book.qq.com/*
 *://mreader.novel.qq.com/*
 *://m.chuangshi.qq.com/*
+*://yuedu.novel.qq.com/*
+*://mwenku.novel.qq.com/*
+*://wenku.novel.qq.com/*
+*://wbook.read.qq.com/*
+*://www.iqiyi.com/*
+*://www.nikkatsu.com/*
+*://njavtv.com/*
+*://word.baidu.com/*
+*://www.readnovel.com/*
+*://mshuku.read.qq.com/*
+*://m.1qxs.com/*
+*://mbook.read.qq.com/*
+*://www.1qxs.com/*
+*://trxs.me/*
