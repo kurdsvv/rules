@@ -286,6 +286,7 @@ payload:
 - '+.twkan.com'
 - '+.javday.app'
 - '+.javday.homes'
+- '+.huangguoai.com'
 ##pikpak
 - '+.mypikpak.com'
 - '+.mypikpak.net'
