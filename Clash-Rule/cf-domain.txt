@@ -284,6 +284,8 @@ payload:
 - '+.cloudflareinsights.com'
 - '+.rutood.com'
 - '+.twkan.com'
+- '+.javday.app'
+- '+.javday.homes'
 ##pikpak
 - '+.mypikpak.com'
 - '+.mypikpak.net'
