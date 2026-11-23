@@ -287,6 +287,7 @@ payload:
 - '+.javday.app'
 - '+.javday.homes'
 - '+.huangguoai.com'
+- '+.bad.news'
 ##pikpak
 - '+.mypikpak.com'
 - '+.mypikpak.net'
