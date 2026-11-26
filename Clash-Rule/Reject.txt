@@ -1452,7 +1452,6 @@ payload:
 - 'uptn.nv7s.com'
 - 'msch.f.360.cn'
 - 'smvconf.f.360.cn'
-- 'x.com'
 - 'ctcdwm.com'
 - 'wmccd.com'
 - 'complainguyseaweed.com'
