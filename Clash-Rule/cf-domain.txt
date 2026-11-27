@@ -289,6 +289,8 @@ payload:
 - '+.huangguoai.com'
 - '+.bad.news'
 - '+.twkan.com'
+- '+.x.com'
+- '+.twimg.com'
 ##pikpak
 - '+.mypikpak.com'
 - '+.mypikpak.net'
